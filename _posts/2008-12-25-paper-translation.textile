@@ -1,0 +1,13 @@
+---
+title: Translation as Weighted Deduction
+year: 2008
+booktitle: EACL 2009
+type: paper
+papers:
+  paper:
+  - title: Translation as Weighted Deduction
+  paper:
+  - title: Translation by Pattern Matching
+---
+
+blah blah blah.
