@@ -1,0 +1,21 @@
+
+---
+layout: paper
+paper-type: inproceedings
+authors: David Chiang, Adam Lopez, Nitin Madnani, Christof Monz, Philip Resnik, and Michael Subotin
+title: The Hiero Machine Translation System&#58; Extensions, Evaluation, and Analysis
+pages: 779&ndash;786
+booktitle: Proceedings of HLT/EMNLP
+booktitle-url: http://www.cs.utexas.edu/~ml/HLT-EMNLP05/
+url: http://homepages.inf.ed.ac.uk/alopez/papers/hltemnlp2005-clmmrs.pdf
+slides: http://homepages.inf.ed.ac.uk/alopez/talks/emnlp2005.pdf
+abstract: >
+  Hierarchical organization is a well known property of language, and
+  yet the notion of hierarchical structure has been largely absent from
+  the best performing machine translation systems in recent community-wide
+  evaluations.  In this paper, we discuss a new hierarchical phrase-based
+  statistical machine translation system (Chiang, 2005), presenting
+  recent extensions to the original proposal, new evaluation results in
+  a community-wide evaluation, and a novel technique for fine-grained
+  comparative analysis of MT systems.
+---

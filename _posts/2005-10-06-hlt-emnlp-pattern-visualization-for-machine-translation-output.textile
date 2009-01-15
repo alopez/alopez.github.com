@@ -1,0 +1,19 @@
+
+---
+layout: paper
+paper-type: inproceedings
+authors: Adam Lopez and Philip Resnik
+title: Pattern Visualization for Machine Translation Output
+pages: 12&ndash;13
+booktitle: Proceedings of HLT/EMNLP Demonstrations
+booktitle-url: http://www.cs.utexas.edu/~ml/HLT-EMNLP05/
+url: http://homepages.inf.ed.ac.uk/alopez/papers/hltemnlp.demo2005-lr.pdf
+slides: http://homepages.inf.ed.ac.uk/alopez/talks/emnlp2005-demo.pdf
+abstract: >
+  We describe a method for identifying systematic patterns in translation 
+  data using part-of-speech tag sequences. We incorporate this analysis 
+  into a diagnostic tool intended for developers of machine translation 
+  systems, and demonstrate how our application can be used by developers to 
+  explore patterns in machine translation output. 
+---
+

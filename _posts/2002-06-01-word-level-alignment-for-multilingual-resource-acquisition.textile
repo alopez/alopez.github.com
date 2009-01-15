@@ -1,0 +1,17 @@
+
+---
+layout: paper
+paper-type: inproceedings
+authors: Adam Lopez, Michael Nossal, Rebecca Hwa,  and Philip Resnik
+title: Word-Level Alignment for Multilingual Resource Acquisition
+pages: 34&ndash;42
+booktitle: Proceedings of the LREC Workshop on Linguistic Knowledge Acquisition and Representation&mdash;Bootstrapping Annotated Language Data
+booktitle-url: http://www.lrec-conf.org/lrec2002/lrec/wksh/Bootstrapping.html
+url: http://homepages.inf.ed.ac.uk/alopez/papers/lrec2002-lnhr.pdf
+slides: http://homepages.inf.ed.ac.uk/alopez/talks/lrec02-slides.pdf
+abstract: >
+  We present a simple, one-pass word alignment algorithm for parallel text. Our algorithm utilizes synchronous parsing and takes advantage 
+  of existing syntactic annotations. In our experiments the performance of this model is comparable to more complicated iterative methods. 
+  We discuss the challenges and potential beneﬁts of using this model to train syntactic parsers for new languages.
+---
+

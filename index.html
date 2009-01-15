@@ -23,12 +23,12 @@ Philip(p) at IBM or Duke.  See my University
 <a href="http://homepages.inf.ed.ac.uk/alopez">homepage</a> for my academic
 history.
 
-<h2>Recent Publications</h2>
+<h2>Publications</h2>
 <ul class="posts">
   {% for post in site.posts %}
-    {% if post.layout== 'paper' %}
+    {% if post.layout == 'paper' %}
       <li><a href="{{ post.url }}">
-        {{ post.title }}{% if post.date > site.time %} (DRAFT){% endif %}</a>.
+        {{ post.title }}{% if post.date > site.time %} (DRAFT){% endif %}</a>{% if post.title contains '?' %}{% else %}.{% endif %}
       {{ post.authors }}.  
       {% case post.paper-type %}
         {% when "inproceedings" %}
@@ -58,3 +58,19 @@ history.
   {% endfor %}
 </ul>
 
+<h2>Talks and Tutorials</h2>
+Over the last few years I have come around to the view that slides are visual 
+aids for talks, so I make no representation that they stand on their own 
+without an accompanying narration. (At least the later ones. Some of the 
+earlier ones contain complete sentences.) Even so, I occasionally get requests 
+for them. Here they are.
+<ul class="posts">
+  {% for post in site.posts %}
+    {% if post.layout =='talk' %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a>.
+      {% if post.venue %}{{ post.venue }},{% endif %}
+      {{ post.date | date: "%B %Y" }}.
+      {% if post.note %}{{ post.note }}{% endif %}
+    {% endif %}
+  {% endfor %}
+</ul>

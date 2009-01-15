@@ -4,6 +4,7 @@ layout: paper
 paper-type: inproceedings
 authors: Adam Lopez
 title: Tera-Scale Translation Models via Pattern Matching
+pages: 505&ndash;512
 booktitle: Proceedings of COLING 
 booktitle-url: http://www.coling2008.org.uk/
 url: http://homepages.inf.ed.ac.uk/alopez/papers/coling2008-lopez.pdf
