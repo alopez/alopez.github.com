@@ -47,7 +47,7 @@ history.
       <a href="javascript:unhide('abstract{{ post.id }}')">[abstract]</a>
       {% if post.errata %}<a href="javascript:unhide('errata{{ post.id }}')">[errata]</a>{% endif %}
       {% if post.slides %}<a href="{{ post.slides }}">[slides]</a>{% endif %}
-      <div id="abstract{{ post.id }}" class="hidden-abstract">{{ post.content }}</div>
+      <div id="abstract{{ post.id }}" class="hidden-abstract">{{ post.abstract }}</div>
       {%if post.errata %}<div id="errata{{ post.id }}" class="hidden-abstract">{{ post.errata }}</div>{% endif %}
       </li>
     {% endif %}
