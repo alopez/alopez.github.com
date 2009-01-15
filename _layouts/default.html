@@ -32,7 +32,15 @@
 
   <div class="content">
     {{ content }}
-  </div> 
+    <div class="footer">
+      Last updated on {{ site.time | date: "%B %d, %Y" }}.  Site created using 
+      <a href="http://git-scm.com/">git</a>,
+      <a href="http://github.com/mojombo/jekyll/tree/master">jekyll</a>,
+      and <a href="http://www.vim.org/">vim</a>.  
+      Please feel free to reuse the 
+      <a href="http://github.com/alopez/alopez.github.com/tree/master">source code</a>.
+    </div>
+ </div> 
 
 </div>
 

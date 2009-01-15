@@ -30,23 +30,27 @@ history.
       <li><a href="{{ post.url }}">
         {{ post.title }}{% if post.date > site.time %} (DRAFT){% endif %}</a>.
       {{ post.authors }}.  
-      {% if post.date > site.time %}To appear in{% else %}In{% endif %}
       {% case post.paper-type %}
         {% when "inproceedings" %}
+          {% if post.date > site.time %}To appear in{% else %}In{% endif %}
           {% if post.booktitle-url %}<a subtle="yes" href="{{ post.booktitle-url}}">{% endif %}
             <i>{{ post.booktitle }}</i>{% if post.booktitle-url %}</a>{% endif %},
           {% if post.pages %}pages {{ post.pages }},{% endif %}
         {% when "article" %}
+          {% if post.date > site.time %}To appear in{% else %}In{% endif %}
           {% if post.journal-url %}<a subtle="yes" href="{{ post.journal-url }}">{% endif %}
             <i>{{ post.journal }}</i>{% if post.journal-url %}</a>{% endif %}
             {{ post.volume }}({{ post.number }}),
             {% if post.article%}Article {{ post.article}},{% endif %}
             {% if post.pages %}pages {{ post.pages }},{% endif %}
+        {% when "dissertation" %}
+          Dissertation, {{ post.institution }}.
       {% endcase %} 
       {{ post.date | date: "%B %Y" }}.
       <a href="javascript:unhide('abstract{{ post.id }}')">[abstract]</a>
       {% if post.errata %}<a href="javascript:unhide('errata{{ post.id }}')">[errata]</a>{% endif %}
       {% if post.slides %}<a href="{{ post.slides }}">[slides]</a>{% endif %}
+      {% if post.latex %}<a href="{{ post.latex }}">[LaTeX source]</a>{% endif %}
       <div id="abstract{{ post.id }}" class="hidden-abstract">{{ post.abstract }}</div>
       {%if post.errata %}<div id="errata{{ post.id }}" class="hidden-abstract">{{ post.errata }}</div>{% endif %}
       </li>
