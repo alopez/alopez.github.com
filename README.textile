@@ -1,5 +1,17 @@
-h1. This is the data for my blog
+h1. This is the data for my homepages 
 
-It is automatically transformed by "Jekyll":http://github.com/mojombo/jekyll 
-into a static site whenever I push this repository to GitHub.
+It is processed by "Jekyll":http://github.com/mojombo/jekyll 
+to create a static site.  This is done automatically when the
+repo is pushed to github.
+
+This page is an attempt to create an *academic* webpage using
+jekyll, including all of my publications and talks.  The basic
+idea is for the papers and talks to show up as stories in a 
+news feed.  The post items themselves act as a database which
+is used to populate the main page.  I doubt anyone intended
+for jekyll to be used this way, but it seems flexible enough
+and it seems to work.
+
+I might also use it for blogging, but don't hold your breath.
+
 
