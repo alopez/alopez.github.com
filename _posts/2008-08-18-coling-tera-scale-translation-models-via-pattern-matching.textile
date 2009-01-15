@@ -1,0 +1,19 @@
+
+---
+layout: paper
+paper-type: inproceedings
+authors: Adam Lopez
+title: Tera-Scale Translation Models via Pattern Matching
+booktitle: Proceedings of COLING 
+booktitle-url: http://www.coling2008.org.uk/
+url: http://homepages.inf.ed.ac.uk/alopez/papers/coling2008-lopez.pdf
+slides: http://homepages.inf.ed.ac.uk/alopez/talks/coling_2008.pdf
+---
+
+Translation model size is growing at a pace that outstrips improvements in 
+computing power, and this hinders research on many interesting models.  We 
+show how an algorithmic scaling technique can be used to easily handle very 
+large models.  Using this technique, we explore several large model variants 
+and show an improvement 1.4 BLEU on the NIST 2006 Chinese-English task.  This 
+opens the door for work on a variety of models that are much less constrained 
+by computational limitations.

@@ -2,9 +2,55 @@
 layout: default
 title: Adam Lopez 
 ---
+<script type="text/javascript">
+function unhide(divID) {
+  var item = document.getElementById(divID);
+    if (item) {
+      item.className=(item.className=='hidden-abstract')?'unhidden-abstract':'hidden-abstract';
+    }
+  }
+</script>
 
 <h2>Biography</h2>
-<p>I am a research fellow at the University of Edinburgh.  See my University
-<a href="http://homepages.inf.ed.ac.uk/alopez">homepage</a> (for now).
+<p>I am a postdoctoral research fellow working with 
+<a href="http://www.iccs.informatics.ed.ac.uk/~pkoehn/">Philipp Koehn</a> on 
+<a href="http://www.statmt.org">statistical machine translation</a>.  I earned 
+my Ph.D. in computer science at the University of Maryland, where I worked 
+with  <a href="http://www.umiacs.umd.edu/%7Eresnik">Philip Resnik</a>.  Prior 
+to graduate school, I was a software engineer at IBM, and prior to that I 
+studied computer science at Duke University.  I did not work with anyone named 
+Philip(p) at IBM or Duke.  See my University
+<a href="http://homepages.inf.ed.ac.uk/alopez">homepage</a> for my academic
+history.
 
+<h2>Recent Publications</h2>
+<ul class="posts">
+  {% for post in site.posts %}
+    {% if post.layout== 'paper' %}
+      <li><a href="{{ post.url }}">
+        {{ post.title }}{% if post.date > site.time %} (DRAFT){% endif %}</a>.
+      {{ post.authors }}.  
+      {% if post.date > site.time %}To appear in{% else %}In{% endif %}
+      {% case post.paper-type %}
+        {% when "inproceedings" %}
+          {% if post.booktitle-url %}<a subtle="yes" href="{{ post.booktitle-url}}">{% endif %}
+            <i>{{ post.booktitle }}</i>{% if post.booktitle-url %}</a>{% endif %},
+          {% if post.pages %}pages {{ post.pages }},{% endif %}
+        {% when "article" %}
+          {% if post.journal-url %}<a subtle="yes" href="{{ post.journal-url }}">{% endif %}
+            <i>{{ post.journal }}</i>{% if post.journal-url %}</a>{% endif %}
+            {{ post.volume }}({{ post.number }}),
+            {% if post.article%}Article {{ post.article}},{% endif %}
+            {% if post.pages %}pages {{ post.pages }},{% endif %}
+      {% endcase %} 
+      {{ post.date | date: "%B %Y" }}.
+      <a href="javascript:unhide('abstract{{ post.id }}')">[abstract]</a>
+      {% if post.errata %}<a href="javascript:unhide('errata{{ post.id }}')">[errata]</a>{% endif %}
+      {% if post.slides %}<a href="{{ post.slides }}">[slides]</a>{% endif %}
+      <div id="abstract{{ post.id }}" class="hidden-abstract">{{ post.content }}</div>
+      {%if post.errata %}<div id="errata{{ post.id }}" class="hidden-abstract">{{ post.errata }}</div>{% endif %}
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
 

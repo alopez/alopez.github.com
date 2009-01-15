@@ -28,6 +28,24 @@ p {
 
 a {
   color: #00a;
+  text-decoration: none;
+}
+
+a[subtle="yes"] {
+  color: black;
+}
+
+.hidden-absctract, .unhidden-abstract {
+  text-indent: 0pt;
+  margin: 10pt;
+}
+
+.hidden-abstract { 
+  display: none; 
+}
+
+.unhidden-abstract { 
+  display: block; 
 }
 
 
@@ -39,9 +57,14 @@ a {
 
 ul {
   list-style-type: none;
-  margin-bottom: 2em;
+  margin-bottom: 5pt;
 }
 
+li {
+  text-indent: -10pt;
+  margin-left: 10pt;
+  margin-top: 5pt;
+}
 /*****************************************************************************/
 /*
 /* Site

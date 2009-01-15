@@ -1,0 +1,38 @@
+
+---
+layout: paper
+paper-type: article
+authors: Adam Lopez
+title: Statistical Machine Translation
+journal: ACM Computing Surveys
+journal-url: http://portal.acm.org/browse_dl.cfm?linked=1&part=journal&idx=J204&coll=ACM&dl=ACM&CFID=17955848&CFTOKEN=69110586
+volume: 40
+number: 3
+article: 8
+pages: 1&ndash;49
+url: http://homepages.inf.ed.ac.uk/alopez/papers/survey.pdf
+errata: >
+  The reference for Banerjee and Lavie (2005) on p. 39 is missing. It should be:
+  <ul><li>
+  S. Banerjee and A. Lavie. METEOR: An Automatic Metric for MT Evaluation with 
+  Improved Correlation with Human Judgments. In Proceedings of the ACL 2005 
+  Workshop on Intrinsic and Extrinsic Evaulation Measures for MT and/or 
+  Summarization, 2005.
+  </li></ul>
+  Thanks to Matt Snover for pointing this out.
+---
+
+Statistical machine translation (SMT) treats the 
+translation of natural language as a machine learning
+problem.  By examining many samples of human-produced
+translation, SMT algorithms automatically learn how to translate.
+SMT has made tremendous strides in less than two decades, and
+new ideas are constantly introduced.
+This survey presents a tutorial overview of the state-of-the-art. 
+We describe the context of the current research
+and then move to a formal problem description and an overview
+of the main subproblems: translation modeling, parameter estimation,
+and decoding.  Along the way, we present a taxonomy of some
+different approaches within these areas.  We conclude
+with an overview of evaluation and a discussion of future directions.
+                          
