@@ -10,17 +10,17 @@ layout: nil
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://alopez.github.com/</id>
  <author>
-   <name>Adam Lopez</name>
+   <name>Adam Lopez papers and talks</name>
    <email>alopez@inf.ed.ac.uk</email>
  </author>
 
  {% for post in site.posts %}
  <entry>
    <title>{{ post.title }}</title>
-   <link href="http://alopez.github.com{{ post.url }}"/>
+   <link href="{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>http://http://alopez.github.com{{ post.id }}</id>
-   <content type="html">{{ post.abstract}}</content>
+   <content type="html">{{ post.abstract }}</content>
  </entry>
  {% endfor %}
  
