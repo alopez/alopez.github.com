@@ -1,0 +1,8 @@
+
+---
+layout: talk
+title: Inside the Hiero Decoder
+url: http://homepages.inf.ed.ac.uk/alopez/talks/decoder_boot_camp.pdf
+venue: Tutorial given at the University of Maryland
+---
+

@@ -1,0 +1,8 @@
+
+---
+layout: talk
+title: Statistical Machine Translation
+url: http://homepages.inf.ed.ac.uk/alopez/talks/union.pdf
+venue: Invited talk at Union College
+---
+
