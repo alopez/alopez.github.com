@@ -8,6 +8,7 @@ pages: 83&ndash;86
 booktitle: Proceedings of the ACL 2005 Workshop on Building and Using Parallel Texts&#58; Data Driven Machine Translation and Beyond
 booktitle-url: http://www.statmt.org/wpt05/
 url: http://homepages.inf.ed.ac.uk/alopez/papers/wpt2005-lr.pdf
+slides: http://homepages.inf.ed.ac.uk/alopez/talks/wpt05-slides.pdf
 abstract: >
   We introduce improvements to statistical word 
   alignment based on the Hidden Markov 
