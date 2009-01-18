@@ -35,7 +35,7 @@ a[subtle="yes"] {
   color: black;
 }
 
-.hidden-absctract, .unhidden-abstract {
+.hidden-abstract, .unhidden-abstract {
   text-indent: 0pt;
   margin: 10pt;
 }
@@ -46,6 +46,8 @@ a[subtle="yes"] {
 
 .unhidden-abstract { 
   display: block; 
+  padding: 5pt;
+  background-color: #D8D8D8;
 }
 
 
