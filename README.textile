@@ -1,11 +1,14 @@
 h1. This is the data for my homepage 
 
 It is processed by "Jekyll":http://github.com/mojombo/jekyll 
-to create a static site.  This is done automatically when the
-repo is pushed to github.  The results are currently located
-"here":http://alopez.github.com.
+to create a static site.  This is currently mirrored to my
+"University website":http://homepages.inf.ed.ac.uk/alopez
+and my "github page":http://alopez.github.com.  Github runs
+the data through jekyll automatically when I push to this
+repository.
 
-This page is an attempt to create an *academic* webpage using
+This page is somewhat different from other github pages, because
+it's an *academic* webpage that I created using
 jekyll, including all of my publications and talks.  The basic
 idea is for the papers and talks to show up as stories in a 
 news feed.  The post items themselves act as a database which
@@ -13,6 +16,9 @@ is used to populate the main page.  I doubt anyone intended
 for jekyll to be used this way, but it is flexible enough
 and it seems to work.
 
-I might also use it for blogging, but don't hold your breath.
-
-
+I don't imagine that there are too many people waiting with
+great anticipation for my next publication, but I certainly 
+wouldn't mind being alerted when some of my favorite authors
+put up their preprints and camera-ready papers, so feel free 
+to download my website template, customize it,  and populate with 
+your own papers.  
