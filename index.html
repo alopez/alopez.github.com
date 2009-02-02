@@ -25,8 +25,8 @@ Philip(p) at IBM or Duke.
 <ul class="posts">
   {% for post in site.posts %}
     {% if post.layout == 'paper' %}
-      <li><a href="{{ post.url }}">
-        {{ post.title }}{% if post.date > site.time %} (DRAFT){% endif %}</a>{% if post.title contains '?' %}{% else %}.{% endif %}
+      <li>{% if post.url %}<a href="{{ post.url }}">{% endif %}
+        {{ post.title }}{% if post.status %} ({{ post.status }}){% endif %}{% if post.url %}</a>{% endif %}{% if post.title contains '?' %}{% else %}.{% endif %}
       {{ post.authors }}.  
       {% case post.paper-type %}
         {% when "inproceedings" %}
@@ -45,11 +45,11 @@ Philip(p) at IBM or Duke.
           Dissertation, {{ post.institution }}.
       {% endcase %} 
       {{ post.date | date: "%B %Y" }}.
-      <a href="javascript:unhide('abstract{{ post.id }}')">[abstract]</a>
+      {% if post.abstract%}<a href="javascript:unhide('abstract{{ post.id }}')">[abstract]</a>{% endif %}
       {% if post.errata %}<a href="javascript:unhide('errata{{ post.id }}')">[errata]</a>{% endif %}
       {% if post.slides %}<a href="{{ post.slides }}">[slides]</a>{% endif %}
       {% if post.latex %}<a href="{{ post.latex }}">[LaTeX source]</a>{% endif %}
-      <div id="abstract{{ post.id }}" class="hidden-abstract">{{ post.abstract }}</div>
+      {% if post.abstract%}<div id="abstract{{ post.id }}" class="hidden-abstract">{{ post.abstract }}</div>{% endif %}
       {%if post.errata %}<div id="errata{{ post.id }}" class="hidden-abstract">{{ post.errata }}</div>{% endif %}
       </li>
     {% endif %}
