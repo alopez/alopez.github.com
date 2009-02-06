@@ -49,6 +49,7 @@ Philip(p) at IBM or Duke.
       {% if post.errata %}<a href="javascript:unhide('errata{{ post.id }}')">[errata]</a>{% endif %}
       {% if post.slides %}<a href="{{ post.slides }}">[slides]</a>{% endif %}
       {% if post.latex %}<a href="{{ post.latex }}">[LaTeX source]</a>{% endif %}
+      {% if post.code %}<a href="{{ post.code }}">[code]</a>{% endif %}
       {% if post.abstract%}<div id="abstract{{ post.id }}" class="hidden-abstract">{{ post.abstract }}</div>{% endif %}
       {%if post.errata %}<div id="errata{{ post.id }}" class="hidden-abstract">{{ post.errata }}</div>{% endif %}
       </li>
