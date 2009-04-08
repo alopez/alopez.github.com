@@ -2,7 +2,7 @@
 ---
 layout: paper
 paper-type: inproceedings
-authors: Christopher J. Dyer, Abhishek Arun, Barry Haddow, Adam Lopez, Phil Blunsom and Philipp Koehn
+authors: Chris Dyer, Abhishek Arun, Barry Haddow, Adam Lopez, Phil Blunsom and Philipp Koehn
 title: Monte Carlo inference and maximization for phrase-based translation
 url:
 booktitle: Proceedings of CoNLL
