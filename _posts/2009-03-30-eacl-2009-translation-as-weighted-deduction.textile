@@ -6,6 +6,7 @@ title: Translation as Weighted Deduction
 booktitle: Proceedings of EACL
 booktitle-url: http://www.eacl2009.gr/
 url: http://homepages.inf.ed.ac.uk/alopez/papers/eacl2009-lopez.pdf
+slides: http://homepages.inf.ed.ac.uk/alopez/talks/EACL09-lopez-slides.pdf
 abstract: >
   We present a unified view of many translation algorithms that synthesizes 
   work on deductive parsing, semiring parsing, and efficient approximate search 
