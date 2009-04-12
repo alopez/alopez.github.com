@@ -2,7 +2,6 @@
 ---
 layout: paper
 paper-type: inproceedings
-authors: Adam Lopez
 title: Hierarchical Phrase-Based Translation with Suffix Arrays
 pages: 976&ndash;985
 booktitle: Proceedings of EMNLP-CoNLL

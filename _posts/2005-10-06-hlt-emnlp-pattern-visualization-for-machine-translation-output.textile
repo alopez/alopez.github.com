@@ -2,7 +2,7 @@
 ---
 layout: paper
 paper-type: inproceedings
-authors: Adam Lopez and Philip Resnik
+authors: With Philip Resnik
 title: Pattern Visualization for Machine Translation Output
 pages: 12&ndash;13
 booktitle: Proceedings of HLT/EMNLP Demonstrations

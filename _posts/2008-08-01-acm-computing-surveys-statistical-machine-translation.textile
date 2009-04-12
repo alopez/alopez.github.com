@@ -2,7 +2,6 @@
 ---
 layout: paper
 paper-type: article
-authors: Adam Lopez
 title: Statistical Machine Translation
 journal: ACM Computing Surveys
 journal-url: http://portal.acm.org/browse_dl.cfm?linked=1&part=journal&idx=J204&coll=ACM&dl=ACM&CFID=17955848&CFTOKEN=69110586

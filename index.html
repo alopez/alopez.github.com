@@ -37,7 +37,7 @@ Mike Nossal, and
     {% if post.layout == 'paper' %}
       <li>{% if post.url %}<a href="{{ post.url }}">{% endif %}
         {{ post.title }}{% if post.status %} ({{ post.status }}){% endif %}{% if post.url %}</a>{% endif %}{% if post.title contains '?' %}{% else %}.{% endif %}
-      {{ post.authors }}.  
+      {% if post.authors %}{{ post.authors }}.{% endif %}  
       {% case post.paper-type %}
         {% when "inproceedings" %}
           {% if post.date > site.time %}To appear in{% else %}In{% endif %}

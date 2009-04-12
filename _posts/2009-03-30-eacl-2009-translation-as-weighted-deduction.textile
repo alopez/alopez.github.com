@@ -1,7 +1,6 @@
 ---
 layout: paper
 paper-type: inproceedings
-authors: Adam Lopez
 title: Translation as Weighted Deduction
 booktitle: Proceedings of EACL
 booktitle-url: http://www.eacl2009.gr/

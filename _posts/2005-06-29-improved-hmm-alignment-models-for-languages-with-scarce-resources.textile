@@ -2,7 +2,7 @@
 ---
 layout: paper
 paper-type: inproceedings
-authors: Adam Lopez and Philip Resnik
+authors: With Philip Resnik
 title: Improved HMM Alignment Models for Languages with Scarce Resources
 pages: 83&ndash;86
 booktitle: Proceedings of the ACL 2005 Workshop on Building and Using Parallel Texts&#58; Data Driven Machine Translation and Beyond

@@ -1,7 +1,7 @@
 ---
 layout: paper
 paper-type: inproceedings
-authors: Adam Lopez and Philip Resnik
+authors: With Philip Resnik
 title: Word-Based Alignment, Phrase-Based Translation&#58; What's the Link?
 pages: 90&ndash;99
 booktitle: Proceedings of AMTA

@@ -2,7 +2,6 @@
 ---
 layout: paper
 paper-type: dissertation 
-authors: Adam Lopez
 title: Machine Translation by Pattern Matching
 institution: University of Maryland
 url: http://homepages.inf.ed.ac.uk/alopez/papers/adam.lopez.dissertation.pdf

@@ -2,7 +2,7 @@
 ---
 layout: paper
 paper-type: inproceedings
-authors: Adam Lopez, Michael Nossal, Rebecca Hwa,  and Philip Resnik
+authors: With Michael Nossal, Rebecca Hwa,  and Philip Resnik
 title: Word-Level Alignment for Multilingual Resource Acquisition
 pages: 34&ndash;42
 booktitle: Proceedings of the LREC Workshop on Linguistic Knowledge Acquisition and Representation&mdash;Bootstrapping Annotated Language Data
