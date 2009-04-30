@@ -16,5 +16,13 @@ abstract: >
   strategies.  Although the framework is drawn from parsing and applied to 
   translation, it is applicable to many dynamic programming problems arising 
   in natural language processing and other areas.
+errata: >
+  This draft corrects errors that appeared in the goal item of logic
+  Monotone-Generate (Section 5; in particular, the goal item should have 
+  no words left to generate); and the deductive rules of 
+  Monotone-Generate + Ngram (Figure 2.2; the indexes of the n-gram context
+  were incorrect, and the consequent of the second rule should start with
+  i rather than i+1).
+  <p>Thanks to Shay Cohen for pointing these out.
 ---
 
