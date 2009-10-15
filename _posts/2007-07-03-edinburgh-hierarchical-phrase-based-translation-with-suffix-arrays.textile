@@ -3,7 +3,7 @@
 ---
 layout: talk
 title: Hierarchical Phrase-based Translation with Suffix Arrays
-url: http://homepages.inf.ed.ac.uk/alopez/talks/edinburgh.pdf
+doc-url: http://homepages.inf.ed.ac.uk/alopez/talks/edinburgh.pdf
 venue: Invited talk at the University of Edinburgh
 note: >
   I gave similar invited talks at 

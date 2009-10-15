@@ -6,7 +6,7 @@ title: Tera-Scale Translation Models via Pattern Matching
 pages: 505&ndash;512
 booktitle: Proceedings of COLING 
 booktitle-url: http://www.coling2008.org.uk/
-url: http://homepages.inf.ed.ac.uk/alopez/papers/coling2008-lopez.pdf
+doc-url: http://homepages.inf.ed.ac.uk/alopez/papers/coling2008-lopez.pdf
 slides: http://homepages.inf.ed.ac.uk/alopez/talks/coling_2008.pdf
 abstract: >
   Translation model size is growing at a pace that outstrips improvements in 

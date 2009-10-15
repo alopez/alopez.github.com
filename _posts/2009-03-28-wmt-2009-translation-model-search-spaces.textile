@@ -3,7 +3,7 @@ layout: paper
 paper-type: inproceedings
 authors: Michael Auli, Adam Lopez, Hieu Hoang, and Philipp Koehn
 title: A Systematic Analysis of Translation Model Search Spaces
-url: http://homepages.inf.ed.ac.uk/alopez/papers/wmt09-auli+lopez+hoang+koehn.pdf
+doc-url: http://homepages.inf.ed.ac.uk/alopez/papers/wmt09-auli+lopez+hoang+koehn.pdf
 booktitle: Proceedings of the Fourth Workshop on Statistical Machine Translation 
 booktitle-url: http://www.statmt.org/wmt09/
 abstract: >

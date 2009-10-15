@@ -1,0 +1,9 @@
+---
+layout: paper
+paper-type: inproceedings
+authors: Hieu Hoang, Philipp Koehn, and Adam Lopez
+title: A Unified Framework for Phrase-Based, Hierarchical, and Syntax-Based Statistical Machine Translation
+booktitle: Proceedings of IWSLT
+booktitle-url: http://mastarpj.nict.go.jp/IWSLT2009/
+---
+

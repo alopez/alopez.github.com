@@ -2,7 +2,7 @@
 ---
 layout: talk
 title: Introduction to Statistical Machine Translation
-url: http://homepages.inf.ed.ac.uk/alopez/talks/mtm-intro09.pdf
+doc-url: http://homepages.inf.ed.ac.uk/alopez/talks/mtm-intro09.pdf
 venue: Class lecture at the Third Machine Translation Marathon
 note: >
   This is similar to the talks I gave at Maryland, Colgate, and Union.

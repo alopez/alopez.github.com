@@ -4,7 +4,7 @@ layout: paper
 paper-type: inproceedings
 authors: Abhishek Arun, Chris Dyer, Barry Haddow, Phil Blunsom, Adam Lopez, and Philipp Koehn
 title: Monte Carlo inference and maximization for phrase-based translation
-url: http://homepages.inf.ed.ac.uk/alopez/papers/conll09-arun+etal.pdf
+doc-url: http://homepages.inf.ed.ac.uk/alopez/papers/conll09-arun+etal.pdf
 booktitle: Proceedings of CoNLL
 booktitle-url: http://www.cnts.ua.ac.be/conll2009/
 abstract: >

@@ -2,7 +2,7 @@
 ---
 layout: talk
 title: Syntax-based Machine Translation
-url: http://homepages.inf.ed.ac.uk/alopez/talks/mtm2008-day4-syntax-lopez.pdf
+doc-url: http://homepages.inf.ed.ac.uk/alopez/talks/mtm2008-day4-syntax-lopez.pdf
 venue: Class lecture at the Second Machine Translation Marathon
 ---
 

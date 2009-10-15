@@ -2,7 +2,7 @@
 ---
 layout: talk
 title: How Does Machine Translation Work?
-url: http://homepages.inf.ed.ac.uk/alopez/talks/tt.pdf
+doc-url: http://homepages.inf.ed.ac.uk/alopez/talks/tt.pdf
 venue: Guest lecture in Transformational Technologies class at the University of Maryland
 ---
 

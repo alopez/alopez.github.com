@@ -7,7 +7,7 @@ title: The Hiero Machine Translation System&#58; Extensions, Evaluation, and Ana
 pages: 779&ndash;786
 booktitle: Proceedings of HLT/EMNLP
 booktitle-url: http://www.cs.utexas.edu/~ml/HLT-EMNLP05/
-url: http://homepages.inf.ed.ac.uk/alopez/papers/hltemnlp2005-clmmrs.pdf
+doc-url: http://homepages.inf.ed.ac.uk/alopez/papers/hltemnlp2005-clmmrs.pdf
 slides: http://homepages.inf.ed.ac.uk/alopez/talks/emnlp2005.pdf
 abstract: >
   Hierarchical organization is a well known property of language, and
