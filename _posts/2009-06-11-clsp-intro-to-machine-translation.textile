@@ -6,9 +6,8 @@ title: Machine Translation&#58; Models, Search, and Evaluation
 doc-url: http://homepages.inf.ed.ac.uk/alopez/talks/clsp-tutorial-2009.pdf
 venue: Tutorial at the JHU Summer School on Human Language Technology
 note: >
-  This is a longer version of the MT Marathon and earlier tutorials
-  that describes modeling in more depth.  Word alignment and parameter
-  estimation were presented separately in an excellent lecture by
-  John DeNero.
+  I've given various versions of this talk over several years.  It's aimed 
+  at people with no prior knowledge of statistical translation, but 
+  hopefully fun for everyone. I'd be happy to present for your class. 
 ---
 

@@ -2,9 +2,8 @@
 layout: talk
 title: Translation Model Search Spaces
 doc-url: http://homepages.inf.ed.ac.uk/alopez/talks/saarland.pdf
-venue: Invited talk at Saarland University 
+venue: Talk at Saarland University 
 note: >
-  I gave a similar invited talk at Dublin City University 
-  in January 2009.
+  Also given at at Dublin City University.
 ---
 

@@ -2,6 +2,6 @@
 layout: talk
 title: Semiring Parsing without Parsing
 doc-url: http://homepages.inf.ed.ac.uk/alopez/talks/oxford.pdf
-venue: Invited talk at Cambridge and Oxford Universities
+venue: Talk at Cambridge and Oxford Universities
 ---
 
