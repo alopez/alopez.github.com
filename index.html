@@ -14,15 +14,14 @@ function unhide(divID) {
 <p>I'm interested in computational systems that learn from data how to solve real problems.
 A major problem is human communication: although technology has broken down communication
 barriers of all kinds all over the world, the biggest barrier remains  
-the fact that humans speak many different languages.  My research centers on
+the fact that humans speak many different languages.  My research focuses on
+technologies that will help overcome this barrier.  I focus on 
 algorithms and models for statistical natural language processing systems, and I 
 draw on diverse ideas from (mostly) computer science to build these systems.  
 
-<p>Professionally, I am a postdoctoral research fellow working with 
-<a href="http://www.iccs.informatics.ed.ac.uk/~pkoehn/">Philipp Koehn</a> in the
-<a href="http://www.statmt.org/ued">machine translation research group</a>.  I earned 
-my Ph.D. in computer science at the University of Maryland, where I worked with
-<a href="http://www.umiacs.umd.edu/%7Eresnik">Philip Resnik</a>.
+<p>I am a research fellow in the
+<a href="http://www.statmt.org/ued">machine translation research group</a> at the University of Edinburgh.  
+I earned my Ph.D. in computer science at the University of Maryland.
 I've had the good fortune to collaborate with many excellent researchers, including
 <a href="http://homepages.inf.ed.ac.uk/s0343799/">Abhishek Arun</a>,
 <a href="http://www.inf.ed.ac.uk/people/students/Michael_Auli.html">Michael Auli</a>,
@@ -32,9 +31,11 @@ I've had the good fortune to collaborate with many excellent researchers, includ
 <a href="http://homepages.inf.ed.ac.uk/bhaddow">Barry Haddow</a>,
 <a href="http://groups.inf.ed.ac.uk/hoang/hieu/">Hieu Hoang</a>,
 <a href="http://www.cs.pitt.edu/~hwa">Rebecca Hwa</a>,
+<a href="http://www.iccs.informatics.ed.ac.uk/~pkoehn/">Philipp Koehn</a>,
 <a href="http://www.umiacs.umd.edu/~nmadnani">Nitin Madnani</a>,
 <a href="http://staff.science.uva.nl/~christof/">Christof Monz</a>,
-Mike Nossal, and
+Mike Nossal, 
+<a href="http://www.umiacs.umd.edu/%7Eresnik">Philip Resnik</a>, and
 Michael Subotin.
 
 <h2>Publications</h2>
@@ -88,6 +89,7 @@ use them in your work.
       {% if post.venue %}{{ post.venue }},{% endif %}
       {{ post.date | date: "%B %Y" }}.
       {% if post.note %}{{ post.note }}{% endif %}
+      {% if post.video %}<a href="{{ post.video }}">[video]</a>{% endif %}
     {% endif %}
   {% endfor %}
 </ul>
