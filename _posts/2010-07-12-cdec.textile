@@ -1,0 +1,8 @@
+---
+layout: paper
+paper-type: inproceedings
+authors: Chris Dyer, Adam Lopez, Juri Ganitkevitch, Jonny Weese, Ferhan Ture, Phil Blunsom, Hendra Setiawan, Vlad Eidelman, and Philip Resnik
+title: cdec&#58; A Decoder, Alignment, and Learning Framework for Finite-State and Context-Free Translation Models
+booktitle: Proceedings of ACL (Demonstration track)
+---
+
