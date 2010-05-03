@@ -20,6 +20,7 @@ body {
 h1, h2 {
   font-weight: lighter;
   margin-bottom: 4pt;
+  margin-top: 8pt;
 }
 
 p {
@@ -50,6 +51,10 @@ a[subtle="yes"] {
   background-color: #D8D8D8;
 }
 
+.news {
+  background-color: #CCFFFF;
+  padding: 2pt;
+}
 
 /*****************************************************************************/
 /*
