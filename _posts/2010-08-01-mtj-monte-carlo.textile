@@ -1,0 +1,9 @@
+
+---
+layout: paper
+paper-type: article
+authors: Abhishek Arun, Phil Blunsom, Chris Dyer, Barry Haddow, Philipp Koehn, and Adam Lopez
+title: Monte Carlo Techniques for Phrase-Based Translation
+journal: Machine Translation
+---
+
