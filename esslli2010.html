@@ -11,18 +11,31 @@ title: Adam Lopez
 
 <ul class="posts">
 	<li><a href="http://homepages.inf.ed.ac.uk/alopez/talks/esslli2010-day1.pdf">Day One</a>: an introduction to statistical machine translation.  The associated <a href="http://homepages.inf.ed.ac.uk/alopez/talks/esslli-exercise.pdf">exercise</a> was developed by <a href="http://www.isi.edu/~knight/">Kevin Knight</a> in a really great introductory <a href="http://www.ai.mit.edu/courses/6.891-nlp/READINGS/aimag97.pdf">paper</a> on statistical machine translation.</li>
-	<li><a href="http://homepages.inf.ed.ac.uk/alopez/talks/esslli2010-day2.pdf">Day Two</a>: probabilistic modeling, language models, and translation models.</li> 
+	<li><a href="http://homepages.inf.ed.ac.uk/alopez/talks/esslli2010-day2.pdf">Day Two</a>: probabilistic modeling, language models, and the IBM models.</li> 
+	<li><a href="http://homepages.inf.ed.ac.uk/alopez/talks/esslli2010-day3.pdf">Day Three</a>: phrase-based models and decoding.</li> 
 </ul>
 
 <h2>Where to go for more information</h2>
 <ul class="posts">
-	<li><a href="http://homepages.inf.ed.ac.uk/alopez/papers/survey.pdf">Statistical Machine Translation</a>. Adam Lopez. In ACM Computing Surveys 40(3): Article 8, pages 1–49, August 2008.  This is a forty-page self-contained survey of the field of statistical machine translation.  Much of the course material is based on the survey, and you can find more formal explanations of many of the course concepts there.</li>
+	<li><a href="http://homepages.inf.ed.ac.uk/alopez/papers/survey.pdf">Statistical Machine Translation</a> by <a href="index.html">Adam Lopez</a>. This is a forty-page self-contained survey of the field of statistical machine translation that was published in ACM Computing Surveys.  Much of the course material is based on the survey, and you can find more formal explanations of many of the course concepts there.</li>
 	<li>For even more detail, <a href="http://www.statmt.org/book/">Statistical Machine Translation</a> is an introductory textbook written by <a href="http://www.iccs.informatics.ed.ac.uk/~pkoehn/">Philipp Koehn</a>.  Anyone with a serious interest in machine translation should have a copy of it.</li>
 	<li><a href="http://www.isi.edu/natural-language/mt/wkbk.pdf">A Statistical MT Tutorial Workbook</a> by <a href="http://www.isi.edu/~knight/">Kevin Knight</a> is a great, informal introduction for beginners.  You might consider working through this exercise before moving on to the above texts.
 	<li><a href="http://www.iccs.informatics.ed.ac.uk/~pkoehn/">Philipp Koehn</a> and <a href="http://www.cs.jhu.edu/~ccb/">Chris Callison-Burch</a> previously taught machine translation at ESSLLI in 2005: Day 
-<a href="http://www.iccs.informatics.ed.ac.uk/~pkoehn/publications/esslli-slides-day1.pdf">1</a>, 
-<a href="http://www.iccs.informatics.ed.ac.uk/~pkoehn/publications/esslli-slides-day2.pdf">2</a>,
-<a href="http://www.iccs.informatics.ed.ac.uk/~pkoehn/publications/esslli-slides-day3.pdf">3</a>,
-<a href="http://www.iccs.informatics.ed.ac.uk/~pkoehn/publications/esslli-slides-day4.pdf">4</a>,
-<a href="http://www.iccs.informatics.ed.ac.uk/~pkoehn/publications/esslli-slides-day5.pdf">5</a>.
+    <a href="http://www.iccs.informatics.ed.ac.uk/~pkoehn/publications/esslli-slides-day1.pdf">1</a>, 
+    <a href="http://www.iccs.informatics.ed.ac.uk/~pkoehn/publications/esslli-slides-day2.pdf">2</a>,
+    <a href="http://www.iccs.informatics.ed.ac.uk/~pkoehn/publications/esslli-slides-day3.pdf">3</a>,
+    <a href="http://www.iccs.informatics.ed.ac.uk/~pkoehn/publications/esslli-slides-day4.pdf">4</a>,
+    <a href="http://www.iccs.informatics.ed.ac.uk/~pkoehn/publications/esslli-slides-day5.pdf">5</a>.</li>
+  <li><a href="http://www.statmt.org">statmt.org</a> is a website with pointers to various statistical machine translation resources.</li>
+</ul>
+
+<h2>Build your own translation system</h2>
+Each of these packages is actively maintained and has a significant userbase.  For datasets, see <a href="http://www.statmt.org">statmt.org</a>.
+<ul>
+  <li><a href="http://www.cdec-decoder.org">cdec</a>: an elegant, very fast decoder for a wide variety of structured learning problems, including phrase-based and SCFG-based translation.</li>
+  <li><a href="http://www.statmt.org/moses/">Moses</a>: a widely-used, complete toolkit containing implementations of phrase-based and SCFG-based translation models.</li>
+  <li><a href="http://cs.jhu.edu/~ccb/joshua/">Joshua</a>: an open-source Java implementation of SCFG-based translation.</li>
+  <li><a href="http://www.speech.sri.com/projects/srilm/">SRI-LM</a>: a widely-used language modeling toolkit with many features.</li>
+  <li><a href="http://code.google.com/p/giza-pp/">Giza++</a>: an implementation of the expectation-maximization algorithm for the IBM and HMM models, used for word alignment.</li>
+  <li><a href="http://nlp.cs.berkeley.edu/Main.html#WordAligner">Berkeley Aligner</a>: a robust Java implementation of several innovative alignment algorithms.</li>
 </ul>
