@@ -17,8 +17,11 @@
 <body>
 
 <div class="site">
-  
+
   <div class="leftsidebar">
+  {% if page.sidebar %}
+    {{ page.sidebar }}
+  {% else %}
     <p>
       <img src="img/writing.jpg" width="180" alt="Adam Lopez"/>
       <h1>Adam Lopez</h1>
@@ -30,6 +33,7 @@
       <br/>
       <a href="http://homepages.inf.ed.ac.uk/alopez/adam_lopez_cv.pdf">[Curriculum vitae]</a>
     </p>
+  {% endif %}
   </div>
 
   <div class="content">

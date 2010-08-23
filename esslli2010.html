@@ -1,24 +1,37 @@
 ---
 layout: default
-title: Adam Lopez 
+title: Statistical Machine Translation course at ESSLLI 2010 
+sidebar: <p><img src="img/artsrouni.jpg" width="180" alt="Georges Artsrouni's mechanical brain, an early mechanical translation device"/>
 ---
-
+<h1>Statistical Machine Translation</h1>
 <div id="course" class="cv">
-<p>This page contains information related to the <a href="http://esslli2010cph.info/?p=277">ESSLLI 2010 course on statistical machine translation</a>.  
+<p>A <a href="http://esslli2010cph.info/?p=277">course</a> at <a href="http://esslli2010cph.info">ESSLLI 2010</a> taught by <a href="index.html">Adam Lopez</a>.  
+<p>
+Machine translation is the automatic translation of human languages, such as English and Chinese.  Statistical machine translation refers to a collection of techniques in which machine translation systems automatically learn how to translate by examining a large corpus of human translations.  Statistical learning methods make it possible to build a translation system for a new language pair very quickly, even without deep knowledge of both languages.  These techniques are popular: most research papers on machine translation presented in <a href="http://aclweb.org/anthology-new/">major natural language processing conferences</a> focus on statistical methods.  They are also effective: <a href="http://translate.google.com">Google translate</a> is able to offer translation for thousands of language pairs due to the use of statistical methods.
+
+<p>This course will provide a thorough introduction to statistical machine translation.  We will describe all aspects of building a statistical machine translation system, from both formal and practical perspectives.  Topics include translation modeling, rule induction and parameter learning, search algorithms, engineering techniques, and evaluation of systems.  Within each of these areas we will cover a variety of alternatives, from the mainstream to the novel, explaining current state of the art and identifying the open questions that are the topic of current research.
 
 
 <h2>Lectures</h2>
-
+My philosophy is that slides are visual aids for lectures, so the following
+slides are best understood along with the accompanying talk.   While I don't
+know of any recordings of the ESSLLI lectures, there is a 
+<a href="http://videolectures.net/clspss09_lopez_mt/">video</a>
+of a shorter, one-day 
+<a href="http://homepages.inf.ed.ac.uk/alopez/talks/clsp-tutorial-2009.pdf">tutorial</a>
+that I have given many times on this material.  Feel free to 
+use any of this material as you  like.  I'd appreciate an acknowledgement if you do!
 <ul class="posts">
-	<li><a href="http://homepages.inf.ed.ac.uk/alopez/talks/esslli2010-day1.pdf">Day One</a>: an introduction to statistical machine translation.  The associated <a href="http://homepages.inf.ed.ac.uk/alopez/talks/esslli-exercise.pdf">exercise</a> was developed by <a href="http://www.isi.edu/~knight/">Kevin Knight</a> in a really great introductory <a href="http://www.ai.mit.edu/courses/6.891-nlp/READINGS/aimag97.pdf">paper</a> on statistical machine translation.</li>
-	<li><a href="http://homepages.inf.ed.ac.uk/alopez/talks/esslli2010-day2.pdf">Day Two</a>: probabilistic modeling, language models, and the IBM models.</li> 
-	<li><a href="http://homepages.inf.ed.ac.uk/alopez/talks/esslli2010-day3.pdf">Day Three</a>: phrase-based models and decoding.</li> 
-	<li><a href="http://homepages.inf.ed.ac.uk/alopez/talks/esslli2010-day4.pdf">Day Four</a>: context-free models and parameter estimation.</li> 
-	<li><a href="http://homepages.inf.ed.ac.uk/alopez/talks/esslli2010-day5.pdf">Day Five</a>: evaluation and supervised learning.</li> 
+	<li><a href="http://homepages.inf.ed.ac.uk/alopez/talks/esslli2010-day1.pdf">Day One</a>: an introduction to statistical machine translation: how can machines learn to translate?  The associated <a href="http://homepages.inf.ed.ac.uk/alopez/talks/esslli-exercise.pdf">exercise</a> was developed by <a href="http://www.isi.edu/~knight/">Kevin Knight</a> in a really great introductory <a href="http://www.ai.mit.edu/courses/6.891-nlp/READINGS/aimag97.pdf">paper</a> on statistical machine translation.</li>
+	<li><a href="http://homepages.inf.ed.ac.uk/alopez/talks/esslli2010-day2.pdf">Day Two</a>: probabilistic modeling, language models, and finite-state translation models based on words.</li> 
+	<li><a href="http://homepages.inf.ed.ac.uk/alopez/talks/esslli2010-day3.pdf">Day Three</a>: finite-state translation models based on phrases, and decoding of finite-state models.</li> 
+	<li><a href="http://homepages.inf.ed.ac.uk/alopez/talks/esslli2010-day4.pdf">Day Four</a>: context-free models and their decoding algorithms, and unsupervised learning of translation models.</li> 
+	<li><a href="http://homepages.inf.ed.ac.uk/alopez/talks/esslli2010-day5.pdf">Day Five</a>: evaluation and supervised learning of translation models.</li> 
 </ul>
 
 <h2>Where to go for more information</h2>
 <ul class="posts">
+Introductory material on machine translation:
 	<li><a href="http://homepages.inf.ed.ac.uk/alopez/papers/survey.pdf">Statistical Machine Translation</a> by <a href="index.html">Adam Lopez</a>. This is a forty-page self-contained survey of the field of statistical machine translation that was published in ACM Computing Surveys.  Much of the course material is based on the survey, and you can find more formal explanations of many of the course concepts there.</li>
 	<li>For even more detail, <a href="http://www.statmt.org/book/">Statistical Machine Translation</a> is an introductory textbook written by <a href="http://www.iccs.informatics.ed.ac.uk/~pkoehn/">Philipp Koehn</a>.  Anyone with a serious interest in machine translation should have a copy of it.</li>
 	<li><a href="http://www.isi.edu/natural-language/mt/wkbk.pdf">A Statistical MT Tutorial Workbook</a> by <a href="http://www.isi.edu/~knight/">Kevin Knight</a> is a great, informal introduction for beginners.  You might consider working through this exercise before moving on to the above texts.
@@ -29,10 +42,18 @@ title: Adam Lopez
     <a href="http://www.iccs.informatics.ed.ac.uk/~pkoehn/publications/esslli-slides-day4.pdf">4</a>,
     <a href="http://www.iccs.informatics.ed.ac.uk/~pkoehn/publications/esslli-slides-day5.pdf">5</a>.</li>
   <li><a href="http://www.statmt.org">statmt.org</a> is a website with pointers to various statistical machine translation resources.</li>
-  <li><a href="http://ssli.ee.washington.edu/~bilmes/pgs/index.html">Jeff Bilmes</a> wrote a nice <a href="http://ssli.ee.washington.edu/~bilmes/mypubs/bilmes1997-em.pdf">tutorial</a> on the Expectation Maximization algorithm.</li>
-  <li><a href="http://www.isi.edu/~chiang/">David Chiang</a>'s gentle <a href="http://www.isi.edu/~chiang/papers/synchtut.pdf">tutorial</a> on synchronous grammars (<a href="http://www.isi.edu/~chiang/papers/synchtut-slides.pdf">slides</a>).  I used a few of his examples in my slides.</li>
+  <li>On the non-technical side, <a href="http://www.hutchinsweb.me.uk/">John Hutchins</a> has written several interesting <a href="http://www.hutchinsweb.me.uk/main.htm">papers</a> about the history of machine translation and its uses.</li>
+</ul>
+There are many relevant tutorials on the fundamental techniques at the heart
+of most statistical machine translation systems.  Here are few that I've
+found useful.
+<ul>
+  <li><a href="http://www.cs.nyu.edu/~mohri">Mehryar Mohri</a>'s 
+    <a href="http://www.cs.nyu.edu/~mohri/pub/cl1.pdf"a>tutorial</a> on weighted
+    finite-state automata, which underlie many translation models.</li>
+  <li><a href="http://www.isi.edu/~chiang/">David Chiang</a>'s gentle <a href="http://www.isi.edu/~chiang/papers/synchtut.pdf">tutorial</a> on synchronous grammars, which underlie many other models (<a href="http://www.isi.edu/~chiang/papers/synchtut-slides.pdf">slides</a>).  I used a few of his examples in my slides.</li>
   <li><a href="http://www.isi.edu/~lhuang/">Liang Huang</a>'s <a href="http://www.cis.upenn.edu/~lhuang3/coling.pdf">tutorial</a> on dynamic programming.
-
+  <li><a href="http://ssli.ee.washington.edu/~bilmes/pgs/index.html">Jeff Bilmes</a> wrote a nice <a href="http://ssli.ee.washington.edu/~bilmes/mypubs/bilmes1997-em.pdf">tutorial</a> on the Expectation Maximization algorithm.</li>
 </ul>
 
 <h2>Build your own translation system</h2>
