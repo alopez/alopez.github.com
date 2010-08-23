@@ -4,7 +4,7 @@
 layout: talk
 title: Introduction to Statistical Machine Translation
 doc-url: esslli2010.html
-venue: One-week course at <a href="http://esslli2010cph.info/">ESSLLI 2010</a>
+venue: One-week course at ESSLLI 2010
 note: >
   I've given many introductory lectures on statistical MT over the past several
   years, usually aimed at students with no prior knowledge of the area, but 
