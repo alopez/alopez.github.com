@@ -79,7 +79,7 @@ I've had the good fortune to collaborate with many excellent researchers, includ
           {% if post.date > site.time %}To appear in{% else %}In{% endif %}
           {% if post.journal-url %}<a subtle="yes" href="{{ post.journal-url }}">{% endif %}
             <i>{{ post.journal }}</i>{% if post.journal-url %}</a>{% endif %}{% if post.date > site.time %},{% else %}
-              {% if post.volume %}{{ post.volume }}{% endif %}{% if post.number %}({{ post.number }}){% endif %},:
+              {% if post.volume %}{{ post.volume }}{% endif %}{% if post.number %}({{ post.number }}){% endif %}:
               {% if post.article%}Article {{ post.article}},{% endif %}
               {% if post.pages %}pages {{ post.pages }},{% endif %}
             {% endif %}
