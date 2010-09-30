@@ -87,6 +87,8 @@ li {
   .site .leftsidebar {
     margin-top: -10pt;
     float: left;
+    width: 180px;
+    text-align: left;
   }
   .site .content {
     margin-top: 20pt;
