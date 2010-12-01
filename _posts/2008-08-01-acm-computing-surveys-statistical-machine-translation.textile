@@ -21,7 +21,7 @@ errata: >
   Thanks to Matt Snover for pointing this out.
   <p>There is a typo in rule S3 on page 11; the English and Chinese sides of the rule are swapped.  It should read:
   <ul><li>
-  NPB &rarr; JJ<subscript>1</subscript> NPB<subscript>2</subscript> / NPB<subscript>2</subscript> JJ<subscript>1</subscript>
+  NPB &rarr; JJ<sub>1</sub> NPB<sub>2</sub> / NPB<sub>2</sub> JJ<sub>1</sub>
   </li></ul>
   Thanks to Anoop Sarkar for pointing this out.
 abstract: >
