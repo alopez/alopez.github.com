@@ -19,6 +19,11 @@ errata: >
   Summarization, 2005.
   </li></ul>
   Thanks to Matt Snover for pointing this out.
+  <p>There is a typo in rule S3 on page 11; the English and Chinese sides of the rule are swapped.  It should read:
+  <ul><li>
+  NPB &rarr; JJ<subscript>1</subscript> NPB<subscript>2</subscript> / NPB<subscript>2</subscript> JJ<subscript>1</subscript>
+  </li></ul>
+  Thanks to Anoop Sarkar for pointing this out.
 abstract: >
   Statistical machine translation (SMT) treats the 
   translation of natural language as a machine learning
