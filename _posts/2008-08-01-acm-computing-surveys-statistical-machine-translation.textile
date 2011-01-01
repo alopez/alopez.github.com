@@ -9,7 +9,7 @@ volume: 40
 number: 3
 article: 8
 pages: 1&ndash;49
-doc-url: http://homepages.inf.ed.ac.uk/alopez/papers/survey.pdf
+doc-url: papers/survey.pdf
 errata: >
   The reference for Banerjee and Lavie (2005) on p. 39 is missing. It should be:
   <ul><li>

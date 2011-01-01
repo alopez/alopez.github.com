@@ -6,7 +6,7 @@ title: Hierarchical Phrase-Based Translation with Suffix Arrays
 pages: 976&ndash;985
 booktitle: Proceedings of EMNLP-CoNLL
 booktitle-url: http://www.cs.jhu.edu/EMNLP-CoNLL-2007/
-doc-url: http://homepages.inf.ed.ac.uk/alopez/papers/emnlp-conll2007.pdf
+doc-url: http://www.aclweb.org/anthology/D/D07/D07-1104.pdf
 slides: http://homepages.inf.ed.ac.uk/alopez/talks/emnlp2007.pdf
 abstract: >
   A major engineering challenge in
