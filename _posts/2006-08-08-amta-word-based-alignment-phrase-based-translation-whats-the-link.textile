@@ -7,7 +7,7 @@ pages: 90&ndash;99
 booktitle: Proceedings of AMTA
 booktitle-url: http://amta2006.amtaweb.org/index.htm
 doc-url: http://www.mt-archive.info/AMTA-2006-Lopez.pdf
-slides: http://homepages.inf.ed.ac.uk/alopez/talks/amta_2006.pdf
+slides: http://www.cs.jhu.edu/~alopez/talks/amta_2006.pdf
 abstract: >
   State-of-the-art statistical machine translation is 
   based on alignments between <i>phrases</i>&mdash;sequences of words 

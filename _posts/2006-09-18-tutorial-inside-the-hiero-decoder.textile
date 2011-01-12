@@ -2,7 +2,7 @@
 ---
 layout: talk
 title: Inside the Hiero Decoder
-doc-url: http://homepages.inf.ed.ac.uk/alopez/talks/decoder_boot_camp.pdf
+doc-url: http://www.cs.jhu.edu/~alopez/talks/decoder_boot_camp.pdf
 venue: Tutorial given at the University of Maryland
 ---
 

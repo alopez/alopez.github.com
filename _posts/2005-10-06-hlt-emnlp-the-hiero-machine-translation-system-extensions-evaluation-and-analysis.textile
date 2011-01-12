@@ -8,7 +8,7 @@ pages: 779&ndash;786
 booktitle: Proceedings of HLT/EMNLP
 booktitle-url: http://www.cs.utexas.edu/~ml/HLT-EMNLP05/
 doc-url: http://www.aclweb.org/anthology-new/H/H05/H05-1098.pdf 
-slides: http://homepages.inf.ed.ac.uk/alopez/talks/emnlp2005.pdf
+slides: http://www.cs.jhu.edu/~alopez/talks/emnlp2005.pdf
 abstract: >
   Hierarchical organization is a well known property of language, and
   yet the notion of hierarchical structure has been largely absent from

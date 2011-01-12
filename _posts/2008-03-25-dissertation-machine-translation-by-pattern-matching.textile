@@ -5,8 +5,8 @@ paper-type: dissertation
 title: Machine Translation by Pattern Matching
 institution: University of Maryland
 doc-url: papers/adam.lopez.dissertation.pdf
-slides: http://homepages.inf.ed.ac.uk/alopez/talks/dissertation_defense.pdf
-latex: http://homepages.inf.ed.ac.uk/alopez/files/lopez-diss-files.tar.gz
+slides: http://www.cs.jhu.edu/~alopez/talks/dissertation_defense.pdf
+latex: http://www.cs.jhu.edu/~alopez/files/lopez-diss-files.tar.gz
 abstract: >
   <p>The best systems for machine translation of natural language are based on statistical models learned from data.  Conventional representation of a statistical translation model requires substantial offline computation and representation in main memory.  Therefore, the principal bottlenecks to the amount of data we can exploit and the complexity of models we can use are available memory and CPU time, and current state of the art already pushes these limits.  With data size and model complexity continually increasing, a scalable solution to this problem is central to future improvement.</p>
   

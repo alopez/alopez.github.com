@@ -3,7 +3,7 @@
 ---
 layout: talk
 title: Translation by Pattern Matching
-doc-url: http://homepages.inf.ed.ac.uk/alopez/talks/mtm2008-lopez.pdf
+doc-url: http://www.cs.jhu.edu/~alopez/talks/mtm2008-lopez.pdf
 venue: Talk at the Second Machine Translation Marathon
 note: >
   I've given various versions of this talk at Amsterdam, Carnegie Mellon,

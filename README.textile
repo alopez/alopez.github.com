@@ -2,7 +2,7 @@ h1. This is the data for my homepage
 
 It is processed by "Jekyll":http://github.com/mojombo/jekyll 
 to create a static site.  This is currently mirrored to my
-"University website":http://homepages.inf.ed.ac.uk/alopez
+"University website":http://www.cs.jhu.edu/~alopez
 and my "github page":http://alopez.github.com.  Github runs
 the data through jekyll automatically when I push to this
 repository.
