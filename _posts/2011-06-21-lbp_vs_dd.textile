@@ -1,0 +1,9 @@
+---
+layout: paper
+paper-type: inproceedings
+authors: Michael Auli and Adam Lopez
+title: A Comparison of Loopy Belief Propagation and Dual Decomposition for Integrated CCG Supertagging and Parsing
+booktitle: Proceedings of ACL 
+booktitle-url: http://www.acl2011.org/
+---
+

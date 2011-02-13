@@ -1,0 +1,9 @@
+---
+layout: paper
+paper-type: inproceedings
+authors: Michael Auli and Adam Lopez
+title: Efficient CCG Parsing&#58; A* versus Adaptive Supertagging
+booktitle: Proceedings of ACL 
+booktitle-url: http://www.acl2011.org/
+---
+
