@@ -6,7 +6,6 @@ title: Efficient CCG Parsing&#58; A* versus Adaptive Supertagging
 doc-url: http://www.cs.jhu.edu/~alopez/papers/auli_acl2011_astar.pdf
 booktitle: Proceedings of ACL 
 booktitle-url: http://www.acl2011.org/
-status: DRAFT
 abstract: >
   We present a systematic comparison and combination of two orthogonal techniques for efficient 
   parsing of Combinatory Categorial Grammar (CCG).  First we consider adaptive supertagging, a 
@@ -18,6 +17,6 @@ abstract: >
   realistic but more stringent metric of CPU time.  By itself, A* substantially reduces parser 
   effort as measured by the number of edges considered during parsing, but we show that for CCG 
   this does not always correspond to improvements in CPU time over a CKY baseline.  Combining A* 
-  with adaptive supertagging decreases CPU time by 15\% for our best model.
+  with adaptive supertagging decreases CPU time by 15% for our best model.
 ---
 
