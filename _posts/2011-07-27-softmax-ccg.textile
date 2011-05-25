@@ -1,0 +1,22 @@
+---
+layout: paper
+paper-type: inproceedings
+authors: Michael Auli and Adam Lopez
+title: Training a Log-Linear Parser with Loss Functions via Softmax-Margin
+booktitle: Proceedings of EMNLP
+booktitle-url: http://conferences.inf.ed.ac.uk/emnlp2011/
+abstract: >
+  Log-linear parsing models are often trained by optimizing 
+  likelihood, but we would prefer to optimize for a task-specific metric like F-measure.
+  Softmax-margin is a convex objective for such models that minimizes a bound on 
+  expected risk for a given loss function, but its naïve application requires the loss 
+  to decompose over the predicted structure, which is not true of F-measure.
+  We use softmax-margin to optimize a log-linear CCG parser for a variety of loss functions, and
+  demonstrate a novel dynamic programming algorithm that enables us to use it with
+  F-measure, leading to substantial gains in accuracy on CCGBank.  When we embed our
+  loss-trained parser into a larger model that includes supertagging features
+  incorporated via belief propagation, we obtain further improvements and achieve 
+  a labelled/unlabelled dependency 
+  F-measure of 89.1%/93.9%, the best reported result for this task.
+---
+
