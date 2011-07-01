@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+   <title>Statistical Machine Translation course at ESSLLI 2010</title>
+   <meta name="author" content="Adam Lopez" />
+
+   <link href="atom.xml" rel="alternate" title="Adam Lopez" type="application/atom+xml" />
+   <!-- syntax highlighting CSS -->
+   <link rel="stylesheet" href="css/syntax.css" type="text/css" />
+
+   <!-- Homepage CSS -->
+   <link rel="stylesheet" href="css/screen.css" type="text/css" media="screen, projection" />
+
+<!-- MathJax -->
+<script type="text/javascript"
+  src="https://d3eoax9i5htok0.cloudfront.net/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+</head>
+<body>
+
+<div class="site">
+
+  <div class="leftsidebar">
+  
+    <p><img src="img/artsrouni.jpg" width="180" alt="Georges Artsrouni's mechanical brain, an early mechanical translation device"/><p><i>Georges Artrouni's mechanical brain, a translation device patented in France in 1933.</i>
+  
+  </div>
+
+  <div class="content">
+    <h1>Statistical Machine Translation Lab</h1>
+<div id="course" class="cv">
+	  <h2>Exercise 1: Arcturan-Centauri Translation</h2>
+  <p><a href="http://www.cs.jhu.edu/~alopez/talks/esslli-exercise.pdf">[Handout]</a> <em>Note: This exercise was adapted from the article "Automating Knowledge Acquisition for Machine Translation" by Kevin Knight.</em></p>
+
+  <h2>Exercise 2: Automating Word Alignment</h2>
+
+<p><em>Note: This exercise was developed by Philipp Koehn, with adaptations by John DeNero and Adam Lopez.</em></p>
+
+<p>Aligning words is a core machine learning task in statistical machine translation.  A variety of techniques have been proposed, but the most common approach by far is to train a probabilistic alignment model and use its predictions to align words.  You will implement the simplest model that works well, IBM Model 1.</p>
+
+   <p><em><strong>Step 1</strong></em>: Login
+
+   </p><p><em><strong>Step 2</strong></em>: Download the code with the command:
+
+</p><pre>git clone https://github.com/alopez/model1.git</pre>
+
+   <p><em><strong>Step 3</strong></em>: Familiarize yourself with the code
+
+  </p><p>We have provided you with a very simple aligner written in Python.  The source code is contained in a single compact file, align.py.
+	
+  </p><p>You'll see that alignment proceeds in two phases.  First, we train models.  The aligner observes the training sentences and then gives a score, between 0 and 1, to each possible alignment.  The provided heuristic aligner simply computes the Dice coefficient between pairs of English and foreign words.  It then aligns all pairs of words with a score over 0.5.  These alignments are then evaluated.  
+
+   </p><p><em><strong>Step 4</strong></em>: Run the baseline heuristic model using the command:
+
+  </p><pre>align.py </pre>
+
+<p>This runs the aligner, outputs some example short sentence alignments, and finally prints an alignment error rate.  Look at the terrible output of this heuristic model -- it's better than chance, but not any good.
+Try training on 10,000 sentences instead of 1,000, by specifying the change on the command line:</p>
+
+  <pre>align.py -N 10000</pre>
+
+  <p>Performance should improve, but only slightly!  For all the options you can change, type:</p>
+
+  <pre>align.py -h</pre>
+
+   <p><em><strong>Step 5</strong></em>: Implement IBM Model 1
+
+  </p><p>You've probably noticed that thresholding a Dice coefficient is a bad idea because alignments don't compete against one another.  IBM Model 1 forces all of the English words in a sentence to compete as the explanation for why a particular foreign word appears.  
+
+  </p><p>Formally, IBM Model 1 is a conditional model that generates each word of the foreign sentence independently, conditioned on some word in the English.  The likelihood of a foreign sentence therefore factors across words: \( P(f, a | e) = \prod_i P(a_i = j | n) \times P(fi | ej) \).  In Model 1, \( P(a_i = j | |e|) = 1 / n \), meaning that the likelihood only depends upon the conditional word parameters \( P(f | e) \).
+
+  </p><p>The iterative EM update for this model is straightforward. For every pair of an English word type
+  \( e \) and a French word type \( f \), you count up the expected (fractional) number of times tokens \(f\) are aligned to tokens of
+  \(e\) and normalize over values of \(e\). That will give you a new
+  estimate of the translation probabilities \(P (f |e)\), which leads to new alignment posteriors, and so on. 
+
+  <p>Don't hesitate to ask questions as you implement Model 1.  We recommend developing on a small data set (1000 sentenes) and only a few iterations of EM.  When you are finished, you should get an AER below 60 for 10k sentences and 10 iterations.</p>
+
+  <p>NOTE: Since the probabilistic IBM models are directional, you can train a model that generates the foreign given the English, vis versa, or both (Why do these produce different alignments?).  We call a FORWARD model one that generates the foreign given the English.  If you write your code generally, you should also be able to train a BACKWARD model with no code change.
+
+   </p><p><em><strong>Bonus</strong></em>: Improve the output
+
+  </p><p>Time to unleash your NLP hacking skills on this word alignment problem.  Try to improve your model as much as you can on the first 100 sentence pairs of the test set (default setting).  You may want to increase the amount of data you train on, but make sure your model trains and aligns in a few minutes.  Competitive AERs in research are typically below 30, and sometimes quite close to 0. At the end of the lab, we will test everyone's best model on a separate test set to determine who built the most accurate aligner.
+
+  </p><p>Here are some ideas to try:
+</p><ul>
+  <li> Train both a FORWARD and a BACKWARD model, then combine their predictions in some way.
+  </li><li> Write a new aligner that aligns the most likely English word for each Foreign word, or some other competitive criterion.
+  </li><li> Implement a variant of IBM Model 2, where a foreign word is more likely to be generated from an English word that is in a similar position in the sentence.
+  </li><li> Add some orthography-based information into the alignment.
+</li></ul>
+
+</body></html>
