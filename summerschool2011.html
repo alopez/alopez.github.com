@@ -68,9 +68,11 @@ Try training on 10,000 sentences instead of 1,000, by specifying the change on t
 
   <pre>align.py -h</pre>
 
+  <p>Another experiment that you can do is change the threshold criterion used by the aligner.  How does this affect precision and recall?
+
    <p><em><strong>Step 5</strong></em>: Implement IBM Model 1
 
-  </p><p>You've probably noticed that thresholding a Dice coefficient is a bad idea because alignments don't compete against one another.  IBM Model 1 forces all of the English words in a sentence to compete as the explanation for why a particular foreign word appears.  
+  </p><p>You've probably noticed that thresholding a Dice coefficient is a bad idea because alignments don't compete against one another.  IBM Model 1 forces all of the English words in a sentence to compete as the explanation for why a particular foreign word appears.  To implement it, you need only change the function my_train(), which is stubbed out at the top of the file.  (Optional) To change the way alignment points are assigned after training, change the function my_align().
 
   </p><p>Formally, IBM Model 1 is a conditional model that generates each word of the foreign sentence independently, conditioned on some word in the English.  The likelihood of a foreign sentence therefore factors across words: \( P(f, a | e) = \prod_i P(a_i = j | n) \times P(fi | ej) \).  In Model 1, \( P(a_i = j | |e|) = 1 / n \), meaning that the likelihood only depends upon the conditional word parameters \( P(f | e) \).
 
@@ -81,7 +83,7 @@ Try training on 10,000 sentences instead of 1,000, by specifying the change on t
 
   <p>Don't hesitate to ask questions as you implement Model 1.  We recommend developing on a small data set (1000 sentenes) and only a few iterations of EM.  When you are finished, you should get an AER below 60 for 10k sentences and 10 iterations.</p>
 
-  <p>NOTE: Since the probabilistic IBM models are directional, you can train a model that generates the foreign given the English, vis versa, or both (Why do these produce different alignments?).  We call a FORWARD model one that generates the foreign given the English.  If you write your code generally, you should also be able to train a BACKWARD model with no code change.
+  <p>NOTE: Since the probabilistic IBM models are directional, you can train a model that generates the foreign given the English, vis versa, or both.  (Question: why do these produce different alignments?)  We call a FORWARD model one that generates the foreign given the English.  If you write your code generally, you should also be able to train a BACKWARD model with no code change.
 
    </p><p><em><strong>Bonus</strong></em>: Improve the output
 
