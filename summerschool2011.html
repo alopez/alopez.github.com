@@ -81,7 +81,7 @@ Try training on 10,000 sentences instead of 1,000, by specifying the change on t
   \(e\) and normalize over values of \(e\). That will give you a new
   estimate of the translation probabilities \(P (f |e)\), which leads to new alignment posteriors, and so on. 
 
-  <p>Don't hesitate to ask questions as you implement Model 1.  We recommend developing on a small data set (1000 sentenes) and only a few iterations of EM.  When you are finished, you should get an AER below 60 for 10k sentences and 10 iterations.</p>
+  <p>Don't hesitate to ask questions as you implement Model 1.  We recommend developing on a small data set (1000 sentenes) and only a few iterations of EM.  When you are finished, you should see some improvements in your alignments.</p>
 
   <p>NOTE: Since the probabilistic IBM models are directional, you can train a model that generates the foreign given the English, vis versa, or both.  (Question: why do these produce different alignments?)  We call a FORWARD model one that generates the foreign given the English.  If you write your code generally, you should also be able to train a BACKWARD model with no code change.
 
