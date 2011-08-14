@@ -3,7 +3,7 @@ layout: paper
 paper-type: inproceedings
 authors: Michael Auli and Adam Lopez
 title: Training a Log-Linear Parser with Loss Functions via Softmax-Margin
-doc-url: http://homepages.inf.ed.ac.uk/s0453934/papers/auli_emnlp2011_softmax_ccg.pdf
+doc-url: http://aclweb.org/anthology-new/D/D11/D11-1031.pdf
 booktitle: Proceedings of EMNLP
 booktitle-url: http://conferences.inf.ed.ac.uk/emnlp2011/
 abstract: >
@@ -20,6 +20,6 @@ abstract: >
   a labelled/unlabelled dependency 
   F-measure of 89.3%/94.0% on gold part-of-speech tags,
   and 87.2%/92.8% on automatic part-of-speech
-  tags the best reported results for this task.
+  tags, the best reported results for this task.
 ---
 
