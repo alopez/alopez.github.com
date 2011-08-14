@@ -3,6 +3,6 @@ layout: paper
 paper-type: techreport 
 authors: Phil Blunsom, Chris Callison-Burch, Trevor Cohn, Chris Dyer, Jonathan Graehl, Adam Lopez, Jan Botha, Vladimir Eidelman, ThuyLinh Nguyen, Ziyuan Wang, Jonathan Weese, Olivia Buzek, and Desai Chen
 title: Final Report of the 2010 CLSP Workshop on Models for Synchronous Grammar Induction
-status: In preparation
+doc-url: http://www.clsp.jhu.edu/workshops/ws10/groups/msgismt/
 ---
 
