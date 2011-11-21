@@ -1,0 +1,91 @@
+---
+layout: default
+title: Statistical Machine Translation course at NASSLLI 2012
+sidebar: <p><img src="img/artsrouni.jpg" width="180" alt="Georges Artsrouni's mechanical brain, an early mechanical translation device"/><p><i>Georges Artrouni's mechanical brain, a translation device patented in France in 1933.</i>
+---
+<h1>Statistical Machine Translation</h1>
+<div id="course" class="cv">
+<p>A course at <a href="http://nasslli2012.com/">NASSLLI 2012</a> taught by <a href="index.html">Adam Lopez</a>.  
+
+<p> Google translate can instantly translate between any pair of over fifty human 
+languages (for instance, from French to English). How does it do that? Why does 
+it make the errors that it does? And how can you build something better? Modern 
+translation systems <i>learn</i> how to translate by reading millions of words of 
+already translated text, and this course will show you how they work. Despite
+demonstrable success over the last decade, much work remains to be done, so
+we will also identify open questions at the heart of current research, as well
+as computational and linguistic insights that may help solve them. The 
+course covers a diverse set of fundamental building blocks from linguistics, 
+machine learning, algorithms, data structures, and formal language theory, 
+along with their application to a real and difficult problem in artificial 
+intelligence.
+
+<div class="news">
+<h2>News</h2>
+Welcome to the course web page! This page will be updated with new information
+as NASSLLI 2012 approaches, and every day during the actual course.
+</div>
+
+<h2>Lectures</h2>
+<ul class="posts">
+	<li>Day One: an introduction to statistical machine translation: how can machines learn to translate?
+	<li>Day Two: probabilistic modeling, language models, and finite-state translation models based on words.</li> 
+	<li>Day Three: finite-state translation models based on phrases, and decoding of finite-state models.</li> 
+	<li>Day Four: context-free models and their decoding algorithms, and unsupervised learning of translation models.</li> 
+	<li>Day Five: evaluation and supervised learning of translation models.</li> 
+</ul>
+
+<h2>Where to go for more information</h2>
+<ul class="posts">
+Introductory material on machine translation:
+	<li><a href="http://www.cs.jhu.edu/~alopez/papers/survey.pdf">Statistical Machine Translation</a> by <a href="index.html">Adam Lopez</a>. This is a forty-page self-contained survey of the field of statistical machine translation that was published in ACM Computing Surveys.  Much of the course material is based on the survey, and you can find more formal explanations of many of the course concepts there.</li>
+	<li>For even more detail, <a href="http://www.statmt.org/book/">Statistical Machine Translation</a> is an introductory textbook written by <a href="http://www.iccs.informatics.ed.ac.uk/~pkoehn/">Philipp Koehn</a>.  Anyone with a serious interest in machine translation should have a copy of it.</li>
+	<li><a href="http://www.isi.edu/natural-language/mt/wkbk.pdf">A Statistical MT Tutorial Workbook</a> by <a href="http://www.isi.edu/~knight/">Kevin Knight</a> is a great, informal introduction for beginners.  You might consider working through this exercise before moving on to the above texts.
+	<li><a href="http://www.iccs.informatics.ed.ac.uk/~pkoehn/">Philipp Koehn</a> and <a href="http://www.cs.jhu.edu/~ccb/">Chris Callison-Burch</a> previously taught machine translation at ESSLLI in 2005: Day 
+    <a href="http://www.iccs.informatics.ed.ac.uk/~pkoehn/publications/esslli-slides-day1.pdf">1</a>, 
+    <a href="http://www.iccs.informatics.ed.ac.uk/~pkoehn/publications/esslli-slides-day2.pdf">2</a>,
+    <a href="http://www.iccs.informatics.ed.ac.uk/~pkoehn/publications/esslli-slides-day3.pdf">3</a>,
+    <a href="http://www.iccs.informatics.ed.ac.uk/~pkoehn/publications/esslli-slides-day4.pdf">4</a>,
+    <a href="http://www.iccs.informatics.ed.ac.uk/~pkoehn/publications/esslli-slides-day5.pdf">5</a>.</li>
+  <li><a href="http://www.statmt.org">statmt.org</a> is a website with pointers to various statistical machine translation resources.</li>
+  <li>The <a href="http://mt-archive.info/">MT Archive</a> holds many, if not most, modern research papers on machine translation.</li>
+  <li>On the non-technical side, <a href="http://www.hutchinsweb.me.uk/">John Hutchins</a> has written several interesting <a href="http://www.hutchinsweb.me.uk/main.htm">papers</a> about the history of machine translation and its uses.</li>
+</ul>
+There are many relevant tutorials on the fundamental techniques at the heart
+of most statistical machine translation systems.  Here are few that I've
+found useful.
+<ul>
+  <li><a href="http://www.cs.nyu.edu/~mohri">Mehryar Mohri</a>'s 
+    <a href="http://www.cs.nyu.edu/~mohri/pub/cl1.pdf"a>tutorial</a> on weighted
+    finite-state automata, which underlie many translation models.</li>
+  <li><a href="http://www.isi.edu/~chiang/">David Chiang</a>'s gentle <a href="http://www.isi.edu/~chiang/papers/synchtut.pdf">tutorial</a> on synchronous grammars, which underlie many other models (<a href="http://www.isi.edu/~chiang/papers/synchtut-slides.pdf">slides</a>).  I used a few of his examples in my slides.</li>
+  <li><a href="http://www.isi.edu/~lhuang/">Liang Huang</a>'s <a href="http://www.cis.upenn.edu/~lhuang3/coling.pdf">tutorial</a> on dynamic programming.
+  <li><a href="http://ssli.ee.washington.edu/~bilmes/pgs/index.html">Jeff Bilmes</a> wrote a nice <a href="http://ssli.ee.washington.edu/~bilmes/mypubs/bilmes1997-em.pdf">tutorial</a> on the Expectation Maximization algorithm.</li>
+</ul>
+
+<h2>Software</h2>
+State-of-the-art translation algorithms are implemented in a number of
+open-source projects. The most popular of these are listed below.
+They are all actively maintained and have significant userbases.  
+<ul>
+  <li><a href="http://cs.jhu.edu/~ccb/joshua/">Joshua</a>: a translation toolkit for syntax-based translation, developed at Johns Hopkins (Java).</li>
+  <li><a href="http://www.statmt.org/moses/">Moses</a>: a widely-used toolkit implementing most major translation algorithms (C++).</li>
+  <li><a href="http://www.cdec-decoder.org">cdec</a>: a fast decoder for a variety of translation models (C++).</li>
+  <li><a href="http://kheafield.com/code/kenlm/">KenLM</a>: a fast language-modeling toolkit, can be used with the above systems (C++).</li>
+  <li><a href="http://www.speech.sri.com/projects/srilm/">SRI-LM</a>: a widely-used language modeling toolkit with many features, used with the above systems (C++).</li>
+  <li><a href="http://code.google.com/p/giza-pp/">Giza++</a>: a widely-used word alignment toolkit, originally developed at a Johns Hopkins summer workshop (C++).</li>
+  <li><a href="http://nlp.cs.berkeley.edu/Main.html#WordAligner">Berkeley Aligner</a>: a robust Java implementation of several innovative alignment algorithms (Java).</li>
+</ul>
+
+<h2>Data</h2>
+Modern machine translation systems work by learning from large amounts
+of data. Many datasets are freely available. By feeding one of these
+datasets into one of the software toolkits above, you can build your 
+own a machine translation in as little as a few hours or days.
+<ul>
+  <li><a href="http://www.statmt.org/wmt11/translation-task.html">Machine Translation workshop 2011 shared task data</a>, used in research evaluations (French-English, Spanish-English, Czech-English, Haitian Creole-English).</li>
+  <li><a href="http://langtech.jrc.it/JRC-Acquis.html">JRC-Acquis</a>, legislative text of the European Union (22 European languages).</li>
+  <li><a href="http://statmt.org/europarl/">Europarl</a>, proceedings of the European Parliament (22 European languages).</li>
+  <li><a href="http://www.isi.edu/natural-language/download/hansard/">Canadian Hansards</a>, proceedings of the Canadian Parliament (French and English).</li>
+</ul>
+
