@@ -1,0 +1,7 @@
+---
+layout: talk
+title: Integrated Parsing and Tagging
+doc-url: http://www.cs.jhu.edu/~alopez/talks/integrated-parsing-and-tagging_lopez.pdf
+venue: Talk at IBM Research
+---
+
