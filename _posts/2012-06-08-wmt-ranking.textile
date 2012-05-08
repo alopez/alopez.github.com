@@ -1,0 +1,25 @@
+---
+layout: paper
+paper-type: inproceedings
+title: Putting Human Assessments of Machine Translation Systems in Order
+doc-url: http://www.cs.jhu.edu/~alopez/papers/wmt2012-alopez.pdf
+booktitle: Proceedings of WMT
+booktitle-url: http://www.statmt.org/wmt12/
+code: https://github.com/alopez/wmt-ranking
+abstract: >
+  Human assessment is often considered the gold standard in evaluation of 
+  translation systems. But in order for the evaluation to be meaningful, 
+  the rankings obtained from human assessment must be consistent and 
+  repeatable, and recent analysis by <a href="http://aclweb.org/anthology-new/W/W11/W11-2101.pdf">Bojar et al. (2011)</a> raised 
+  several concerns about the rankings derived from human assessments of 
+  English-Czech translation systems in the 2010 Workshop on Machine Translation.
+  We extend their analysis to <i>all</i> of the ranking tasks from 2010 and 
+  2011, and show through an extension of their reasoning that the ranking is 
+  naturally cast as an instance of finding the minimum feedback arc set in a 
+  tournament, a well-known NP-complete problem. All instances of this problem 
+  in the workshop data are efficiently solvable, but in some cases the rankings 
+  it produces are surprisingly different from the ones previously published. 
+  This leads to strong caveats and recommendations for both producers and 
+  consumers of these rankings.
+---
+
