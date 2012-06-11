@@ -6,6 +6,7 @@ doc-url: http://www.cs.jhu.edu/~alopez/papers/wmt2012-alopez.pdf
 booktitle: Proceedings of WMT
 booktitle-url: http://www.statmt.org/wmt12/
 code: https://github.com/alopez/wmt-ranking
+slides: http://www.cs.jhu.edu/~alopez/talks/alopez-wmt2012-slides.pdf
 abstract: >
   Human assessment is often considered the gold standard in evaluation of 
   translation systems. But in order for the evaluation to be meaningful, 
