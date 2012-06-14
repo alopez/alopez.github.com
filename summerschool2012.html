@@ -101,7 +101,7 @@ translate some sentences from Arcturan to Centauri by hand</a>.
 <a name="starting"></a>
 <h2>Getting Started</h2>
 
-<p>Run this command:</p>
+<p>Run this command <b>in your home directory</b> on the CLSP cluster:</p>
 
 <p><pre>git clone https://github.com/alopez/dreamt.git</pre></p>
 
@@ -141,12 +141,28 @@ the change on the command line:</p>
 you can do is change the threshold criterion used 
 by the aligner.  How does this affect alignment error rate?</p>
 
+<p>It is a good idea to experiment with variations on the algorithm on
+a small number of sentences, but in order to compete you will need to 
+align the entire dataset. Aligning the complete data will take several 
+minutes! Your alignment of the data should be saved in a
+file called <tt>result.out</tt>:</p>
+
+<p><tt>align &gt; result.out</tt></p>
+
+This file will be found and the score will be displayed on 
+<a href="leaderboard.html">the leaderboard</a>
+after a few minutes. Note that the score will not be the same as the one
+shown by the grade program! This is because your alignments are scored
+against a hidden answer key.
+
 <a name="challenge"></a>
 <h2>The Challenge</h2>
 
 <p>Your task for this assignment is to <b>improve the
-alignment error rate as much as possible</b>. It shouldn't be hard to 
-improve it at least some: you've probably noticed that thresholding a Dice 
+alignment error rate as much as possible</b>. This assignment is competitive:
+you will be evaluated by how well you place on <a href="leaderboard.html">the leaderboard</a>.
+It shouldn't be hard to 
+improve the alignments at least some: you've probably noticed that thresholding a Dice 
 coefficient is a bad idea because alignments don't compete against one 
 another. A good way to correct this is with a probabilistic model like IBM Model 1.
 It forces all of the English words in a sentence to compete 
@@ -210,11 +226,6 @@ Here are some ideas:</p>
 <p>But the sky's the limit! You can try anything you want.
 If you have any questions or you're confused about anything, just ask!
 
-
-<p><em>Credits: This assignment is adapted from one originally developed by 
-<a href="http://homepages.inf.ed.ac.uk/pkoehn/">Philipp Koehn</a>, 
-and later modified by <a href="http://www.denero.org/">John DeNero</a>.
-</p>
 
 <div class="footer">
   <p>Last updated on {{ site.time | date: "%B %d, %Y" }}.  Site created using 
