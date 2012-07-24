@@ -2,7 +2,7 @@
 layout: paper
 paper-type: inproceedings
 title: Putting Human Assessments of Machine Translation Systems in Order
-doc-url: http://www.cs.jhu.edu/~alopez/papers/wmt2012-alopez.pdf
+doc-url: http://www.aclweb.org/anthology-new/W/W12/W12-3101.pdf
 booktitle: Proceedings of WMT
 booktitle-url: http://www.statmt.org/wmt12/
 code: https://github.com/alopez/wmt-ranking
