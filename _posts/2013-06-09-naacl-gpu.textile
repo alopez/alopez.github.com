@@ -1,0 +1,9 @@
+---
+layout: paper
+paper-type: inproceedings
+title: Massively Parallel Suffix Array Queries and On-Demand Phrase Extraction for Statistical Machine Translation Using GPUs
+authors: Hua He, Jimmy Lin, and Adam Lopez
+booktitle: Proceedings of NAACL HLT
+booktitle-url: http://naacl2013.naacl.org/
+---
+
