@@ -1,0 +1,9 @@
+---
+layout: paper
+paper-type: inproceedings
+title: Dirt Cheap Web-Scale Parallel Text from the Common Crawl
+authors: Jason Smith, Herve Saint-Amand, Magdalena Plamada, Philipp Koehn, Chris Callison-Burch and Adam Lopez
+booktitle: Proceedings of ACL
+booktitle-url: http://acl2013.org/site/
+---
+

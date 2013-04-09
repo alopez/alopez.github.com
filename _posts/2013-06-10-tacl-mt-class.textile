@@ -2,8 +2,24 @@
 layout: paper
 paper-type: article 
 title: Learning to translate with products of novices&#58; Teaching MT with open-ended challenge problems
-authors: with Matt Post, Chris Callison-Burch, Jonathan Weese, Juri Ganitkevitch, Narges Ahmidi, Olivia Buzek, Leah Hanson, Beenish Jamil, Matthias Lee, Ya-Ting Lin, Henry Pao, Fatima Rivera, Leili Shahriyari, Debu Sinha, Adam Teichert, Stephen Wampler, Michael Weinberger, Daguang Xu, Lin Yang, and Shang Zhao
+authors: With Matt Post, Chris Callison-Burch, Jonathan Weese, Juri Ganitkevitch, Narges Ahmidi, Olivia Buzek, Leah Hanson, Beenish Jamil, Matthias Lee, Ya-Ting Lin, Henry Pao, Fatima Rivera, Leili Shahriyari, Debu Sinha, Adam Teichert, Stephen Wampler, Michael Weinberger, Daguang Xu, Lin Yang, and Shang Zhao
+doc-url: http://www.cs.jhu.edu/~alopez/papers/tacl2013-mt-class.pdf
+code: https://github.com/alopez/dreamt
 journal: Transactions of the ACL
 journal-url: http://www.transacl.org/
+abstract: > 
+  Machine translation (MT) draws from several different disciplines, making 
+  it a complex subject to teach. There are excellent pedagogical texts, but 
+  problems in MT and current algorithms for solving them are best learned by 
+  doing. As a centerpiece of our MT course, we devised a series of open-ended 
+  challenges for students in which the goal was to improve performance on 
+  carefully constrained instances of four key MT tasks: alignment, decoding, 
+  evaluation, and reranking. Students brought a diverse set of techniques to 
+  the problems, including some novel solutions which performed remarkably well. 
+  A surprising and exciting outcome was that student solutions or their 
+  combinations fared competitively on some tasks, demonstrating that even 
+  newcomers to the field can help improve the state-of-the-art on hard NLP 
+  problems while simultaneously learning a great deal. The problems, baseline 
+  code, and results are freely available.
 ---
 
