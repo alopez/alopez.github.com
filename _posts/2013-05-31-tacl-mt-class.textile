@@ -4,7 +4,7 @@ paper-type: article
 title: Learning to translate with products of novices&#58; a suite of open-ended challenge problems for teaching MT
 authors: With Matt Post, Chris Callison-Burch, Jonathan Weese, Juri Ganitkevitch, Narges Ahmidi, Olivia Buzek, Leah Hanson, Beenish Jamil, Matthias Lee, Ya-Ting Lin, Henry Pao, Fatima Rivera, Leili Shahriyari, Debu Sinha, Adam Teichert, Stephen Wampler, Michael Weinberger, Daguang Xu, Lin Yang, and Shang Zhao
 doc-url: http://www.transacl.org/wp-content/uploads/2013/05/paper165.pdf 
-code: https://github.com/alopez/dreamt
+code: https://alopez.github.io/dreamt
 journal: Transactions of the ACL
 journal-url: http://www.transacl.org/
 volume: 1
