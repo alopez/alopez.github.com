@@ -1,0 +1,39 @@
+---
+layout: default
+title: Adam Lopez | Papers &amp; Talks
+picture: levitated-mass
+---
+<div class="page-header">
+  <h3>Papers and Talks</h3>
+<blockquote><i>I would have written a shorter letter, but I did not have the time.<br/>&mdash;Blaise Pascal</i></blockquote>
+</div>
+
+<h4>Papers</h4>
+{% for post in site.papers %}
+  {% include paper.html paper=post %}
+{% endfor %}
+
+<h4>Talks</h4>
+<p>
+My slides are visual aids for talks, and I make no representation that they 
+stand on their own. People still ask for them, so if you find them 
+useful, you're free to use them as you like.
+I'd appreciate an acknowledgement if you do.
+</p>
+
+{% for talk in site.talks %}
+<div class="media">
+  <a class="pull-left thumbnail" {%if talk.url %} href="{{ talk.url }}" {% endif %}>
+    <img class="media-object" src="img/talk/{{ talk.img }}">
+  </a>
+  <div class="media-body">
+    <strong>{{ talk.title }}</strong><br/>
+    {{ talk.detail }}
+    {% if talk.video %}<br/>
+      <a href="{{ talk.video }}"><span class="glyphicon glyphicon-film"></span></a> Video
+    {% endif %}
+  </div>
+</div>
+{% endfor %}
+
+

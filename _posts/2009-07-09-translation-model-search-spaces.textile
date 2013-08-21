@@ -1,9 +1,0 @@
----
-layout: talk
-title: Translation Model Search Spaces
-doc-url: http://www.cs.jhu.edu/~alopez/talks/saarland.pdf
-venue: Talk at Saarland University 
-note: >
-  Also given at at Dublin City University.
----
-

@@ -1,8 +1,0 @@
----
-layout: talk
-title: Learning to Translate with Products of Novices
-doc-url: http://www.cs.jhu.edu/~alopez/talks/mt-class-isi.pdf
-venue: Talk in the AI seminar at ISI.
-video: http://webcasterms1.isi.edu/mediasite/SilverlightPlayer/Default.aspx?peid=ea55185170054e13972a0ea5b932eb6c1d
----
-

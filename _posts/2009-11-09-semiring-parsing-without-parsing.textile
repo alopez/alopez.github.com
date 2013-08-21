@@ -1,7 +1,0 @@
----
-layout: talk
-title: Semiring Parsing without Parsing
-doc-url: http://www.cs.jhu.edu/~alopez/talks/oxford.pdf
-venue: Talk at Cambridge and Oxford Universities
----
-
