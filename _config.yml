@@ -93,7 +93,7 @@ papers:
     title: Learning to translate with products of novices&#58; a suite of open-ended challenge problems for teaching MT
     authors: With Matt Post, Chris Callison-Burch, Jonathan Weese, Juri Ganitkevitch, Narges Ahmidi, Olivia Buzek, Leah Hanson, Beenish Jamil, Matthias Lee, Ya-Ting Lin, Henry Pao, Fatima Rivera, Leili Shahriyari, Debu Sinha, Adam Teichert, Stephen Wampler, Michael Weinberger, Daguang Xu, Lin Yang, and Shang Zhao
     doc-url: http://www.transacl.org/wp-content/uploads/2013/05/paper165.pdf 
-    code: https://alopez.github.io/dreamt
+    code: http://alopez.github.io/dreamt/
     img: tacl2013
     journal: Transactions of the ACL
     journal-url: http://www.transacl.org/
@@ -290,7 +290,7 @@ papers:
     year: 2010
     authors: Abhishek Arun, Barry Haddow, Philipp Koehn, Adam Lopez, Phil Blunsom, and Chris Dyer
     title: Monte Carlo Techniques for Phrase-Based Translation
-    doc-url: http://www.springerlink.com/content/d55r04j3850h8473/
+    doc-url: http://link.springer.com/article/10.1007%2Fs10590-010-9080-7
     journal: Machine Translation
     journal-url: http://www.springer.com/computer/ai/journal/10590
     img: mtj2010
@@ -304,7 +304,7 @@ papers:
     paper-type: inproceedings
     year: 2010
     authors: Chris Dyer, Adam Lopez, Juri Ganitkevitch, Jonny Weese, Ferhan Ture, Phil Blunsom, Hendra Setiawan, Vlad Eidelman, and Philip Resnik
-    title: <tt>cdec</tt>&#58; A Decoder, Alignment, and Learning Framework for Finite-State and Context-Free Translation Models
+    title: cdec&#58; A Decoder, Alignment, and Learning Framework for Finite-State and Context-Free Translation Models
     pages: 7&ndash;12
     booktitle: Proceedings of ACL (Demonstration track)
     booktitle-url: http://www.acl2010.org/

@@ -24,7 +24,7 @@ I'd appreciate an acknowledgement if you do.
 {% for talk in site.talks %}
 <div class="media">
   <a class="pull-left thumbnail" {%if talk.url %} href="{{ talk.url }}" {% endif %}>
-    <img class="media-object" src="img/talk/{{ talk.img }}">
+    <img class="media-object" src="img/talk/{{ talk.img }}" alt="">
   </a>
   <div class="media-body">
     <strong>{{ talk.title }}</strong><br/>

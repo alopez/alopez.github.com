@@ -1,6 +1,6 @@
 <div class="media">
   <a class="pull-left thumbnail" {% if include.paper.doc-url %} href="{{ include.paper.doc-url }}" {% endif %}>
-    <img src="img/paper/{{ include.paper.img }}.jpg"/>
+    <img src="img/paper/{{ include.paper.img }}.jpg" alt=""/>
   </a>
   <div class="media-body">
     <strong>{{ include.paper.title }}</strong><br/>
@@ -18,8 +18,8 @@
       {% when "article" %}
         In
         {% if include.paper.journal-url %}
-          <a subtle="yes" href="{{ include.paper.journal-url }}">
-            <span class="glyphicon glyphicon-globe">
+          <a href="{{ include.paper.journal-url }}">
+            <span class="glyphicon glyphicon-globe"></span>
           </a>
         {% endif %}
           <i>{{ include.paper.journal }}</i>,
@@ -33,11 +33,11 @@
     {% if include.paper.abstract %}
       <a data-toggle="modal" href="#abstract{{ include.paper.img }}" class="label label-default">Abstract</a>
       <!-- Modal -->
-      <div class="modal fade" id="abstract{{ include.paper.img }}" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> <div class="modal-dialog">
+      <div class="modal fade" id="abstract{{ include.paper.img }}" tabindex="-1" role="dialog" aria-labelledby="h4#abstract{{ include.paper.img }}" aria-hidden="true"> <div class="modal-dialog">
           <div class="modal-content">
             <div class="modal-header">
               <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-            <h4 class="modal-title">{{ include.paper.title }}</h4>
+              <h4 class="modal-title">{{ include.paper.title }}</h4>
             </div>
             <div class="modal-body">
               {{ include.paper.abstract }}
@@ -48,7 +48,7 @@
     {% endif %}
     {% if include.paper.errata %}
       <!-- Modal -->
-      <div class="modal fade" id="errata{{ include.paper.id | replace: '/', '_' }}" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> <div class="modal-dialog">
+      <div class="modal fade" id="errata{{ include.paper.img }}" tabindex="-1" role="dialog" aria-labelledby="h4#errata{{ include.paper.img }}" aria-hidden="true"> <div class="modal-dialog">
           <div class="modal-content">
             <div class="modal-header">
               <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
@@ -60,7 +60,7 @@
           </div><!-- /.modal-content -->
         </div><!-- /.modal-dialog -->
       </div><!-- /.modal --> 
-       <a data-toggle="modal" href="#errata{{ include.paper.id | replace: '/', '_' }}" class="label label-warning">
+       <a data-toggle="modal" href="#errata{{ include.paper.img }}" class="label label-warning">
          Errata
       </a>&nbsp;      
     {% endif %}
