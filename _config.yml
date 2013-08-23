@@ -313,7 +313,7 @@ papers:
     doc-url: http://aclweb.org/anthology-new/P/P10/P10-4002.pdf
     venue: workshop
     abstract: >
-      We present <tt>cdec</tt>, an open source framework for decoding, aligning with, and 
+      We present cdec, an open source framework for decoding, aligning with, and 
       training a number of statistical machine 
       translation models, including word-based 
       models, phrase-based models, and models 
