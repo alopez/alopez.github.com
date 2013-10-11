@@ -2,6 +2,11 @@ exclude: ['README.md']
 timezone: US/Eastern
 talks:
   -
+    title: Compact Adaptable Translation Models on GPUs
+    detail: Talk at Google, 2013.
+    url: "http://www.cs.jhu.edu/~alopez/talks/gpus-oct2013-google.pdf"
+    img: "google-talk.jpg"
+  -
     title: Learning to Translate with Products of Novices
     detail: Talk at Information Science Institute, 2013.
     url: "http://www.cs.jhu.edu/~alopez/talks/mt-class-isi.pdf"
@@ -25,7 +30,7 @@ talks:
 papers:
   - layout: paper
     paper-type: inproceedings
-    selected: n
+    selected: no
     year: 2013
     img: 20yearsofbitext
     title: Beyond Bitext&#58; Five Open Problems in Machine Translation
