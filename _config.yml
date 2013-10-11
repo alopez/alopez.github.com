@@ -23,6 +23,30 @@ talks:
     url: http://www.cs.jhu.edu/~alopez/talks/saarland.pdf
     img: "saarland-talk.jpg"
 papers:
+  - layout: paper
+    paper-type: inproceedings
+    selected: n
+    year: 2013
+    img: 20yearsofbitext
+    title: Beyond Bitext&#58; Five Open Problems in Machine Translation
+    doc-url: papers/five_open_problems_in_mt.pdf
+    authors: with Matt Post
+    booktitle: Twenty Years of Bitext
+    booktitle-url: https://sites.google.com/site/20yearsofbitext/
+    abstract: >
+      In twenty years, the machine translation (MT)
+      research community has learned a great deal
+      about problems that can be solved with bitext. Yet for many potential
+      MT uses, there is little if any available bitext.
+      In the next twenty years, these uses will become
+      increasingly important, and the research community
+      must marshal its resources to solve
+      the new problems that they present. Specifically, we must assemble
+      large numbers of <i>small</i> bitexts for testing systems,
+      rather than small numbers of <i>large</i> bitexts
+      for training them. Small bitexts won't solve the new problems
+      alone, but they will help the research community identify 
+      the problems that need solving.
   -
     layout: paper
     paper-type: inproceedings
