@@ -2,6 +2,28 @@
 layout: default
 title: Adam Lopez
 picture: nike
+news:
+  - >
+      I have an opening for a current JHU Ph.D. student on an exploratory
+      <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1349902">NSF project</a>
+      on formal language theory and translation.
+  - >
+      Join my 2013-14 reading group: <a href="https://piazza.com/jhu/fall2013/en600771/home">Probability on Strings, Trees, and Sequences</a>.
+  - >
+      I will teach <a href="http://mt-class.org/">Machine Translation</a> wth Matt Post in spring 2014.
+  - >
+      We have an exciting lineup of speakers for the 2013-14 <a href="http://www.clsp.jhu.edu/seminars/">CLSP seminar</a>,
+      which I organize.
+  - >
+      <a href="http://www.isi.edu">ISI</a> posted <a href="http://webcasterms1.isi.edu/mediasite/SilverlightPlayer/Default.aspx?peid=ea55185170054e13972a0ea5b932eb6c1d">a video</a>
+      of the <a href="http://www.isi.edu/technology_groups/insy/events/learning_translate_products_novices_open-ended_challenge_problems_teac">talk</a>
+      I gave in their <a href="http://www.isi.edu/technology_groups/insy/events">artificial intelligence seminar</a> in June 2013.
+  - >
+      I spent ten weeks in the summer of 2013 as a visiting scientist at <a href="http://www.sdl.com/research/language-technology/">SDL Research</a>.
+  - >
+      My Ph.D. student <a href="http://research.microsoft.com/en-us/um/people/michauli/">Michael Auli</a>
+      successfully defended <a href="http://homepages.inf.ed.ac.uk/s0453934/papers/michael.auli.thesis.pdf">his thesis</a> 
+      and joined Microsoft Research in fall 2012.
 ---
 <div class="page-header">
   <div class="row">
@@ -68,35 +90,9 @@ picture: nike
 
 <h4>News</h4>
 <ul>
-  <li>
-    Join my fall 2013 reading group: <a href="https://piazza.com/jhu/fall2013/en600771/home">Probability on Strings, Trees, and Sequences</a>.
-    It will continue in spring 2014.
-  </li>
-  <li>
-    I will teach <a href="http://mt-class.org/">Machine Translation</a> wth Matt Post in spring 2014.
-  <li>
-    We have an exciting lineup of speakers for the fall 2013 <a href="http://www.clsp.jhu.edu/seminars/">CLSP seminar</a>,
-    which I organize.
-  </li>
-  <li>
-    I received an <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1349902">NSF EAGER award</a> for 2013-14.</li>
-  <li>
-    <a href="http://www.isi.edu">ISI</a> posted <a href="http://webcasterms1.isi.edu/mediasite/SilverlightPlayer/Default.aspx?peid=ea55185170054e13972a0ea5b932eb6c1d">a video</a>
-    of the <a href="http://www.isi.edu/technology_groups/insy/events/learning_translate_products_novices_open-ended_challenge_problems_teac">talk</a>
-    I gave in their <a href="http://www.isi.edu/technology_groups/insy/events">artificial intelligence seminar</a> in June 2013.
-  </li>
-  <li>
-    I spent ten weeks in the summer of 2013 as a visiting scientist at <a href="http://www.sdl.com/research/language-technology/">SDL Research</a>.
-  </li>
-  <li>
-    My Ph.D. student <a href="http://old-site.clsp.jhu.edu/~jrsmith/">Jason Smith</a> will 
-    graduate in 2013. He has accepted a position at <a href="http://www.google.com">Google</a>.
-  </li>
-  <li>
-    My Ph.D. student <a href="http://research.microsoft.com/en-us/um/people/michauli/">Michael Auli</a>
-    successfully defended <a href="http://homepages.inf.ed.ac.uk/s0453934/papers/michael.auli.thesis.pdf">his thesis</a> 
-    and joined Microsoft Research in fall 2012.
-  </li>
+{% for item in page.news %}
+  <li>{{ item }}</li>
+{% endfor %}
 </ul>
 
 <h4>Selected Papers</h4>
