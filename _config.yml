@@ -34,9 +34,10 @@ papers:
     year: 2013
     img: iwslt2013
     title: General lattice decoding for improved speech-to-text translation with the Fisher and Callhome Spanish-English Speech Translation Corpus 
-    authors: Matt Post, Gaurav Kumar, Adam Lopez, Chris Callison-Burch, Damianos Karakos, and Sanjeev Khudanpur
+    authors: Matt Post, Gaurav Kumar, Adam Lopez, Damianos Karakos, Chris Callison-Burch, and Sanjeev Khudanpur
     booktitle: Proceedings of IWSLT
     booktitle-url: http://www.iwslt2013.org/
+    doc-url: papers/iwslt2013-post-etal.pdf
     venue: workshop
   - layout: paper
     paper-type: inproceedings
