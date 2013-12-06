@@ -39,6 +39,28 @@ papers:
     booktitle-url: http://www.iwslt2013.org/
     doc-url: papers/iwslt2013-post-etal.pdf
     venue: workshop
+    abstract: >
+      <p>Research into the translation of the output of automatic speech 
+      recognition (ASR) systems is hindered by the dearth of datasets 
+      developed for that explicit purpose. For Spanish-English translation, 
+      in particular, most parallel data available exists only in vastly 
+      different domains and registers. In order to support research on 
+      cross-lingual speech applications, we introduce the Fisher and 
+      Callhome Spanish-English Speech Translation Corpus, supplementing 
+      existing LDC audio and transcripts with (a) ASR 1-best, lattice, 
+      and oracle output produced by the Kaldi recognition system and 
+      (b) English translations obtained on Amazon’s Mechanical Turk. 
+      The result is a four-way parallel dataset of Spanish audio, 
+      transcriptions, ASR lattices, and English translations of 
+      approximately 38 hours of speech, with defined training, development, 
+      and held-out test sets.</p>
+      <p>We conduct baseline machine translation experiments using models 
+      trained on the provided training data, and validate the dataset by 
+      corroborating a number of known results in the field, including the 
+      utility of in-domain (information, conversational) training data, 
+      increased performance translating lattices (instead of recognizer 
+      1-best output), and the relationship between word error rate and 
+      BLEU score.</p>
   - layout: paper
     paper-type: inproceedings
     selected: no
