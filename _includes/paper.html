@@ -23,9 +23,9 @@
           </a>
         {% endif %}
           <i>{{ include.paper.journal }}</i>,
-            {% if include.paper.volume %}{{ include.paper.volume }}{% endif %}{% if include.paper.number %}({{ include.paper.number }}){% endif %}:
-            {% if include.paper.article%}Article {{ include.paper.article}},{% endif %}
-            {% if include.paper.pages %}pages {{ include.paper.pages }},{% endif %}
+            {% if include.paper.volume %}{{ include.paper.volume }}{% endif %}{% if include.paper.number %}({{ include.paper.number }}){% endif %}
+            {% if include.paper.article%}: Article {{ include.paper.article}},{% endif %}
+            {% if include.paper.pages %}: pages {{ include.paper.pages }},{% endif %}
       {% when "dissertation" %}
         Dissertation, {{ include.paper.institution }}.
     {% endcase %} 

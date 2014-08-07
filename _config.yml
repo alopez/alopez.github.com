@@ -29,6 +29,28 @@ talks:
     img: "saarland-talk.jpg"
 papers:
   - layout: paper
+    paper-type: article
+    selected: no
+    year: 2014
+    img: mtm2014
+    title: The machine translation leaderboard
+    authors: Matt Post and Adam Lopez
+    journal: The Prague Bulletin of Mathematical Linguistics
+    doc-url: https://drive.google.com/file/d/0B7cpo43vOGF1M01tY3FxUjBkeUU
+    journal-url: http://ufal.mff.cuni.cz/pbml 
+    venue: workshop
+    abstract: >
+      <p> Much of an instructor's time is spent on the management and 
+      grading of homework. We present the Machine Translation Leaderboard, 
+      a platform for managing, displaying, and automatically grading 
+      homework assignments. It runs on Google App Engine, which provides 
+      hosting and user management services. Among its many features are the 
+      ability to easily define new assignments, manage submission histories,
+      maintain a development / test set distinction, and display a 
+      leaderboard. An entirely new class can be set up in minutes with 
+      minimal configuration. It comes pre-packaged with five assignments 
+      used in a graduate course on machine translation.
+  - layout: paper
     paper-type: inproceedings
     selected: no
     year: 2013
