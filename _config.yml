@@ -29,6 +29,17 @@ talks:
     img: "saarland-talk.jpg"
 papers:
   - layout: paper
+    selected: y
+    paper-type: article 
+    year: 2015
+    title: Approximate pattern matching on GPUs for on-demand extraction of hierarchical translation grammars
+    authors: Hua He, Jimmy Lin, and Adam Lopez
+    img: inpress
+    journal: Transactions of the ACL
+    journal-url: http://www.transacl.org/
+    volume: 3
+    venue: conference
+  - layout: paper
     paper-type: article
     selected: no
     year: 2014
@@ -146,7 +157,7 @@ papers:
       mine this rich new data resource.
   -
     layout: paper
-    selected: y
+    selected: no
     paper-type: inproceedings
     year: 2013
     title: Massively Parallel Suffix Array Queries and On-Demand Phrase Extraction for Statistical Machine Translation Using GPUs
@@ -172,7 +183,7 @@ papers:
       milliseconds.
   -
     layout: paper
-    selected: y
+    selected: n
     paper-type: article 
     year: 2013
     title: Learning to translate with products of novices&#58; a suite of open-ended challenge problems for teaching MT
