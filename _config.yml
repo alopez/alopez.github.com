@@ -38,6 +38,7 @@ papers:
     authors: Hua He, Jimmy Lin, and Adam Lopez
     journal: Transactions of the ACL
     journal-url: https://tacl2013.cs.columbia.edu/ojs/index.php/tacl
+    code: http://hohocode.github.io/cgx/
     volume: 3
     venue: conference
     abstract: >
