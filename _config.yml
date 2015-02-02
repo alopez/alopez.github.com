@@ -32,13 +32,34 @@ papers:
     selected: y
     paper-type: article 
     year: 2015
-    title: Approximate pattern matching on GPUs for on-demand extraction of hierarchical translation grammars
+    img: hiero-gpu
+    title: Gappy pattern matching on GPUs for on-demand extraction of hierarchical translation grammars
+    doc-url: https://drive.google.com/file/d/0B7cpo43vOGF1Q2duenRUWXEwU0k/view
     authors: Hua He, Jimmy Lin, and Adam Lopez
-    img: inpress
     journal: Transactions of the ACL
-    journal-url: http://www.transacl.org/
+    journal-url: https://tacl2013.cs.columbia.edu/ojs/index.php/tacl
     volume: 3
     venue: conference
+    abstract: >
+      Grammars for machine translation can
+      be materialized on demand by finding source phrases in an
+      indexed parallel corpus and extracting their translations.
+      This approach is limited in practical applications
+      by the computational expense of online lookup and extraction.
+      For <em>phrase-based</em> models, recent work has shown that on-demand grammar extraction
+      can be greatly accelerated by parallelization on general purpose graphics processing
+      units (GPUs), but these algorithms do not
+      work for <em>hierarchical</em>, which require matching patterns that contain gaps.
+      We address this limitation by presenting a novel
+      GPU algorithm for on-demand hierarchical grammar
+      extraction that is at least an order of magnitude faster than
+      a comparable CPU algorithm when processing large batches of sentences.
+      In terms of end-to-end translation, with decoding on the CPU, we increase
+      throughput by roughly two thirds on a standard MT evaluation dataset.
+      The GPU necessary to achieve these improvements increases the cost of a server by about a third.
+      We believe that GPU-based extraction of hierarchical grammars
+      is an attractive proposition, particularly for MT applications
+      that demand high throughput.
   - layout: paper
     paper-type: article
     selected: no
