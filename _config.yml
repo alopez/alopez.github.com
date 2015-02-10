@@ -34,7 +34,7 @@ papers:
     year: 2015
     img: hiero-gpu
     title: Gappy pattern matching on GPUs for on-demand extraction of hierarchical translation grammars
-    doc-url: https://tacl2013.cs.columbia.edu/ojs/index.php/tacl/article/view/555 
+    doc-url: http://aclweb.org/anthology/Q/Q15/Q15-1007.pdf
     authors: Hua He, Jimmy Lin, and Adam Lopez
     journal: Transactions of the ACL
     journal-url: https://tacl2013.cs.columbia.edu/ojs/index.php/tacl
