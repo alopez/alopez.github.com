@@ -34,7 +34,7 @@ papers:
     year: 2015
     img: hiero-gpu
     title: Gappy pattern matching on GPUs for on-demand extraction of hierarchical translation grammars
-    doc-url: https://drive.google.com/file/d/0B7cpo43vOGF1Q2duenRUWXEwU0k/view
+    doc-url: https://tacl2013.cs.columbia.edu/ojs/index.php/tacl/article/view/555 
     authors: Hua He, Jimmy Lin, and Adam Lopez
     journal: Transactions of the ACL
     journal-url: https://tacl2013.cs.columbia.edu/ojs/index.php/tacl
@@ -69,7 +69,7 @@ papers:
     title: The machine translation leaderboard
     authors: Matt Post and Adam Lopez
     journal: The Prague Bulletin of Mathematical Linguistics
-    doc-url: https://drive.google.com/file/d/0B7cpo43vOGF1M01tY3FxUjBkeUU
+    doc-url: https://tacl2013.cs.columbia.edu/ojs/index.php/tacl/article/view/555/110 
     journal-url: http://ufal.mff.cuni.cz/pbml 
     venue: workshop
     code: https://github.com/mjpost/leaderboard
@@ -210,11 +210,11 @@ papers:
     year: 2013
     title: Learning to translate with products of novices&#58; a suite of open-ended challenge problems for teaching MT
     authors: With Matt Post, Chris Callison-Burch, Jonathan Weese, Juri Ganitkevitch, Narges Ahmidi, Olivia Buzek, Leah Hanson, Beenish Jamil, Matthias Lee, Ya-Ting Lin, Henry Pao, Fatima Rivera, Leili Shahriyari, Debu Sinha, Adam Teichert, Stephen Wampler, Michael Weinberger, Daguang Xu, Lin Yang, and Shang Zhao
-    doc-url: http://www.transacl.org/wp-content/uploads/2013/05/paper165.pdf 
+    doc-url: http://aclweb.org/anthology/Q/Q13/Q13-1014.pdf
     code: http://alopez.github.io/dreamt/
     img: tacl2013
     journal: Transactions of the ACL
-    journal-url: http://www.transacl.org/
+    journal-url: https://tacl2013.cs.columbia.edu/ojs/index.php/tacl/index
     volume: 1
     pages: 165&ndash;178
     venue: conference
