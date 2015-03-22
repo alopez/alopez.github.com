@@ -29,6 +29,17 @@ talks:
     img: "saarland-talk.jpg"
 papers:
   - layout: paper
+    paper-type: inproceedings
+    selected: no
+    year: 2015
+    img: inpress
+    title: AMRICA&#58; an AMR Inspector for Cross-language Alignments
+    authors: Naomi Saphra and Adam Lopez
+    booktitle: NAACL-HLT Demonstrations
+    booktitle-url: http://naacl.org/naacl-hlt-2015/
+    venue: workshop
+    code: https://github.com/nsaphra/AMRICA
+  - layout: paper
     selected: y
     paper-type: article 
     year: 2015
