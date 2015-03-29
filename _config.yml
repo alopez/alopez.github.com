@@ -30,7 +30,7 @@ talks:
 papers:
   - layout: paper
     paper-type: inproceedings
-    selected: no
+    selected: yes
     year: 2015
     img: inpress
     title: AMRICA&#58; an AMR Inspector for Cross-language Alignments
