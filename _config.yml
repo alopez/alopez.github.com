@@ -32,13 +32,31 @@ papers:
     paper-type: inproceedings
     selected: yes
     year: 2015
-    img: inpress
+    img: amrica
     title: AMRICA&#58; an AMR Inspector for Cross-language Alignments
+    doc-url: http://speak.clsp.jhu.edu/uploads/publications/papers/1053_pdf.pdf
     authors: Naomi Saphra and Adam Lopez
     booktitle: NAACL-HLT Demonstrations
     booktitle-url: http://naacl.org/naacl-hlt-2015/
     venue: workshop
     code: https://github.com/nsaphra/AMRICA
+    abstract: > 
+      Abstract Meaning Representation (AMR), an
+      annotation scheme for natural language semantics,
+      has drawn attention for its simplicity
+      and representational power. Because AMR
+      annotations are not designed for human readability,
+      we present AMRICA, a visual aid for
+      exploration of AMR annotations. AMRICA
+      can visualize an AMR or the difference between
+      two AMRs to help users diagnose interannotator
+      disagreement or errors from an
+      AMR parser. AMRICA can also automatically
+      align and visualize the AMRs of a sentence
+      and its translation in a parallel text. We
+      believe AMRICA will simplify and streamline
+      exploratory research on cross-lingual AMR
+      corpora.
   - layout: paper
     selected: y
     paper-type: article 
