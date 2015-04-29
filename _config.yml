@@ -98,7 +98,7 @@ papers:
     title: The machine translation leaderboard
     authors: Matt Post and Adam Lopez
     journal: The Prague Bulletin of Mathematical Linguistics
-    doc-url: https://tacl2013.cs.columbia.edu/ojs/index.php/tacl/article/view/555/110 
+    doc-url: http://www.degruyter.com/view/j/pralin.2014.102.issue-1/pralin-2014-0012/pralin-2014-0012.xml?format=INT
     journal-url: http://ufal.mff.cuni.cz/pbml 
     venue: workshop
     code: https://github.com/mjpost/leaderboard
