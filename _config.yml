@@ -2,32 +2,59 @@ exclude: ['README.md']
 timezone: US/Eastern
 talks:
   -
-    title: Compact Adaptable Translation Models on GPUs
+    title: Compact adaptable translation models on GPUs
     detail: Talk at Google, 2013.
     url: "http://www.cs.jhu.edu/~alopez/talks/gpus-oct2013-google.pdf"
     img: "google-talk.jpg"
   -
-    title: Learning to Translate with Products of Novices
+    title: Learning to translate with products of novices
     detail: Talk at Information Science Institute, 2013.
     url: "http://www.cs.jhu.edu/~alopez/talks/mt-class-isi.pdf"
     img: "isi-talk.jpg"
     video: http://webcasterms1.isi.edu/mediasite/SilverlightPlayer/Default.aspx?peid=ea55185170054e13972a0ea5b932eb6c1d
   -
-    title: Integrated Parsing and Tagging
+    title: Integrated parsing and tagging
     detail: Talk at IBM Research, 2012.
     url: http://www.cs.jhu.edu/~alopez/talks/integrated-parsing-and-tagging_lopez.pdf
     img: "ibm-talk.jpg"
   -
-    title: Semiring Parsing without Parsing
+    title: Semiring parsing without parsing
     detail: Talk at Oxford, Cambridge, and Johns Hopkins, 2010.
     url: http://www.cs.jhu.edu/~alopez/talks/oxford.pdf
     img: "oxford-talk.jpg"
   -
-    title: Translation Model Search Spaces
+    title: Translation model search spaces
     detail: Talk at Dublin City University and Saarland University, 2009.
     url: http://www.cs.jhu.edu/~alopez/talks/saarland.pdf
     img: "saarland-talk.jpg"
 papers:
+  - layout: paper
+    paper-type: inproceedings
+    selected: no
+    year: 2015
+    img: inpress
+    title: A maximum entropy classifier for cross-lingual pronoun prediction
+    authors: Dominikus Wetzel, Adam Lopez, and Bonnie Webber
+    booktitle: Proceedings of the Workshop on Discourse in Machine Translation
+    booktitle-url: http://www.idiap.ch/workshop/DiscoMT 
+    venue: workshop
+    abstract: >
+      We present a maximum entropy classifier
+      for cross-lingual pronoun prediction. The
+      features are based on local source- and
+      target-side contexts and antecedent 
+      information obtained by a co-reference 
+      resolution system. With only a small set of
+      feature types our best performing system
+      achieves an accuracy of 72.31%. 
+      According to the shared task’s official 
+      macro-averaged F1-score at 57.07%, we are
+      among the top systems, at position three
+      out of 14. Feature ablation results show
+      the important role of target-side 
+      information in general and of the resolved 
+      target-side antecedent in particular for predicting
+      the correct classes.
   - layout: paper
     paper-type: inproceedings
     selected: yes
@@ -151,7 +178,7 @@ papers:
     selected: no
     year: 2013
     img: 20yearsofbitext
-    title: Beyond Bitext&#58; Five Open Problems in Machine Translation
+    title: Beyond bitext&#58; Five open problems in machine translation
     doc-url: papers/five_open_problems_in_mt.pdf
     authors: with Matt Post
     booktitle: Twenty Years of Bitext
@@ -176,7 +203,7 @@ papers:
     selected: y
     year: 2013
     img: acl2013
-    title: Dirt Cheap Web-Scale Parallel Text from the Common Crawl
+    title: Dirt cheap Web-scale parallel text from the Common Crawl
     authors: Jason Smith, Herve Saint-Amand, Magdalena Plamada, Philipp Koehn, Chris Callison-Burch and Adam Lopez
     booktitle: Proceedings of ACL
     doc-url: http://aclweb.org/anthology/P/P13/P13-1135.pdf
@@ -211,7 +238,7 @@ papers:
     selected: no
     paper-type: inproceedings
     year: 2013
-    title: Massively Parallel Suffix Array Queries and On-Demand Phrase Extraction for Statistical Machine Translation Using GPUs
+    title: Massively parallel suffix array queries and on-demand phrase extraction for statistical machine translation using GPUs
     authors: Hua He, Jimmy Lin, and Adam Lopez
     doc-url: http://aclweb.org/anthology/N/N13/N13-1033.pdf
     img: naacl2013
@@ -265,7 +292,7 @@ papers:
     layout: paper
     paper-type: inproceedings
     year: 2012
-    title: Putting Human Assessments of Machine Translation Systems in Order
+    title: Putting human assessments of machine translation systems in order
     doc-url: http://www.aclweb.org/anthology-new/W/W12/W12-3101.pdf
     booktitle: Proceedings of WMT
     booktitle-url: http://www.statmt.org/wmt12/
@@ -292,7 +319,7 @@ papers:
     layout: paper
     paper-type: inproceedings
     year: 2012
-    title: Using Categorial Grammar to Label Translation Rules
+    title: Using categorial grammar to label translation rules
     doc-url: http://www.cs.jhu.edu/~alopez/papers/wmt2012-weese.pdf
     authors: Jonathan Weese, Chris Callison-Burch and Adam Lopez
     booktitle: Proceedings of WMT
@@ -317,7 +344,7 @@ papers:
     selected: y
     year: 2011
     authors: Michael Auli and Adam Lopez
-    title: Training a Log-Linear Parser with Loss Functions via Softmax-Margin
+    title: Training a log-linear parser with loss functions via softmax-margin
     doc-url: http://aclweb.org/anthology-new/D/D11/D11-1031.pdf
     img: emnlp2011
     booktitle: Proceedings of EMNLP
@@ -343,7 +370,7 @@ papers:
     paper-type: inproceedings
     year: 2011
     authors: Jonathan Weese, Juri Ganitkevitch, Chris Callison-Burch, Matt Post and Adam Lopez
-    title: Joshua 3.0&#58; Syntax-based Machine Translation with the Thrax Grammar Extractor
+    title: Joshua 3.0&#58; Syntax-based machine translation with the Thrax grammar extractor
     doc-url: http://aclweb.org/anthology-new/W/W11/W11-2160.pdf
     img: wmt2011
     booktitle: Proceedings of WMT
@@ -362,7 +389,7 @@ papers:
     paper-type: inproceedings
     year: 2011
     authors: Michael Auli and Adam Lopez
-    title: A Comparison of Loopy Belief Propagation and Dual Decomposition for Integrated CCG Supertagging and Parsing
+    title: A comparison of loopy belief propagation and dual decomposition for integrated CCG supertagging and parsing
     doc-url: http://aclweb.org/anthology-new/P/P11/P11-1048.pdf
     img: acl-bp2011
     booktitle: Proceedings of ACL 
@@ -386,7 +413,7 @@ papers:
     paper-type: inproceedings
     year: 2011
     authors: Michael Auli and Adam Lopez
-    title: Efficient CCG Parsing&#58; A* versus Adaptive Supertagging
+    title: Efficient CCG parsing&#58; A* versus adaptive supertagging
     doc-url: http://aclweb.org/anthology-new/P/P11/P11-1158.pdf
     img: acl-astar2011
     booktitle: Proceedings of ACL 
@@ -409,7 +436,7 @@ papers:
     year: 2010
     paper-type: techreport 
     authors: Phil Blunsom, Chris Callison-Burch, Trevor Cohn, Chris Dyer, Jonathan Graehl, Adam Lopez, Jan Botha, Vladimir Eidelman, ThuyLinh Nguyen, Ziyuan Wang, Jonathan Weese, Olivia Buzek, and Desai Chen
-    title: Final Report of the 2010 CLSP Workshop on Models for Synchronous Grammar Induction
+    title: Final report of the 2010 CLSP workshop on models for synchronous grammar induction
     img: clsp2010
     doc-url: http://www.clsp.jhu.edu/workshops/archive/ws10/groups/models-of-synchronous-grammar-induction-for-smt/
     abstract: >
@@ -435,7 +462,7 @@ papers:
     paper-type: article
     year: 2010
     authors: Abhishek Arun, Barry Haddow, Philipp Koehn, Adam Lopez, Phil Blunsom, and Chris Dyer
-    title: Monte Carlo Techniques for Phrase-Based Translation
+    title: Monte Carlo techniques for phrase-based translation
     doc-url: http://link.springer.com/article/10.1007%2Fs10590-010-9080-7
     journal: Machine Translation
     journal-url: http://www.springer.com/computer/ai/journal/10590
@@ -450,7 +477,7 @@ papers:
     paper-type: inproceedings
     year: 2010
     authors: Chris Dyer, Adam Lopez, Juri Ganitkevitch, Jonny Weese, Ferhan Ture, Phil Blunsom, Hendra Setiawan, Vlad Eidelman, and Philip Resnik
-    title: cdec&#58; A Decoder, Alignment, and Learning Framework for Finite-State and Context-Free Translation Models
+    title: cdec&#58; A decoder, alignment, and learning framework for finite-state and context-free translation models
     pages: 7&ndash;12
     booktitle: Proceedings of ACL (Demonstration track)
     booktitle-url: http://www.acl2010.org/
@@ -481,7 +508,7 @@ papers:
     paper-type: inproceedings
     year: 2009
     authors: Hieu Hoang, Philipp Koehn, and Adam Lopez
-    title: A Unified Framework for Phrase-Based, Hierarchical, and Syntax-Based Statistical Machine Translation
+    title: A unified framework for phrase-based, hierarchical, and syntax-based statistical machine translation
     booktitle: Proceedings of IWSLT
     booktitle-url: http://mt-archive.info/IWSLT-2009-TOC.htm
     img: iwslt2009
@@ -515,7 +542,7 @@ papers:
     layout: paper
     paper-type: inproceedings
     year: 2009
-    title: Translation as Weighted Deduction
+    title: Translation as weighted deduction
     booktitle: Proceedings of EACL
     booktitle-url: http://aclweb.org/anthology/E/E09/
     doc-url: papers/eacl2009-lopez.pdf
@@ -547,7 +574,7 @@ papers:
     paper-type: inproceedings
     year: 2009
     authors: Michael Auli, Adam Lopez, Hieu Hoang, and Philipp Koehn
-    title: A Systematic Analysis of Translation Model Search Spaces
+    title: A systematic analysis of translation model search spaces
     doc-url: http://www.aclweb.org/anthology/W/W09/W09-0437.pdf
     booktitle: Proceedings of the Fourth Workshop on Statistical Machine Translation 
     booktitle-url: http://www.statmt.org/wmt09/
@@ -559,7 +586,7 @@ papers:
     layout: paper
     paper-type: inproceedings
     year: 2008
-    title: Tera-Scale Translation Models via Pattern Matching
+    title: Tera-scale translation models via pattern matching
     pages: 505&ndash;512
     booktitle: Proceedings of COLING 
     booktitle-url: http://aclweb.org/anthology/C/C08/
@@ -579,7 +606,7 @@ papers:
     layout: paper
     paper-type: article
     year: 2008
-    title: Statistical Machine Translation
+    title: Statistical machine translation
     journal: ACM Computing Surveys
     journal-url: http://surveys.acm.org/
     img: csur2008
@@ -621,7 +648,7 @@ papers:
     layout: paper
     paper-type: dissertation 
     year: 2008
-    title: Machine Translation by Pattern Matching
+    title: Machine translation by pattern matching
     institution: University of Maryland
     doc-url: papers/adam.lopez.dissertation.pdf
     img: diss2008
@@ -637,7 +664,7 @@ papers:
     layout: paper
     year: 2007
     paper-type: inproceedings
-    title: Hierarchical Phrase-Based Translation with Suffix Arrays
+    title: Hierarchical phrase-based translation with suffix arrays
     pages: 976&ndash;985
     booktitle: Proceedings of EMNLP-CoNLL
     booktitle-url: http://www.cs.jhu.edu/EMNLP-CoNLL-2007/
@@ -668,7 +695,7 @@ papers:
     year: 2006
     paper-type: inproceedings
     authors: With Philip Resnik
-    title: Word-Based Alignment, Phrase-Based Translation&#58; What's the Link?
+    title: Word-based alignment, phrase-based translation&#58; What's the link?
     pages: 90&ndash;99
     booktitle: Proceedings of AMTA
     booktitle-url: http://amta2006.amtaweb.org/index.htm
@@ -697,7 +724,7 @@ papers:
     paper-type: inproceedings
     year: 2005
     authors: David Chiang, Adam Lopez, Nitin Madnani, Christof Monz, Philip Resnik, and Michael Subotin
-    title: The Hiero Machine Translation System&#58; Extensions, Evaluation, and Analysis
+    title: The Hiero machine translation system&#58; Extensions, evaluation, and analysis
     pages: 779&ndash;786
     booktitle: Proceedings of HLT/EMNLP
     booktitle-url: http://www.cs.utexas.edu/~ml/HLT-EMNLP05/
@@ -719,7 +746,7 @@ papers:
     paper-type: inproceedings
     year: 2005
     authors: With Philip Resnik
-    title: Pattern Visualization for Machine Translation Output
+    title: Pattern visualization for machine translation output
     pages: 12&ndash;13
     booktitle: Proceedings of HLT/EMNLP Demonstrations
     booktitle-url: http://www.cs.utexas.edu/~ml/HLT-EMNLP05/
@@ -738,7 +765,7 @@ papers:
     paper-type: inproceedings
     authors: With Philip Resnik
     year: 2005
-    title: Improved HMM Alignment Models for Languages with Scarce Resources
+    title: Improved HMM alignment models for languages with scarce resources
     pages: 83&ndash;86
     booktitle: Proceedings of the ACL 2005 Workshop on Building and Using Parallel Texts&#58; Data Driven Machine Translation and Beyond
     booktitle-url: http://www.statmt.org/wpt05/
@@ -761,7 +788,7 @@ papers:
     paper-type: inproceedings
     year: 2002
     authors: With Michael Nossal, Rebecca Hwa,  and Philip Resnik
-    title: Word-Level Alignment for Multilingual Resource Acquisition
+    title: Word-level alignment for multilingual resource acquisition
     pages: 34&ndash;42
     booktitle: Proceedings of the LREC Workshop on Linguistic Knowledge Acquisition and Representation&mdash;Bootstrapping Annotated Language Data
     booktitle-url: http://www.lrec-conf.org/lrec2002/lrec/wksh/Bootstrapping.html
