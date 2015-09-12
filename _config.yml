@@ -32,11 +32,12 @@ papers:
     paper-type: inproceedings
     selected: no
     year: 2015
-    img: inpress
+    img: discomt2015
     title: A maximum entropy classifier for cross-lingual pronoun prediction
     authors: Dominikus Wetzel, Adam Lopez, and Bonnie Webber
     booktitle: Proceedings of the Workshop on Discourse in Machine Translation
     booktitle-url: http://www.idiap.ch/workshop/DiscoMT 
+    doc-url: http://aclweb.org/anthology/W15-2516
     venue: workshop
     abstract: >
       We present a maximum entropy classifier
