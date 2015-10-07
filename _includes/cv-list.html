@@ -1,5 +1,6 @@
 {% for category in include.categories%}
   <h4>{{ category.heading }}</h4>
+  {% if category.items %}
   <ul>
     {% for item in category.items %}
       <li>
@@ -9,6 +10,21 @@
       </li>
     {% endfor %}
   </ul>
+  {% endif %}
+  {% if category.subsections %}
+  {% for subsection in category.subsections %}
+  <h5>{{ subsection.heading }}</h5>
+  <ul>
+    {% for item in subsection.items %}
+      <li>
+        {{ item.title }}.
+        {% if item.year %}{{ item.year }}.{% endif %}
+        {% if item.detail %}{{ item.detail }}.{% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+  {% endfor %}
+  {% endif %}
 {% endfor %}
 
 
