@@ -26,39 +26,31 @@ If you aren't, my research group is not a good fit for you.
 discuss topics. I'm especially interested in these areas:
 
 <dl>
-<dt>Multilingual semantics</dt>
+<dt>Multilingual semantics and graph formalisms</dt>
 <dd>Natural language processing has been enormously successful, but NLP 
 systems still often fail to preserve the semantics of sentences&mdash;the 
 "who did what to whom" relationships that they express. As a result, they 
 fail to correctly understand, translate, extract, or generate the meaning 
 of a wide variety of phenomena in many languages. To preserve semantics, 
-they must model semantics. Computational linguists have developed 
-expressive mathematical models of language that exhibit high empirical 
-coverage of semantically annotated linguistic data, correctly predict a 
-variety of important linguistic phenomena in many languages, and can be 
-processed with highly efficient algorithms. However, these models are not 
-fully understood, and they are untested as the basis of statistical 
-NLP models. The goal of projects in this area is to develop the 
-mathematics of semantic models and to apply them to basic problems in 
-natural language understanding and generation.</dd>
+they must model semantics, and in support of this goal, efforts are 
+underway to annotate large numbers of sentences with explicit semantic 
+representations in the form of directed acyclic graphs (DAGs). These 
+datasets will enable us to build large-scale statistical models of semantic 
+parsing or text generation. These statistical models must deal with 
+<i>structure</i>: the input and outputs are strings, trees, or graphs. 
+For structured prediction on strings and trees, most models can be 
+understand as weighted grammars, automata and transducers: extensions of 
+classical formalisms  with real-valued weights representing probabilities. 
+To extend these models to graph-based representations, we require grammars, 
+automata, and transducers for graphs. Several expressive graph formalisms 
+have been studied in both computational linguistics and formal language 
+theory, but in general they are much less well-developed than 
+formalisms on strings and trees. The goal of projects in this area is to
+extend the mathematics of weighted graph graph grammars, automata,  and 
+transducers and to apply them to problems in natural language understanding
+and generation in many languages.</dd>
 
-<dt>Graph grammers, automata, and transducers for statistical semantics</dt>
-<dd>We now have large quantities of sentences annotated with their semantics, 
-in the form of directed graphs expressing "who did what to whom" 
-relationships. This creates the possibility to learn large-scale statistical 
-models of semantic parsing or text generation. From a machine learning 
-perspective, this is a structured prediction problem: the input and outputs 
-are strings, trees, or graphs. The formal machinery of structured prediction 
-models  for strings and trees is often based on weighted automata and 
-transducers: extensions of classical automata and transducers with 
-real-valued weights representing probabilities. To extend these models to 
-graph-based representations, we require automata and transducers for 
-graphs, but these types of automata are much less well-developed than 
-automata on strings and trees. The goal of projects in this area is to
-extend the mathematics of weighted graph automata and transducers and to 
-apply them to real data.</dd>
-
-<dt>Massively parallel algorithms for language</dt>
+<dt>Massively parallel algorithms for natural language processing</dt>
 <dd>Many classical algorithms and models in NLP assume sequential 
 computation, an assumption broken by the trend of placing many cores on the 
 same die. There are now multiple solutions to utilizing the transistor 
@@ -82,9 +74,10 @@ domains, there is hardly anything. However, in many cases, there is side
 information that we can exploit: dictionaries or other knowledge sources, 
 or text paired with weak signals, such as images, speech, or timestamps. 
 How can we exploit such heterogeneous information in statistical language 
-processing? The goal of projects in this area is to develop statistical 
-models and inference techniques that exploit such data, and apply them to 
-real problems.</dd>
+processing? If we have little to no output examples, can we treat the
+development of NLP systems as a decipherment problem? The goal of projects 
+in this area is to develop statistical models and inference techniques that 
+exploit such data, and apply them to real problems.</dd>
 </dl>
 
 These topics are all deliberately open-ended, and there are many directions
