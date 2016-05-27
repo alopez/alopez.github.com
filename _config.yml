@@ -30,6 +30,53 @@ talks:
 papers:
   - layout: paper
     paper-type: inproceedings
+    selected: yes
+    year: 2016
+    img: inpress
+    title: N-gram language models for massively parallel devices
+    authors: Nikolay Bogoychev and Adam Lopez
+    booktitle: Proceedings of the Association for Computational Linguistics
+    booktitle-url: http://acl2016.org/
+    venue: conference
+    abstract: >
+      For many applications, the query speed of N-gram language models is a 
+      computational bottleneck. Although massively parallel hardware like 
+      GPUs offer a potential solution to this bottleneck, exploiting this 
+      hardware requires a careful rethinking of basic algorithms and data 
+      structures. We present the first language model designed for such 
+      hardware, using B-trees to maximize data parallelism and minimize 
+      memory latency. When we compare with a single-threaded instance of 
+      KenLM, a highly optimized CPU-based language model, our GPU 
+      implementation produces identical results with a smaller memory 
+      footprint and a sixfold increase in throughput on a batch query task. 
+      When we compare a fully saturated CPU and a GPU, our results show 
+      that the GPU delivers twice the throughput per hardware dollar.
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
+    year: 2016
+    img: inpress2
+    title: Neural Networks For Negation Scope Detection
+    authors: Federico Fancellu, Adam Lopez and Bonnie Webber
+    booktitle: Proceedings of the Association for Computational Linguistics
+    booktitle-url: http://acl2016.org/
+    venue: conference
+    abstract: >
+      Automatic negation scope detection is a task that has been tackled 
+      using different classifiers and heuristics. Most of these systems are 
+      however highly-engineered, English-specific and only tested on the 
+      same genre they were trained on. These problems could potentially be 
+      overcome by using a neural network architecture. Results obtained on 
+      data from the *SEM2012 shared task on negation scope detection show 
+      that even a simple feed-forward neural network using word-embedding 
+      features alone, performs on par with earlier classifiers, with a
+      bi-directional LSTM outperforming all of them. Finally, through a 
+      specially designed synthetic test set we explore the problem of 
+      detecting the negation scope more in depth and show that performance 
+      suffers from genre effects and differs with the type of negation
+      considered.
+  - layout: paper
+    paper-type: inproceedings
     selected: no
     year: 2015
     img: discomt2015
@@ -201,7 +248,7 @@ papers:
   -
     layout: paper
     paper-type: inproceedings
-    selected: y
+    selected: no
     year: 2013
     img: acl2013
     title: Dirt cheap Web-scale parallel text from the Common Crawl
@@ -342,7 +389,7 @@ papers:
   -
     layout: paper
     paper-type: inproceedings
-    selected: y
+    selected: no
     year: 2011
     authors: Michael Auli and Adam Lopez
     title: Training a log-linear parser with loss functions via softmax-margin
