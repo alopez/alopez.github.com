@@ -35,7 +35,7 @@ papers:
     img: inpress
     title: N-gram language models for massively parallel devices
     authors: Nikolay Bogoychev and Adam Lopez
-    booktitle: Proceedings of the Association for Computational Linguistics
+    booktitle: Proceedings of ACL
     booktitle-url: http://acl2016.org/
     venue: conference
     abstract: >
@@ -58,7 +58,7 @@ papers:
     img: inpress2
     title: Neural Networks For Negation Scope Detection
     authors: Federico Fancellu, Adam Lopez and Bonnie Webber
-    booktitle: Proceedings of the Association for Computational Linguistics
+    booktitle: Proceedings of ACL
     booktitle-url: http://acl2016.org/
     venue: conference
     abstract: >
