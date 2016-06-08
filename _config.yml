@@ -58,26 +58,28 @@ papers:
     paper-type: inproceedings
     selected: yes
     year: 2016
-    img: inpress2
-    title: Neural Networks For Negation Scope Detection
-    authors: Federico Fancellu, Adam Lopez and Bonnie Webber
+    img: nneg
+    title: Neural networks for negation scope detection
+    authors: Federico Fancellu, Adam Lopez, and Bonnie Webber
     booktitle: Proceedings of ACL
+    code: https://github.com/ffancellu/NegNN
     booktitle-url: http://acl2016.org/
+    doc-url: https://drive.google.com/file/d/0B7cpo43vOGF1Umw0dHNtQXZiMGs/view
     venue: conference
     abstract: >
       Automatic negation scope detection is a task that has been tackled 
-      using different classifiers and heuristics. Most of these systems are 
-      however highly-engineered, English-specific and only tested on the 
-      same genre they were trained on. These problems could potentially be 
-      overcome by using a neural network architecture. Results obtained on 
-      data from the *SEM2012 shared task on negation scope detection show 
-      that even a simple feed-forward neural network using word-embedding 
-      features alone, performs on par with earlier classifiers, with a
-      bi-directional LSTM outperforming all of them. Finally, through a 
-      specially designed synthetic test set we explore the problem of 
-      detecting the negation scope more in depth and show that performance 
-      suffers from genre effects and differs with the type of negation
-      considered.
+      using different classifiers and heuristics. Most systems are however 
+      1) highly-engineered, 2) English-specific, and 3) only tested on 
+      the same genre they were trained on. We start by addressing 1) and 2) 
+      using a neural network architecture. Results obtained on data from 
+      the *SEM2012 shared task on negation scope detection show that even a 
+      simple feed-forward neural network using word-embedding features 
+      alone, performs on par with earlier classifiers, with a 
+      bi-directional LSTM outperforming all of them. We then address 3) by 
+      means of a specially-designed synthetic test set; in doing so, we 
+      explore the problem of detecting the negation scope more in depth and 
+      show that performance suffers from genre effects and differs with the 
+      type of negation considered.
   - layout: paper
     paper-type: inproceedings
     selected: no
