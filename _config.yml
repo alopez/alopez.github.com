@@ -30,6 +30,31 @@ talks:
 papers:
   - layout: paper
     paper-type: inproceedings
+    selected: no
+    year: 2016
+    img: repeval2016
+    title: Evaluating informal-domain word representations with UrbanDictionary
+    authors: Naomi Saphra and Adam Lopez
+    booktitle: Proceedings of RepEval
+    booktitle-url: https://sites.google.com/site/repevalacl16/
+    code: https://github.com/nsaphra/urbandic-scraper
+    doc-url: http://arxiv.org/pdf/1606.08270.pdf 
+    venue: workshop
+    abstract: >
+      Existing corpora for intrinsic evaluation
+      are not targeted towards tasks in informal
+      domains such as Twitter or news comment
+      forums. We want to test whether a representation
+      of informal words fulfills the
+      promise of eliding explicit text normalization
+      as a preprocessing step. One possible
+      evaluation metric for such domains is the
+      proximity of spelling variants. We propose
+      how such a metric might be computed and
+      how a spelling variant dataset can be collected
+      using UrbanDictionary
+  - layout: paper
+    paper-type: inproceedings
     selected: yes
     year: 2016
     img: glm
