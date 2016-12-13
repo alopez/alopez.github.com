@@ -36,7 +36,7 @@ papers:
     title: Weakly supervised spoken term discovery using cross-lingual side information
     authors: Sameer Bansal, Herman Kamper, Sharon Goldwater, and Adam Lopez
     booktitle: Proceedings of ICASSP
-    booktitle-url: https://sites.google.com/site/repevalacl16/ 
+    booktitle-url: http://www.ieee-icassp2017.org/
     doc-url: https://arxiv.org/pdf/1609.06530v1.pdf
     venue: conference
     abstract: >
@@ -54,7 +54,7 @@ papers:
       wide range of system configurations and data preprocessing methods.
   - layout: paper
     paper-type: inproceedings
-    selected: no
+    selected: yes
     year: 2016
     img: repeval2016
     title: Evaluating informal-domain word representations with UrbanDictionary
