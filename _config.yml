@@ -30,6 +30,30 @@ talks:
 papers:
   - layout: paper
     paper-type: inproceedings
+    selected: yes
+    year: 2017
+    img: icassp2017
+    title: Weakly supervised spoken term discovery using cross-lingual side information
+    authors: Sameer Bansal, Herman Kamper, Sharon Goldwater, and Adam Lopez
+    booktitle: Proceedings of ICASSP
+    booktitle-url: https://sites.google.com/site/repevalacl16/ 
+    doc-url: https://arxiv.org/pdf/1609.06530v1.pdf
+    venue: conference
+    abstract: >
+      Recent work on unsupervised term discovery (UTD) aims to identify
+      and cluster repeated word-like units from audio alone. These
+      systems are promising for some very low-resource languages where
+      transcribed audio is unavailable, or where no written form of the
+      language exists. However, in some cases it may still be feasible (e.g.,
+      through crowdsourcing) to obtain (possibly noisy) text translations
+      of the audio. If so, this information could be used as a source of side
+      information to improve UTD. Here, we present a simple method for
+      rescoring the output of a UTD system using text translations, and test
+      it on a corpus of Spanish audio with English translations. We show
+      that it greatly improves the average precision of the results over a
+      wide range of system configurations and data preprocessing methods.
+  - layout: paper
+    paper-type: inproceedings
     selected: no
     year: 2016
     img: repeval2016
@@ -339,7 +363,7 @@ papers:
       milliseconds.
   -
     layout: paper
-    selected: n
+    selected: no
     paper-type: article 
     year: 2013
     title: Learning to translate with products of novices&#58; a suite of open-ended challenge problems for teaching MT

@@ -74,15 +74,16 @@ news:
 some of these problems?
 <a href="join.html">Read this first</a>.</div>
 
-
+<!--
 <h4>News</h4>
 <ul>
 {% for item in page.news %}
   <li>{{ item }}</li>
 {% endfor %}
 </ul>
+-->
 
-<h4>Selected Papers</h4>
+<h4>Recent Highlights</h4>
 {% for post in site.papers %}
   {% if post.selected %}
     {% include paper.html paper=post %}
