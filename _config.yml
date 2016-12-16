@@ -187,7 +187,7 @@ papers:
       exploratory research on cross-lingual AMR
       corpora.
   - layout: paper
-    selected: y
+    selected: no
     paper-type: article 
     year: 2015
     img: hiero-gpu
