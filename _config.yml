@@ -32,6 +32,52 @@ papers:
     paper-type: inproceedings
     selected: yes
     year: 2017
+    img: inpress
+    title: Detecting negation scope is easy, except when it isn't
+    authors: Federico Fancellu, Adam Lopez, Bonnie Webber and Hangfeng He
+    booktitle: Proceedings of EACL
+    booktitle-url: http://eacl2017.org/
+    venue: conference
+    abstract: >
+      Several corpora have been annotated with negation scope&mdash;the set 
+      of words whose meaning is negated by a cue like the word "not"&mdash;leading 
+      to the development of classifiers that detect negation scope with high
+      accuracy. We show that for nearly all of these corpora, this high 
+      accuracy can be attributed to a single fact: negation scope is 
+      frequently a single span of text delimited by punctuation. For 
+      negation scopes not of this form, detection accuracy is low and 
+      under-sampling the easy training examples does not substantially 
+      improve accuracy. We argue that future negation scope annotation 
+      efforts should focus on these more difficult cases.
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
+    year: 2017
+    img: eacl2017-speech
+    title: Towards speech-to-text translation without speech recognition
+    authors: Sameer Bansal, Adam Lopez, Herman Kamper, and Sharon Goldwater
+    booktitle: Proceedings of EACL
+    booktitle-url: http://eacl2017.org/
+    doc-url: https://arxiv.org/pdf/1702.03856.pdf
+    venue: conference
+    abstract: >
+      We explore the problem of translating speech to text in low-resource 
+      scenarios where neither automatic speech recognition (ASR) nor machine
+      translation (MT) are available, but we have training data in the form 
+      of audio paired with text translations. We present the first system 
+      for this problem applied to a realistic multi-speaker dataset, the 
+      CALLHOME Spanish-English speech translation corpus. Our approach uses 
+      unsupervised term discovery (UTD) to cluster repeated patterns in the 
+      audio, creating a pseudotext, which we pair with translations to 
+      create a parallel text and train a simple bag-of-words MT model. We 
+      identify the challenges faced by the system, finding that the 
+      difficulty of cross-speaker UTD results in low recall, but that our 
+      system is still able to correctly translate some content words in 
+      test data.
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
+    year: 2017
     img: icassp2017
     title: Weakly supervised spoken term discovery using cross-lingual side information
     authors: Sameer Bansal, Herman Kamper, Sharon Goldwater, and Adam Lopez
