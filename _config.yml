@@ -30,6 +30,37 @@ talks:
 papers:
   - layout: paper
     paper-type: inproceedings
+    year: 2017
+    img: deplambdanot
+    title: Universal Dependencies to Logical Forms with Negation Scope
+    authors: Federico Fancellu, Siva Reddy, Adam Lopez, and Bonnie Webber
+    booktitle: Proceedings of the Workshop on Computational Semantics Beyond Events and Roles
+    booktitle-url: http://www.cse.unt.edu/sembear2017/
+    doc-url: https://arxiv.org/pdf/1702.03305.pdf 
+    venue: workshop
+    abstract: >
+      Many language technology applications
+      would benefit from the ability to represent
+      negation and its scope on top of widely-used
+      linguistic resources. In this paper, we
+      investigate the possibility of obtaining a
+      first-order logic representation with negation
+      scope marked using Universal Dependencies.
+      To do so, we enhance UDepLambda,
+      a framework that converts dependency
+      graphs to logical forms. The resulting
+      UDepLambda is able to handle
+      phenomena related to scope by means of
+      an higher-order type theory, relevant not
+      only to negation but also to universal quantification
+      and other complex semantic phenomena.
+      The initial conversion we did for
+      English is promising, in that one can represent
+      the scope of negation also in the presence
+      of more complex phenomena such as
+      universal quantifiers.
+  - layout: paper
+    paper-type: inproceedings
     selected: yes
     year: 2017
     img: inpress
