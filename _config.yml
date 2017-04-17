@@ -29,14 +29,34 @@ talks:
     img: "saarland-talk.jpg"
 papers:
   - layout: paper
+    selected: yes
+    paper-type: inproceedings
+    year: 2017
+    img: inpress
+    title: "From characters to words to in between: Do we capture morphology?"
+    authors: Clara Vania and Adam Lopez
+    booktitle: Proceedings of ACL
+    booktitle-url: http://acl2017.org/
+    venue: conference
+  - layout: paper
+    selected: yes
+    paper-type: inproceedings
+    year: 2017
+    img: inpress2
+    title: A generative parser with a discriminative recognition algorithm
+    authors: Jianpeng Cheng, Adam Lopez, and Mirella Lapata
+    booktitle: Proceedings of ACL
+    booktitle-url: http://acl2017.org/
+    venue: conference
+  - layout: paper
     paper-type: inproceedings
     year: 2017
     img: deplambdanot
-    title: Universal Dependencies to Logical Forms with Negation Scope
+    title: Universal dependencies to logical forms with negation scope
     authors: Federico Fancellu, Siva Reddy, Adam Lopez, and Bonnie Webber
     booktitle: Proceedings of the Workshop on Computational Semantics Beyond Events and Roles
     booktitle-url: http://www.cse.unt.edu/sembear2017/
-    doc-url: https://arxiv.org/pdf/1702.03305.pdf 
+    doc-url: http://aclweb.org/anthology/W17-1804
     venue: workshop
     abstract: >
       Many language technology applications
@@ -63,23 +83,32 @@ papers:
     paper-type: inproceedings
     selected: yes
     year: 2017
-    img: inpress
-    title: Detecting negation scope is easy, except when it isn't
+    img: negation_is_not_easy
+    title: "Detecting negation scope is easy, except when it isn't"
     authors: Federico Fancellu, Adam Lopez, Bonnie Webber and Hangfeng He
     booktitle: Proceedings of EACL
     booktitle-url: http://eacl2017.org/
+    doc-url: http://aclweb.org/anthology/E17-2010
     venue: conference
     abstract: >
-      Several corpora have been annotated with negation scope&mdash;the set 
-      of words whose meaning is negated by a cue like the word "not"&mdash;leading 
-      to the development of classifiers that detect negation scope with high
-      accuracy. We show that for nearly all of these corpora, this high 
-      accuracy can be attributed to a single fact: negation scope is 
-      frequently a single span of text delimited by punctuation. For 
-      negation scopes not of this form, detection accuracy is low and 
-      under-sampling the easy training examples does not substantially 
-      improve accuracy. We argue that future negation scope annotation 
-      efforts should focus on these more difficult cases.
+      "Several corpora have been annotated with
+      negation scope---the set of words whose
+      meaning is negated by a cue like the
+      word 'not'---leading to the development
+      of classifiers that detect negation scope
+      with high accuracy. We show that for
+      nearly all of these corpora, this high accuracy
+      can be attributed to a single fact:
+      they frequently annotate negation scope as
+      a single span of text delimited by punctuation.
+      For negation scopes not of this
+      form, detection accuracy is low and undersampling
+      the easy training examples does
+      not substantially improve accuracy. We
+      demonstrate that this is partly an artifact of
+      annotation guidelines, and we argue that
+      future negation scope annotation efforts
+      should focus on these more difficult cases."
   - layout: paper
     paper-type: inproceedings
     selected: yes
@@ -89,7 +118,7 @@ papers:
     authors: Sameer Bansal, Adam Lopez, Herman Kamper, and Sharon Goldwater
     booktitle: Proceedings of EACL
     booktitle-url: http://eacl2017.org/
-    doc-url: https://arxiv.org/pdf/1702.03856.pdf
+    doc-url: http://aclweb.org/anthology/E17-2076
     venue: conference
     abstract: >
       We explore the problem of translating speech to text in low-resource 
@@ -236,7 +265,6 @@ papers:
       the correct classes.
   - layout: paper
     paper-type: inproceedings
-    selected: yes
     year: 2015
     img: amrica
     title: AMRICA&#58; an AMR Inspector for Cross-language Alignments
