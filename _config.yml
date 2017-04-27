@@ -32,6 +32,16 @@ papers:
     selected: yes
     paper-type: inproceedings
     year: 2017
+    img: inpress3
+    title: "(Re)introducing regular graph languages"
+    authors: Sorcha Gilroy, Adam Lopez, Sebastian Maneth, and Pijus Simonaitis
+    booktitle: Mathematics of Language
+    booktitle-url: http://www.molweb.org/mol2017/
+    venue: conference
+  - layout: paper
+    selected: yes
+    paper-type: inproceedings
+    year: 2017
     img: inpress
     title: "From characters to words to in between: Do we capture morphology?"
     authors: Clara Vania and Adam Lopez
