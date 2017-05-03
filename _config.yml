@@ -32,12 +32,36 @@ papers:
     selected: yes
     paper-type: inproceedings
     year: 2017
-    img: inpress3
+    img: rgg
     title: "(Re)introducing regular graph languages"
     authors: Sorcha Gilroy, Adam Lopez, Sebastian Maneth, and Pijus Simonaitis
     booktitle: Mathematics of Language
     booktitle-url: http://www.molweb.org/mol2017/
+    doc-url: https://drive.google.com/file/d/0BzloQ1gVvR5TWWdSY3I2WDVPeG8/view
     venue: conference
+    abstract: >
+      Distributions over strings and trees can be
+      represented by probabilistic regular languages
+      which characterize many models
+      in natural language processing. Recently,
+      several datasets have become available
+      which represent natural language phenomena
+      as graphs, so it is natural to ask
+      whether there is an equivalent of probabilistic
+      regular languages for graphs. This
+      paper presents regular graph languages,
+      a formalism due to Courcelle (1991) that
+      has not previously studied in natural language
+      processing. RGL is crucially a subfamily
+      of both Hyperedge Replacement
+      Languages (HRL), which can be made
+      probabilistic; and Monadic Second Order
+      Languages (MSOL), which are closed under
+      intersection. We give an accessible
+      introduction to Courcelle's proof that
+      RGLs are in MSOL, providing clues about
+      how RGL may relate to other recently introduced
+      graph grammar formalisms.
   - layout: paper
     selected: yes
     paper-type: inproceedings
