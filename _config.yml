@@ -104,12 +104,33 @@ papers:
     selected: yes
     paper-type: inproceedings
     year: 2017
-    img: inpress2
+    img: virnng
     title: A generative parser with a discriminative recognition algorithm
     authors: Jianpeng Cheng, Adam Lopez, and Mirella Lapata
     booktitle: Proceedings of ACL
     booktitle-url: http://acl2017.org/
+    doc-url: http://homepages.inf.ed.ac.uk/s1537177/resources/virnng.pdf
     venue: conference
+    abstract: >
+      Generative models defining joint distributions
+      over parse trees and sentences are
+      useful for parsing and language modeling,
+      but impose restrictions on the scope of features
+      and are often outperformed by discriminative
+      models. We propose a framework
+      for parsing and language modeling
+      which marries a generative model with
+      a discriminative recognition model in an
+      encoder-decoder setting. We provide interpretations
+      of the framework based on
+      expectation maximization and variational
+      inference, and show that it enables parsing
+      and language modeling within a single implementation.
+      On the English Penn Treenbank,
+      our framework obtains competitive
+      performance on constituency parsing
+      while matching the state-of-the-art single model
+      language modeling score.
   - layout: paper
     paper-type: inproceedings
     year: 2017
