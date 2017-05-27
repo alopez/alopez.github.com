@@ -29,6 +29,24 @@ talks:
     img: "saarland-talk.jpg"
 papers:
   - layout: paper
+    year: 2017
+    paper-type: inproceedings
+    img: inpress2
+    title: "UParse: the Edinburgh system for the CoNLL 2017 UD shared task"
+    authors: Clara Vania, Xingxing Zhang, and Adam Lopez
+    booktitle: "Proceedings of the CoNLL shared task"
+    venue: workshop
+  - layout: paper
+    selected: yes
+    paper-type: inproceedings
+    year: 2017
+    img: inpress
+    title: Parsing graphs with regular graph grammars
+    authors: Sorcha Gilroy, Adam Lopez, and Sebastian Maneth
+    booktitle: "Proceedings of *SEM"
+    venue: conference
+    doc-url: https://sites.google.com/site/starsem2017/call-for-papers
+  - layout: paper
     selected: yes
     paper-type: inproceedings
     year: 2017
