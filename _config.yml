@@ -35,6 +35,7 @@ papers:
     title: "UParse: the Edinburgh system for the CoNLL 2017 UD shared task"
     authors: Clara Vania, Xingxing Zhang, and Adam Lopez
     booktitle: "Proceedings of the CoNLL shared task"
+    booktitle-url: http://universaldependencies.org/conll17/
     venue: workshop
   - layout: paper
     selected: yes
@@ -45,7 +46,7 @@ papers:
     authors: Sorcha Gilroy, Adam Lopez, and Sebastian Maneth
     booktitle: "Proceedings of *SEM"
     venue: conference
-    doc-url: https://sites.google.com/site/starsem2017/call-for-papers
+    booktitle-url: https://sites.google.com/site/starsem2017/call-for-papers
   - layout: paper
     selected: yes
     paper-type: inproceedings
