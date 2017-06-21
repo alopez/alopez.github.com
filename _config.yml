@@ -31,7 +31,7 @@ papers:
   - layout: paper
     year: 2017
     paper-type: inproceedings
-    img: inpress2
+    img: inpress
     title: "UParse: the Edinburgh system for the CoNLL 2017 UD shared task"
     authors: Clara Vania, Xingxing Zhang, and Adam Lopez
     booktitle: "Proceedings of the CoNLL shared task"
@@ -41,12 +41,28 @@ papers:
     selected: yes
     paper-type: inproceedings
     year: 2017
-    img: inpress
+    img: prgg
     title: Parsing graphs with regular graph grammars
     authors: Sorcha Gilroy, Adam Lopez, and Sebastian Maneth
     booktitle: "Proceedings of *SEM"
     venue: conference
     booktitle-url: https://sites.google.com/site/starsem2017/call-for-papers
+    doc-url: https://drive.google.com/file/d/0BzloQ1gVvR5TcWhwQjNiMjBaUm8/view
+    abstract: >
+      Recently, several datasets have become
+      available which represent natural language
+      phenomena as graphs. Hyperedge Replacement Languages (HRL) have been
+      the focus of much attention as a formalism to represent the graphs in these
+      datasets. Chiang et al. (2013) prove that
+      HRL graphs can be parsed in polynomial
+      time with respect to the size of the in-
+      put graph. We believe that HRL are more
+      expressive than is necessary to represent
+      semantic graphs and we propose the use
+      of Regular Graph Languages (RGL; Cour-
+      celle 1991), which is a subfamily of HRL,
+      as a possible alternative. We provide a top-down parsing algorithm for RGL that runs
+      in time linear in the size of the input graph.
   - layout: paper
     selected: yes
     paper-type: inproceedings
