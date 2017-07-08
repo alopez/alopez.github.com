@@ -329,7 +329,6 @@ papers:
       CPU implementation uses faster data structures.
   - layout: paper
     paper-type: inproceedings
-    selected: yes
     year: 2016
     img: nneg
     title: Neural networks for negation scope detection
