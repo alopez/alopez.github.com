@@ -31,6 +31,14 @@ papers:
   - layout: paper
     year: 2017
     paper-type: inproceedings
+    img: inpress2
+    title: Spoken term discovery for language documentation using translations
+    authors: Antonios Anastasopoulos, Sameer Bansal, David Chiang, Sharon Goldwater and Adam Lopez
+    booktitle: Workshop on Speech-Centric Natural Language Processing (SCNLP)
+    booktitle-url: http://speechnlp.github.io/2017/
+  - layout: paper
+    year: 2017
+    paper-type: inproceedings
     img: inpress
     title: "UParse: the Edinburgh system for the CoNLL 2017 UD shared task"
     authors: Clara Vania, Xingxing Zhang, and Adam Lopez
@@ -70,10 +78,10 @@ papers:
     img: rgg
     title: "(Re)introducing regular graph languages"
     authors: Sorcha Gilroy, Adam Lopez, Sebastian Maneth, and Pijus Simonaitis
-    booktitle: Mathematics of Language
+    booktitle: Meeting on the Mathematics of Language
     booktitle-url: http://www.molweb.org/mol2017/
     doc-url: http://aclweb.org/anthology/W17-3410
-    venue: conference
+    venue: workshop
     abstract: >
       Distributions over strings and trees can be
       represented by probabilistic regular languages
