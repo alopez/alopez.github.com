@@ -36,6 +36,7 @@ papers:
     authors: Antonios Anastasopoulos, Sameer Bansal, David Chiang, Sharon Goldwater and Adam Lopez
     booktitle: Workshop on Speech-Centric Natural Language Processing (SCNLP)
     booktitle-url: http://speechnlp.github.io/2017/
+    venue: workshop
   - layout: paper
     year: 2017
     paper-type: inproceedings
