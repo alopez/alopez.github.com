@@ -29,7 +29,11 @@
       {% when "dissertation" %}
         Dissertation, {{ include.paper.institution }}.
     {% endcase %} 
-    {{ include.paper.year }}.<br/>
+    {{ include.paper.year }}. 
+    {% if include.paper.note %} 
+      {{ include.paper.note }} 
+    {% endif %}
+    <br/>
     {% if include.paper.abstract %}
       <a data-toggle="modal" href="#abstract{{ include.paper.img }}" class="label label-default">Abstract</a>
       <!-- Modal -->

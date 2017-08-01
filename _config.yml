@@ -40,12 +40,29 @@ papers:
   - layout: paper
     year: 2017
     paper-type: inproceedings
-    img: inpress
+    img: conll2017
     title: "UParse: the Edinburgh system for the CoNLL 2017 UD shared task"
     authors: Clara Vania, Xingxing Zhang, and Adam Lopez
     booktitle: "Proceedings of the CoNLL shared task"
     booktitle-url: http://universaldependencies.org/conll17/
+    doc-url: http://aclweb.org/anthology/K17-3010
     venue: workshop
+    abstract: >
+      This paper presents our submissions for
+      the CoNLL 2017 UD Shared Task. Our
+      parser, called UParse, is based on a neural
+      network graph-based dependency parser.
+      The parser uses features from a bidirectional
+      LSTM to produce a distribution over
+      possible heads for each word in the sentence.
+      To allow transfer learning for lowresource
+      treebanks and surprise languages,
+      we train several multilingual models for
+      related languages, grouped by their genus
+      and language families. Out of 33 participants,
+      our system achieves rank 9th in the
+      main results, with 75.49 UAS and 68.87
+      LAS F-1 scores (average across 81 treebanks).
   - layout: paper
     selected: yes
     paper-type: inproceedings
@@ -56,7 +73,7 @@ papers:
     booktitle: "Proceedings of *SEM"
     venue: conference
     booktitle-url: https://sites.google.com/site/starsem2017/call-for-papers
-    doc-url: https://drive.google.com/file/d/0BzloQ1gVvR5TcWhwQjNiMjBaUm8/view
+    doc-url: http://aclweb.org/anthology/S17-1024
     abstract: >
       Recently, several datasets have become
       available which represent natural language
@@ -114,8 +131,8 @@ papers:
     title: "From characters to words to in between: Do we capture morphology?"
     authors: Clara Vania and Adam Lopez
     booktitle: Proceedings of ACL
-    booktitle-url: http://acl2017.org/
-    doc-url: https://arxiv.org/pdf/1704.08352.pdf
+    booktitle-url: "http://acl2017.org/"
+    doc-url: "https://doi.org/10.18653/v1/P17-1184"
     venue: conference
     abstract: >
       "Words can be represented by composing
@@ -153,7 +170,7 @@ papers:
     authors: Jianpeng Cheng, Adam Lopez, and Mirella Lapata
     booktitle: Proceedings of ACL
     booktitle-url: http://acl2017.org/
-    doc-url: http://homepages.inf.ed.ac.uk/s1537177/resources/virnng.pdf
+    doc-url: https://doi.org/10.18653/v1/P17-2019
     venue: conference
     abstract: >
       Generative models defining joint distributions
