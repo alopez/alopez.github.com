@@ -31,12 +31,32 @@ papers:
   - layout: paper
     year: 2017
     paper-type: inproceedings
-    img: inpress2
+    img: scnlp2017
     title: Spoken term discovery for language documentation using translations
     authors: Antonios Anastasopoulos, Sameer Bansal, David Chiang, Sharon Goldwater and Adam Lopez
     booktitle: Workshop on Speech-Centric Natural Language Processing (SCNLP)
     booktitle-url: http://speechnlp.github.io/2017/
     venue: workshop
+    doc-url: http://aclweb.org/anthology/W/W17/W17-4607.pdf
+    abstract: >
+      Vast amounts of speech data collected for
+      language documentation and research remain
+      untranscribed and unsearchable, but
+      often a small amount of speech may have
+      text translations available. We present a
+      method for partially labeling additional
+      speech with translations in this scenario.
+      We modify an unsupervised speech-totranslation
+      alignment model and obtain
+      prototype speech segments that match the
+      translation words, which are in turn used
+      to discover terms in the unlabelled data.
+      We evaluate our method on a Spanish-English
+      speech translation corpus and on
+      two corpora of endangered languages,
+      Arapaho and Ainu, demonstrating its appropriateness
+      and applicability in an actual
+      very-low-resource scenario.
   - layout: paper
     year: 2017
     paper-type: inproceedings
