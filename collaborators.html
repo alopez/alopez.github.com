@@ -2,7 +2,7 @@
 layout: default
 title: Adam Lopez | Collaborators
 picture: athens
-students:
+phd-students:
   - 
     name: Sameer Bansal
     img: sbansal
@@ -39,11 +39,6 @@ students:
     description: >
       Probabilistic models of graphs
   -
-    name: Moise Lubwimi
-    img: edi
-    tagline: MInf student, University of Edinburgh
-    description: Natural language generation
-  -
     name: Naomi Saphra
     img: nsaphra
     url: http://nsaphra.github.io/ 
@@ -70,11 +65,19 @@ students:
     tagline: PhD student, University of Edinburgh (primary advisor&colon; Bonnie Webber)
     description:
       Cross-lingual coreference
+project-students:
+  - 
+    name: Ramona Comanescu
+    tagline: UG student, University of Edinburgh 
+  -
+    name: Moise Lubwimi
+    tagline: MInf student, University of Edinburgh
+  - 
+    name: Konstantinos Stergiou
+    tagline: UG student, University of Edinburgh
   - 
     name: Justas Zemgulys
-    img: edi
     tagline: MInf student, University of Edinburgh
-    description: Neural semantic parsing
 former-students:
   -
     name: Michael Auli
@@ -298,8 +301,11 @@ collaborators:
 <blockquote><i>Much have I learned from my teachers, more from my colleagues, but most from my students. <br/>&mdash;Talmud</i></blockquote>
 </div>
 
-<h4>Current students</h4>
-{% include collaborator.html people=page.students show=true %}
+<h4>PhD students</h4>
+{% include collaborator.html people=page.phd-students show=true %}
+
+<h4>Master's and undergraduate project students</h4>
+{% include collaborator.html people=page.project-students show=false %}
 
 <h4>Alumni</h4>
 {% include collaborator.html people=page.former-students show=false %}
