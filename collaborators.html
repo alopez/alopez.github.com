@@ -2,14 +2,7 @@
 layout: default
 title: Adam Lopez | Collaborators
 picture: athens
-phd-students:
-  - 
-    name: Sameer Bansal
-    img: sbansal
-    url: http://homepages.inf.ed.ac.uk/s1444673
-    tagline: PhD student, University of Edinburgh (primary advisor&colon; Sharon Goldater)
-    description: >
-      Low-resource speech translation 
+phd-students-first:
   -
     name: Nikolay Bogoychev
     img: nbogoychev
@@ -17,20 +10,6 @@ phd-students:
     tagline: PhD student, University of Edinburgh
     description: >
       Machine translation
-  -
-    name: Jianpeng Cheng
-    img: edi
-    url: http://homepages.inf.ed.ac.uk/s1537177/
-    tagline: "PhD student, University of Edinburgh (primary advisor: Mirella Lapata)"
-    description: >
-      Neural syntactic and semantic parsing
-  -
-    name: Federico Fancellu
-    img: fancellu
-    url: http://homepages.inf.ed.ac.uk/s1260346/index.html
-    tagline: PhD student, University of Edinburgh (primary advisor&colon; Bonnie Webber)
-    description: 
-      Computational models of negation
   -
     name: Sorcha Gilroy
     img: sgilroy
@@ -45,12 +24,6 @@ phd-students:
     tagline: PhD student, University of Edinburgh. MSc, Johns Hopkins University, 2015.
     description: >
       Deep learning and social media
-  - 
-    name: Ida Szubert
-    img: edi
-    tagline: "PhD student, University of Edinburgh (primary advisor: Mark Steedman). MSc 2016, University of Edinburgh."
-    description: >
-      Syntax and semantics; graph algorithms
   -
     name: Clara Vania
     img: cvania
@@ -58,13 +31,47 @@ phd-students:
     tagline: PhD student, University of Edinburgh. MSc, University of Edinburgh, 2015.
     description: >
       Deep learning and morphology
+phd-students-second:
+  - 
+    name: Sameer Bansal
+    img: sbansal
+    url: http://homepages.inf.ed.ac.uk/s1444673
+    tagline: "PhD student, University of Edinburgh (primary supervisor: Sharon Goldater)."
+    description: Low-resource speech translation 
+  -
+    name: Jianpeng Cheng
+    img: edi
+    url: http://homepages.inf.ed.ac.uk/s1537177/
+    tagline: "PhD student, University of Edinburgh (primary supervisor: Mirella Lapata)."
+    description: Neural syntactic and semantic parsing
+  - 
+    name: Marco Damonte
+    img: edi
+    url: http://mdtux89.github.io/
+    tagline: "PhD student, University of Edinburgh (primary supervisor: Shay Cohen)."
+    description: Abstract meaning representation
+  -
+    name: Federico Fancellu
+    img: fancellu
+    url: http://homepages.inf.ed.ac.uk/s1260346/index.html
+    tagline: "PhD student, University of Edinburgh (primary supervisor: Bonnie Webber)."
+    description: Computational models of negation
+  -
+    name: Joana Ribeiro
+    img: edi
+    tagline: "PhD student, University of Edinburgh (primary supervisor: Shay Cohen)."
+    description: Sequence modeling
+  - 
+    name: Ida Szubert
+    img: edi
+    tagline: "PhD student, University of Edinburgh (primary supervisor: Mark Steedman). MSc 2016, University of Edinburgh."
+    description: Syntax, semantics, and graph algorithms
   -
     name: Dominikus Wetzel
     img: edi 
     url: http://www.inf.ed.ac.uk/people/students/Dominikus_Wetzel.html
-    tagline: PhD student, University of Edinburgh (primary advisor&colon; Bonnie Webber)
-    description:
-      Cross-lingual coreference
+    tagline: "PhD student, University of Edinburgh (primary supervisor: Bonnie Webber)"
+    description: Cross-lingual coreference
 project-students:
   - 
     name: Ramona Comanescu
@@ -302,7 +309,11 @@ collaborators:
 </div>
 
 <h4>PhD students</h4>
-{% include collaborator.html people=page.phd-students show=true %}
+<h5>As primary supervisor</h5>
+{% include collaborator.html people=page.phd-students-first show=true %}
+
+<h5>As secondary supervisor</h5>
+{% include collaborator.html people=page.phd-students-second show=true %}
 
 <h4>Master's and undergraduate project students</h4>
 {% include collaborator.html people=page.project-students show=false %}
