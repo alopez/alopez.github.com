@@ -326,7 +326,6 @@ papers:
       test data.
   - layout: paper
     paper-type: inproceedings
-    selected: yes
     year: 2017
     img: icassp2017
     title: Weakly supervised spoken term discovery using cross-lingual side information
@@ -350,7 +349,6 @@ papers:
       wide range of system configurations and data preprocessing methods.
   - layout: paper
     paper-type: inproceedings
-    selected: yes
     year: 2016
     img: repeval2016
     title: Evaluating informal-domain word representations with UrbanDictionary
@@ -375,7 +373,6 @@ papers:
       using UrbanDictionary
   - layout: paper
     paper-type: inproceedings
-    selected: yes
     year: 2016
     img: glm
     title: N-gram language models for massively parallel devices
