@@ -87,7 +87,7 @@ project-students:
   - 
     name: Justas Zemgulys
     tagline: MInf student, University of Edinburgh
-former-students:
+former-phd:
   -
     name: Michael Auli
     img: auli
@@ -99,12 +99,7 @@ former-students:
       grammar formalism. After graduation Michael began working on neural
       translation, and is one of the key researchers behind Facebook's 
       <a href="https://code.facebook.com/posts/1978007565818999/a-novel-approach-to-neural-machine-translation/">convolutional machine translation system</a>.
-  -
-    name: Iulia Banghea
-    img: edi
-    tagline: BSc 2017, University of Edinburgh.
-    description: >
-      Iulia's honours thesis was on native language identification in second language text.
+former-masters:
   - 
     name: Despoina Christou
     img: edi
@@ -135,13 +130,6 @@ former-students:
     description: >
       Evangelia worked on natural language generation using phrase-based machine translation.
   -
-    name: Katarzyna Pruś
-    img: dundee
-    url: https://www.linkedin.com/in/katarzyna-pru%C5%9B-6bb609107?ppe=1
-    tagline: Visiting BSc student, University of Dundee. Now MPhil student at University of Cambridge.
-    description:
-      Katarzyna did an excellent project on natural language generation in summer 2015.
-  -
     name: Lena Reisinger
     img: edi
     tagline: MInf 2017, University of Edinburgh.
@@ -154,13 +142,6 @@ former-students:
     tagline: PhD student, Johns Hopkins University. 
     description:
       Adi amicably switched advisors after I moved to the University of Edinburgh. We worked together on word alignment and AMR.
-  - 
-    name: Pijus Simonaitis
-    img: enslyon
-    url: https://www.linkedin.com/in/pijus-simonaitis-734594bb/?ppe=1
-    tagline: Visiting MSc student from École Normale Supérieure de Lyon. Now PhD student at Montpellier Laboratory of Computer Science, Robotics, and Microelectronics.
-    description: >
-      Pijus worked with us on graph grammars and logics in summer 2016.
   -
     name: Jason R. Smith
     img: jrsmith
@@ -185,6 +166,34 @@ former-students:
   - 
     name: Ajay Viswanathan
     tagline: MSc 2017, University of Edinburgh.
+former-ug:
+  -
+    name: Iulia Banghea
+    img: edi
+    tagline: BSc 2017, University of Edinburgh.
+    description: >
+      Iulia's honours thesis was on native language identification in second language text.
+former-visitors:
+  - 
+    name: Chip Huyen
+    url: https://huyenchip.com/
+    tagline: Visiting BSc student, Stanford University. 
+    description:
+      Chip worked on graph embeddings.
+  -
+    name: Katarzyna Pruś
+    img: dundee
+    url: https://www.linkedin.com/in/katarzyna-pru%C5%9B-6bb609107?ppe=1
+    tagline: Visiting BSc student, University of Dundee. Now MPhil student at University of Cambridge.
+    description:
+      Katarzyna did an excellent project on natural language generation in summer 2015.
+  - 
+    name: Pijus Simonaitis
+    img: enslyon
+    url: https://www.linkedin.com/in/pijus-simonaitis-734594bb/?ppe=1
+    tagline: Visiting MSc student from École Normale Supérieure de Lyon. Now PhD student at Montpellier Laboratory of Computer Science, Robotics, and Microelectronics.
+    description: >
+      Pijus worked with us on graph grammars and logics in summer 2016.
 collaborators:
   -
     name: Antonios Anastasopoulos
@@ -296,6 +305,10 @@ collaborators:
     url: http://www.umiacs.umd.edu/%7Eresnik/
     tagline: University of Maryland.
   -
+    name: Nathan Schneider
+    url: http://people.cs.georgetown.edu/nschneid/
+    tagline: Georgetown University.
+  -
     name: Bonnie Webber
     url: http://homepages.inf.ed.ac.uk/bonnie/
     tagline: University of Edinburgh.
@@ -322,7 +335,17 @@ collaborators:
 {% include collaborator.html people=page.project-students show=false %}
 
 <h4>Alumni</h4>
-{% include collaborator.html people=page.former-students show=false %}
+<h5>PhD</h5>
+{% include collaborator.html people=page.former-phd show=false %}
+
+<h5>Master's</h5>
+{% include collaborator.html people=page.former-masters show=false %}
+
+<h5>Undergraduates</h5>
+{% include collaborator.html people=page.former-ug show=false %}
+
+<h5>Visiting students</h5>
+{% include collaborator.html people=page.former-visitors show=false %}
 
 <h4>Collaborators past and present</h4>
 {% include collaborator.html people=page.collaborators show=false %}
