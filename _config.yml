@@ -32,6 +32,30 @@ papers:
     year: 2018
     paper-type: inproceedings
     selected: yes
+    img: inpress2
+    title: "Does ability affect alignment in second language tutorial dialogue?" 
+    authors: "Arabella Sinclair, Adam Lopez, Christopher G. Lucas and Dragan Gašević"
+    booktitle: Proceedings of SIGDIAL
+    booktitle-url: http://workshops.sigdial.org/conference19/
+    venue: conference
+    note: To appear.
+    abstract: >
+      The role of alignment between interlocutors in second language 
+      learning is different to that in fluent conversational dialogue. 
+      Learners gain linguistic skill through increased alignment, yet the 
+      extent to which they can align will be constrained by their ability. 
+      Tutors may use alignment to teach and encourage the student, yet 
+      still must push the student and correct their errors, decreasing 
+      alignment. To understand how learner ability interacts with alignment,
+      we measure the influence of ability on lexical priming, an indicator 
+      of alignment. We find that lexical priming in learner-tutor dialogues 
+      differs from that in conversational and task-based dialogues, and we 
+      find evidence that alignment increases with ability and with word 
+      complexity.
+  - layout: paper
+    year: 2018
+    paper-type: inproceedings
+    selected: yes
     img: inpress
     title: A structured syntax-semantics interface for English-AMR alignment
     authors: Ida Szubert, Adam Lopez, and Nathan Schneider
