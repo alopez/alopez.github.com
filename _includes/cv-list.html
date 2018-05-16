@@ -4,7 +4,8 @@
   <ul>
     {% for item in category.items %}
       <li>
-        {{ item.title }}.
+        {% capture title_end %}{{ item.title | slice: -1 }}{% endcapture %}
+        {{ item.title }}{% unless title_end == '?' %}.{% endunless %}
         {% if item.year %}{{ item.year }}.{% endif %}
         {% if item.detail %}{{ item.detail }}.{% endif %}
       </li>
@@ -17,7 +18,8 @@
   <ul>
     {% for item in subsection.items %}
       <li>
-        {{ item.title }}.
+        {% capture title_end %}{{ item.title | slice: -1 }}{% endcapture %}
+        {{ item.title }}{% unless title_end == '?' %}.{% endunless %}
         {% if item.year %}{{ item.year }}.{% endif %}
         {% if item.detail %}{{ item.detail }}.{% endif %}
       </li>
