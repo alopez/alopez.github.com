@@ -61,7 +61,9 @@ papers:
     authors: Ida Szubert, Adam Lopez, and Nathan Schneider
     booktitle: Proceedings of NAACL
     booktitle-url: http://naacl2018.org/
+    doc-url: http://aclweb.org/anthology/N18-1106
     venue: conference
+    img: naacl2018
     note: To appear.
     abstract: >
       Abstract Meaning Representation (AMR) annotations are often assumed 
