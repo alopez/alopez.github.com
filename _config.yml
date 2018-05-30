@@ -64,6 +64,7 @@ papers:
     doc-url: http://aclweb.org/anthology/N18-1106
     venue: conference
     img: naacl2018
+    data: https://github.com/ida-szubert/amr_ud/
     note: To appear.
     abstract: >
       Abstract Meaning Representation (AMR) annotations are often assumed 
