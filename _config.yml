@@ -599,6 +599,7 @@ papers:
     booktitle: Proceedings of IWSLT
     booktitle-url: http://www.iwslt2013.org/
     doc-url: papers/iwslt2013-post-etal.pdf
+    data: https://catalog.ldc.upenn.edu/ldc2014t23
     venue: workshop
     abstract: >
       <p>Research into the translation of the output of automatic speech 
