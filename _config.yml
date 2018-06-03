@@ -32,6 +32,38 @@ papers:
     year: 2018
     paper-type: inproceedings
     selected: yes
+    img: interspeech2018
+    title: "Low-resource speech-to-text translation"
+    authors: "Sameer Bansal, Herman Kamper, Karen Livescu, Adam Lopez, and Sharon Goldwater"
+    booktitle: Proceedings of Interspeech
+    booktitle-url: http://interspeech2018.org/
+    venue: conference
+    note: To appear.
+    doc-url: https://arxiv.org/abs/1803.09164
+    abstract: >
+      Speech-to-text translation has many potential applications for 
+      low-resource languages, but the typical approach of cascading speech 
+      recognition with machine translation is often impossible, since the 
+      transcripts needed to train a speech recognizer are usually not 
+      available for low-resource languages. Recent work has found that 
+      neural encoder-decoder models can learn to directly translate foreign 
+      speech in high-resource scenarios, without the need for intermediate 
+      transcription. We investigate whether this approach also works in 
+      settings where both data and computation are limited. To make the 
+      approach efficient, we make several architectural changes, including 
+      a change from character-level to word-level decoding. We find that 
+      this choice yields crucial speed improvements that allow us to train 
+      with fewer computational resources, yet still performs well on 
+      frequent words. We explore models trained on between 20 and 160 
+      hours of data, and find that although models trained on less data 
+      have considerably lower BLEU scores, they can still predict words 
+      with relatively high precision and recall---around 50% for a model 
+      trained on 50 hours of data, versus around 60% for the full 160 hour 
+      model. Thus, they may still be useful for some low-resource scenarios.
+  - layout: paper
+    year: 2018
+    paper-type: inproceedings
+    selected: yes
     img: inpress2
     title: "Does ability affect alignment in second language tutorial dialogue?" 
     authors: "Arabella Sinclair, Adam Lopez, Christopher G. Lucas and Dragan Gašević"
