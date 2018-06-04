@@ -389,7 +389,6 @@ papers:
       should focus on these more difficult cases."
   - layout: paper
     paper-type: inproceedings
-    selected: yes
     year: 2017
     img: eacl2017-speech
     title: Towards speech-to-text translation without speech recognition
