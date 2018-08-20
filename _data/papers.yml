@@ -1,0 +1,1292 @@
+papers:
+  - layout: paper
+    year: 2018
+    paper-type: inproceedings
+    img: inpress2
+    title: "What do character-level models learn about morphology? The case of dependency parsing"
+    authors: "Clara Vania, Andreas Grivas, and Adam Lopez"
+    booktitle: Proceedings of EMNLP
+    booktitle-url: http://emnlp2018.org/
+    venue: conference
+    note: To appear.
+    abstract: >
+      Character-level models are effective for parsing morphologically rich 
+      languages. This is attributed to their ability to learn morphology, 
+      but the extent to which they do is unknown. We seek answers by 
+      comparing them to an <i>oracle</i> with access to explicit 
+      morphological analysis on twelve languages with varying morphological 
+      typologies. Our results highlight many strengths of character-level 
+      models, but also show that they are poor at disambiguating some words,
+      particularly in the face of case syncretism.
+  - layout: paper
+    year: 2018
+    paper-type: inproceedings
+    img: inpress3
+    title: "<i>Indicatements</i> that character language models learn English morpho-syntactic units and regularities"
+    authors: "Yova Kementchedjhieva and Adam Lopez"
+    booktitle: Proceedings of the Workshop on analyzing and interpreting neural networks for NLP
+    booktitle-url: https://blackboxnlp.github.io/
+    venue: workshop
+    note: To appear.
+    abstract: >
+      Character language models have access to surface morphological 
+      patterns, but it is not clear whether or <i>how</i> they learn 
+      abstract morphological regularities. We instrument a character 
+      language model with several probes, finding that it can develop a 
+      specific unit to identify word boundaries and, by extension, morpheme 
+      boundaries, which allows it to capture linguistic properties and 
+      regularities of these units. Our language model proves surprisingly 
+      good at identifying the selectional restrictions of English 
+      derivational morphemes, a task that requires both morphological and 
+      syntactic awareness. Thus we conclude that, when morphemes overlap 
+      extensively with the words of a language, a character language model 
+      can perform morphological abstraction.  
+  - layout: paper
+    year: 2018
+    paper-type: inproceedings
+    selected: yes
+    img: interspeech2018
+    title: "Low-resource speech-to-text translation"
+    authors: "Sameer Bansal, Herman Kamper, Karen Livescu, Adam Lopez, and Sharon Goldwater"
+    booktitle: Proceedings of Interspeech
+    booktitle-url: http://interspeech2018.org/
+    venue: conference
+    doc-url: https://arxiv.org/abs/1803.09164
+    abstract: >
+      Speech-to-text translation has many potential applications for 
+      low-resource languages, but the typical approach of cascading speech 
+      recognition with machine translation is often impossible, since the 
+      transcripts needed to train a speech recognizer are usually not 
+      available for low-resource languages. Recent work has found that 
+      neural encoder-decoder models can learn to directly translate foreign 
+      speech in high-resource scenarios, without the need for intermediate 
+      transcription. We investigate whether this approach also works in 
+      settings where both data and computation are limited. To make the 
+      approach efficient, we make several architectural changes, including 
+      a change from character-level to word-level decoding. We find that 
+      this choice yields crucial speed improvements that allow us to train 
+      with fewer computational resources, yet still performs well on 
+      frequent words. We explore models trained on between 20 and 160 
+      hours of data, and find that although models trained on less data 
+      have considerably lower BLEU scores, they can still predict words 
+      with relatively high precision and recall---around 50% for a model 
+      trained on 50 hours of data, versus around 60% for the full 160 hour 
+      model. Thus, they may still be useful for some low-resource scenarios.
+  - layout: paper
+    year: 2018
+    paper-type: inproceedings
+    selected: yes
+    img: sigdial2018
+    title: "Does ability affect alignment in second language tutorial dialogue?" 
+    authors: "Arabella Sinclair, Adam Lopez, Christopher G. Lucas and Dragan Gašević"
+    booktitle: Proceedings of SIGDIAL
+    booktitle-url: http://workshops.sigdial.org/conference19/
+    doc-url: http://aclweb.org/anthology/W18-5005
+    venue: conference
+    abstract: >
+      The role of alignment between interlocutors in second language 
+      learning is different to that in fluent conversational dialogue. 
+      Learners gain linguistic skill through increased alignment, yet the 
+      extent to which they can align will be constrained by their ability. 
+      Tutors may use alignment to teach and encourage the student, yet 
+      still must push the student and correct their errors, decreasing 
+      alignment. To understand how learner ability interacts with alignment,
+      we measure the influence of ability on lexical priming, an indicator 
+      of alignment. We find that lexical priming in learner-tutor dialogues 
+      differs from that in conversational and task-based dialogues, and we 
+      find evidence that alignment increases with ability and with word 
+      complexity.
+  - layout: paper
+    year: 2018
+    paper-type: inproceedings
+    selected: yes
+    img: inpress
+    title: A structured syntax-semantics interface for English-AMR alignment
+    authors: Ida Szubert, Adam Lopez, and Nathan Schneider
+    booktitle: Proceedings of NAACL
+    booktitle-url: http://naacl2018.org/
+    doc-url: http://aclweb.org/anthology/N18-1106
+    venue: conference
+    img: naacl2018
+    data: https://github.com/ida-szubert/amr_ud/
+    abstract: >
+      Abstract Meaning Representation (AMR) annotations are often assumed 
+      to closely mirror dependency syntax, but AMR explicitly does not 
+      require this, and the assumption has never been tested. To test it, 
+      we devise an expressive framework to align AMR graphs to dependency 
+      graphs, which we use to annotate 200 AMRs. Our annotation explains 
+      how 97% of AMR edges are evoked by words or syntax. Previously 
+      existing AMR alignment frameworks did not allow for mapping AMR onto 
+      syntax, and as a consequence they explained at most 23%. While we 
+      find that there are indeed many cases where AMR annotations closely 
+      mirror syntax, there are also pervasive differences. We use our 
+      annotations to test a baseline AMR-to-syntax aligner, finding that 
+      this task is more difficult than AMR-to-string alignment; and to 
+      pinpoint errors in an AMR parser. We make our data and code freely 
+      available for further research on AMR parsing and generation, and the 
+      relationship of AMR to syntax.
+  - layout: paper
+    year: 2018
+    paper-type: article
+    selected: yes
+    img: daga-cl
+    title: Weighted DAG automata for semantic graphs
+    authors: David Chiang, Frank Drewes, Daniel Gildea, Adam Lopez, and Giorgio Satta
+    journal: Computational Linguistics
+    journal-url: https://www.mitpressjournals.org/loi/coli
+    doc-url: https://www.mitpressjournals.org/doi/abs/10.1162/COLI_a_00309
+    venue: journal
+    volume: 44
+    number: 1
+    pages: "119&ndash;186"
+    abstract: >
+      Graphs have a variety of uses in natural language processing, 
+      particularly as representations of linguistic meaning. A deficit in 
+      this area of research is a formal framework for creating, combining, 
+      and using models involving graphs that parallels the frameworks of 
+      finite automata for strings and finite tree automata for trees. A 
+      possible starting point for such a framework is the formalism of DAG 
+      automata, defined by Kamimura and Slutzki and extended by Quernheim 
+      and Knight. In this article, we study the latter in depth, 
+      demonstrating several new results, including a practical recognition 
+      algorithm that can be used for inference and learning with models 
+      defined on DAG automata. We also propose an extension to graphs with 
+      unbounded node degree and show that our results carry over to the 
+      extended formalism.
+  - layout: paper
+    year: 2017
+    paper-type: inproceedings
+    img: scnlp2017
+    title: Spoken term discovery for language documentation using translations
+    authors: Antonios Anastasopoulos, Sameer Bansal, David Chiang, Sharon Goldwater and Adam Lopez
+    booktitle: Workshop on Speech-Centric Natural Language Processing (SCNLP)
+    booktitle-url: http://speechnlp.github.io/2017/
+    venue: workshop
+    doc-url: http://aclweb.org/anthology/W/W17/W17-4607.pdf
+    abstract: >
+      Vast amounts of speech data collected for
+      language documentation and research remain
+      untranscribed and unsearchable, but
+      often a small amount of speech may have
+      text translations available. We present a
+      method for partially labeling additional
+      speech with translations in this scenario.
+      We modify an unsupervised speech-totranslation
+      alignment model and obtain
+      prototype speech segments that match the
+      translation words, which are in turn used
+      to discover terms in the unlabelled data.
+      We evaluate our method on a Spanish-English
+      speech translation corpus and on
+      two corpora of endangered languages,
+      Arapaho and Ainu, demonstrating its appropriateness
+      and applicability in an actual
+      very-low-resource scenario.
+  - layout: paper
+    year: 2017
+    paper-type: inproceedings
+    img: conll2017
+    title: "UParse: the Edinburgh system for the CoNLL 2017 UD shared task"
+    authors: Clara Vania, Xingxing Zhang, and Adam Lopez
+    booktitle: "Proceedings of the CoNLL shared task"
+    booktitle-url: http://universaldependencies.org/conll17/
+    doc-url: http://aclweb.org/anthology/K17-3010
+    venue: workshop
+    abstract: >
+      This paper presents our submissions for
+      the CoNLL 2017 UD Shared Task. Our
+      parser, called UParse, is based on a neural
+      network graph-based dependency parser.
+      The parser uses features from a bidirectional
+      LSTM to produce a distribution over
+      possible heads for each word in the sentence.
+      To allow transfer learning for lowresource
+      treebanks and surprise languages,
+      we train several multilingual models for
+      related languages, grouped by their genus
+      and language families. Out of 33 participants,
+      our system achieves rank 9th in the
+      main results, with 75.49 UAS and 68.87
+      LAS F-1 scores (average across 81 treebanks).
+  - layout: paper
+    selected: yes
+    paper-type: inproceedings
+    year: 2017
+    img: prgg
+    title: Parsing graphs with regular graph grammars
+    authors: Sorcha Gilroy, Adam Lopez, and Sebastian Maneth
+    booktitle: "Proceedings of *SEM"
+    venue: conference
+    booktitle-url: https://sites.google.com/site/starsem2017/call-for-papers
+    doc-url: http://aclweb.org/anthology/S17-1024
+    abstract: >
+      Recently, several datasets have become
+      available which represent natural language
+      phenomena as graphs. Hyperedge Replacement Languages (HRL) have been
+      the focus of much attention as a formalism to represent the graphs in these
+      datasets. Chiang et al. (2013) prove that
+      HRL graphs can be parsed in polynomial
+      time with respect to the size of the in-
+      put graph. We believe that HRL are more
+      expressive than is necessary to represent
+      semantic graphs and we propose the use
+      of Regular Graph Languages (RGL; Cour-
+      celle 1991), which is a subfamily of HRL,
+      as a possible alternative. We provide a top-down parsing algorithm for RGL that runs
+      in time linear in the size of the input graph.
+  - layout: paper
+    selected: yes
+    paper-type: inproceedings
+    year: 2017
+    img: rgg
+    title: "(Re)introducing regular graph languages"
+    authors: Sorcha Gilroy, Adam Lopez, Sebastian Maneth, and Pijus Simonaitis
+    booktitle: Meeting on the Mathematics of Language
+    booktitle-url: http://www.molweb.org/mol2017/
+    doc-url: http://aclweb.org/anthology/W17-3410
+    venue: workshop
+    abstract: >
+      Distributions over strings and trees can be
+      represented by probabilistic regular languages
+      which characterize many models
+      in natural language processing. Recently,
+      several datasets have become available
+      which represent natural language phenomena
+      as graphs, so it is natural to ask
+      whether there is an equivalent of probabilistic
+      regular languages for graphs. This
+      paper presents regular graph languages,
+      a formalism due to Courcelle (1991) that
+      has not previously studied in natural language
+      processing. RGL is crucially a subfamily
+      of both Hyperedge Replacement
+      Languages (HRL), which can be made
+      probabilistic; and Monadic Second Order
+      Languages (MSOL), which are closed under
+      intersection. We give an accessible
+      introduction to Courcelle's proof that
+      RGLs are in MSOL, providing clues about
+      how RGL may relate to other recently introduced
+      graph grammar formalisms.
+  - layout: paper
+    selected: yes
+    paper-type: inproceedings
+    year: 2017
+    img: morphlm
+    title: "From characters to words to in between: Do we capture morphology?"
+    authors: Clara Vania and Adam Lopez
+    booktitle: Proceedings of ACL
+    booktitle-url: "http://acl2017.org/"
+    doc-url: "https://doi.org/10.18653/v1/P17-1184"
+    venue: conference
+    abstract: >
+      "Words can be represented by composing
+      the representations of subword units such
+      as word segments, characters, and/or character
+      n-grams. While such representations
+      are effective and may capture the morphological
+      regularities of words, they have
+      not been systematically compared, and it
+      is not understood how they interact with
+      different morphological typologies. On a
+      language modeling task, we present experiments
+      that systematically vary (1) the
+      basic unit of representation, (2) the composition
+      of these representations, and (3)
+      the morphological typology of the language
+      modeled. Our results extend previous
+      findings that character representations
+      are effective across typologies, and we find
+      that a previously unstudied combination
+      of character trigram representations composed
+      with bi-LSTMs outperforms most
+      others. But we also find room for improvement:
+      none of the character-level models
+      match the predictive accuracy of a model
+      with access to true morphological analyses,
+      even when learned from an order of
+      magnitude more data."
+  - layout: paper
+    paper-type: inproceedings
+    year: 2017
+    img: virnng
+    title: A generative parser with a discriminative recognition algorithm
+    authors: Jianpeng Cheng, Adam Lopez, and Mirella Lapata
+    booktitle: Proceedings of ACL
+    booktitle-url: http://acl2017.org/
+    doc-url: https://doi.org/10.18653/v1/P17-2019
+    venue: conference
+    abstract: >
+      Generative models defining joint distributions
+      over parse trees and sentences are
+      useful for parsing and language modeling,
+      but impose restrictions on the scope of features
+      and are often outperformed by discriminative
+      models. We propose a framework
+      for parsing and language modeling
+      which marries a generative model with
+      a discriminative recognition model in an
+      encoder-decoder setting. We provide interpretations
+      of the framework based on
+      expectation maximization and variational
+      inference, and show that it enables parsing
+      and language modeling within a single implementation.
+      On the English Penn Treenbank,
+      our framework obtains competitive
+      performance on constituency parsing
+      while matching the state-of-the-art single model
+      language modeling score.
+  - layout: paper
+    paper-type: inproceedings
+    year: 2017
+    img: deplambdanot
+    title: Universal dependencies to logical forms with negation scope
+    authors: Federico Fancellu, Siva Reddy, Adam Lopez, and Bonnie Webber
+    booktitle: Proceedings of the Workshop on Computational Semantics Beyond Events and Roles
+    booktitle-url: http://www.cse.unt.edu/sembear2017/
+    doc-url: http://aclweb.org/anthology/W17-1804
+    venue: workshop
+    abstract: >
+      Many language technology applications
+      would benefit from the ability to represent
+      negation and its scope on top of widely-used
+      linguistic resources. In this paper, we
+      investigate the possibility of obtaining a
+      first-order logic representation with negation
+      scope marked using Universal Dependencies.
+      To do so, we enhance UDepLambda,
+      a framework that converts dependency
+      graphs to logical forms. The resulting
+      UDepLambda is able to handle
+      phenomena related to scope by means of
+      an higher-order type theory, relevant not
+      only to negation but also to universal quantification
+      and other complex semantic phenomena.
+      The initial conversion we did for
+      English is promising, in that one can represent
+      the scope of negation also in the presence
+      of more complex phenomena such as
+      universal quantifiers.
+  - layout: paper
+    paper-type: inproceedings
+    year: 2017
+    img: negation_is_not_easy
+    title: "Detecting negation scope is easy, except when it isn't"
+    authors: Federico Fancellu, Adam Lopez, Bonnie Webber and Hangfeng He
+    booktitle: Proceedings of EACL
+    booktitle-url: http://eacl2017.org/
+    doc-url: http://aclweb.org/anthology/E17-2010
+    venue: conference
+    abstract: >
+      "Several corpora have been annotated with
+      negation scope---the set of words whose
+      meaning is negated by a cue like the
+      word 'not'---leading to the development
+      of classifiers that detect negation scope
+      with high accuracy. We show that for
+      nearly all of these corpora, this high accuracy
+      can be attributed to a single fact:
+      they frequently annotate negation scope as
+      a single span of text delimited by punctuation.
+      For negation scopes not of this
+      form, detection accuracy is low and undersampling
+      the easy training examples does
+      not substantially improve accuracy. We
+      demonstrate that this is partly an artifact of
+      annotation guidelines, and we argue that
+      future negation scope annotation efforts
+      should focus on these more difficult cases."
+  - layout: paper
+    paper-type: inproceedings
+    year: 2017
+    img: eacl2017-speech
+    title: Towards speech-to-text translation without speech recognition
+    authors: Sameer Bansal, Adam Lopez, Herman Kamper, and Sharon Goldwater
+    booktitle: Proceedings of EACL
+    booktitle-url: http://eacl2017.org/
+    doc-url: http://aclweb.org/anthology/E17-2076
+    venue: conference
+    abstract: >
+      We explore the problem of translating speech to text in low-resource 
+      scenarios where neither automatic speech recognition (ASR) nor machine
+      translation (MT) are available, but we have training data in the form 
+      of audio paired with text translations. We present the first system 
+      for this problem applied to a realistic multi-speaker dataset, the 
+      CALLHOME Spanish-English speech translation corpus. Our approach uses 
+      unsupervised term discovery (UTD) to cluster repeated patterns in the 
+      audio, creating a pseudotext, which we pair with translations to 
+      create a parallel text and train a simple bag-of-words MT model. We 
+      identify the challenges faced by the system, finding that the 
+      difficulty of cross-speaker UTD results in low recall, but that our 
+      system is still able to correctly translate some content words in 
+      test data.
+  - layout: paper
+    paper-type: inproceedings
+    year: 2017
+    img: icassp2017
+    title: Weakly supervised spoken term discovery using cross-lingual side information
+    authors: Sameer Bansal, Herman Kamper, Sharon Goldwater, and Adam Lopez
+    booktitle: Proceedings of ICASSP
+    booktitle-url: http://www.ieee-icassp2017.org/
+    doc-url: https://arxiv.org/pdf/1609.06530v1.pdf
+    venue: conference
+    abstract: >
+      Recent work on unsupervised term discovery (UTD) aims to identify
+      and cluster repeated word-like units from audio alone. These
+      systems are promising for some very low-resource languages where
+      transcribed audio is unavailable, or where no written form of the
+      language exists. However, in some cases it may still be feasible (e.g.,
+      through crowdsourcing) to obtain (possibly noisy) text translations
+      of the audio. If so, this information could be used as a source of side
+      information to improve UTD. Here, we present a simple method for
+      rescoring the output of a UTD system using text translations, and test
+      it on a corpus of Spanish audio with English translations. We show
+      that it greatly improves the average precision of the results over a
+      wide range of system configurations and data preprocessing methods.
+  - layout: paper
+    paper-type: inproceedings
+    year: 2016
+    img: repeval2016
+    title: Evaluating informal-domain word representations with UrbanDictionary
+    authors: Naomi Saphra and Adam Lopez
+    booktitle: Proceedings of RepEval
+    booktitle-url: https://sites.google.com/site/repevalacl16/
+    code: https://github.com/nsaphra/urbandic-scraper
+    doc-url: http://arxiv.org/pdf/1606.08270.pdf 
+    venue: workshop
+    abstract: >
+      Existing corpora for intrinsic evaluation
+      are not targeted towards tasks in informal
+      domains such as Twitter or news comment
+      forums. We want to test whether a representation
+      of informal words fulfills the
+      promise of eliding explicit text normalization
+      as a preprocessing step. One possible
+      evaluation metric for such domains is the
+      proximity of spelling variants. We propose
+      how such a metric might be computed and
+      how a spelling variant dataset can be collected
+      using UrbanDictionary
+  - layout: paper
+    paper-type: inproceedings
+    year: 2016
+    img: glm
+    title: N-gram language models for massively parallel devices
+    authors: Nikolay Bogoychev and Adam Lopez
+    booktitle: Proceedings of ACL
+    booktitle-url: http://acl2016.org/
+    code: https://github.com/XapaJIaMnu/gLM
+    doc-url: https://drive.google.com/file/d/0B7cpo43vOGF1RHIxSTgwNFB6Wkk/view?usp=sharing
+    venue: conference
+    abstract: >
+      For many applications, the query speed of $N$-gram language models is 
+      a computational bottleneck. Although massively parallel hardware like 
+      GPUs offer a potential solution to this bottleneck, exploiting this 
+      hardware requires a careful rethinking of basic algorithms and data 
+      structures. We present the first language model designed for such 
+      hardware, using B-trees to maximize data parallelism and minimize 
+      memory footprint and latency. Compared with a single-threaded 
+      instance of KenLM (Heafield, 2011), a highly optimized CPU-based 
+      language model, our GPU implementation produces identical results 
+      with a smaller memory footprint and a sixfold increase in throughput 
+      on a batch query task. When we saturate both devices, the GPU 
+      delivers nearly twice the throughput per hardware dollar even when the
+      CPU implementation uses faster data structures.
+  - layout: paper
+    paper-type: inproceedings
+    year: 2016
+    img: nneg
+    title: Neural networks for negation scope detection
+    authors: Federico Fancellu, Adam Lopez, and Bonnie Webber
+    booktitle: Proceedings of ACL
+    code: https://github.com/ffancellu/NegNN
+    booktitle-url: http://acl2016.org/
+    doc-url: https://drive.google.com/file/d/0B7cpo43vOGF1Umw0dHNtQXZiMGs/view
+    venue: conference
+    abstract: >
+      Automatic negation scope detection is a task that has been tackled 
+      using different classifiers and heuristics. Most systems are however 
+      1) highly-engineered, 2) English-specific, and 3) only tested on 
+      the same genre they were trained on. We start by addressing 1) and 2) 
+      using a neural network architecture. Results obtained on data from 
+      the *SEM2012 shared task on negation scope detection show that even a 
+      simple feed-forward neural network using word-embedding features 
+      alone, performs on par with earlier classifiers, with a 
+      bi-directional LSTM outperforming all of them. We then address 3) by 
+      means of a specially-designed synthetic test set; in doing so, we 
+      explore the problem of detecting the negation scope more in depth and 
+      show that performance suffers from genre effects and differs with the 
+      type of negation considered.
+  - layout: paper
+    paper-type: inproceedings
+    selected: no
+    year: 2015
+    img: discomt2015
+    title: A maximum entropy classifier for cross-lingual pronoun prediction
+    authors: Dominikus Wetzel, Adam Lopez, and Bonnie Webber
+    booktitle: Proceedings of the Workshop on Discourse in Machine Translation
+    booktitle-url: http://www.idiap.ch/workshop/DiscoMT 
+    doc-url: http://aclweb.org/anthology/W15-2516
+    venue: workshop
+    abstract: >
+      We present a maximum entropy classifier
+      for cross-lingual pronoun prediction. The
+      features are based on local source- and
+      target-side contexts and antecedent 
+      information obtained by a co-reference 
+      resolution system. With only a small set of
+      feature types our best performing system
+      achieves an accuracy of 72.31%. 
+      According to the shared task’s official 
+      macro-averaged F1-score at 57.07%, we are
+      among the top systems, at position three
+      out of 14. Feature ablation results show
+      the important role of target-side 
+      information in general and of the resolved 
+      target-side antecedent in particular for predicting
+      the correct classes.
+  - layout: paper
+    paper-type: inproceedings
+    year: 2015
+    img: amrica
+    title: AMRICA&#58; an AMR Inspector for Cross-language Alignments
+    doc-url: http://speak.clsp.jhu.edu/uploads/publications/papers/1053_pdf.pdf
+    authors: Naomi Saphra and Adam Lopez
+    booktitle: NAACL-HLT Demonstrations
+    booktitle-url: http://naacl.org/naacl-hlt-2015/
+    venue: workshop
+    code: https://github.com/nsaphra/AMRICA
+    abstract: > 
+      Abstract Meaning Representation (AMR), an
+      annotation scheme for natural language semantics,
+      has drawn attention for its simplicity
+      and representational power. Because AMR
+      annotations are not designed for human readability,
+      we present AMRICA, a visual aid for
+      exploration of AMR annotations. AMRICA
+      can visualize an AMR or the difference between
+      two AMRs to help users diagnose interannotator
+      disagreement or errors from an
+      AMR parser. AMRICA can also automatically
+      align and visualize the AMRs of a sentence
+      and its translation in a parallel text. We
+      believe AMRICA will simplify and streamline
+      exploratory research on cross-lingual AMR
+      corpora.
+  - layout: paper
+    selected: no
+    paper-type: article 
+    year: 2015
+    img: hiero-gpu
+    title: Gappy pattern matching on GPUs for on-demand extraction of hierarchical translation grammars
+    doc-url: http://aclweb.org/anthology/Q/Q15/Q15-1007.pdf
+    authors: Hua He, Jimmy Lin, and Adam Lopez
+    journal: Transactions of the ACL
+    journal-url: https://tacl2013.cs.columbia.edu/ojs/index.php/tacl
+    code: http://hohocode.github.io/cgx/
+    volume: 3
+    venue: journal
+    abstract: >
+      Grammars for machine translation can
+      be materialized on demand by finding source phrases in an
+      indexed parallel corpus and extracting their translations.
+      This approach is limited in practical applications
+      by the computational expense of online lookup and extraction.
+      For <em>phrase-based</em> models, recent work has shown that on-demand grammar extraction
+      can be greatly accelerated by parallelization on general purpose graphics processing
+      units (GPUs), but these algorithms do not
+      work for <em>hierarchical</em>, which require matching patterns that contain gaps.
+      We address this limitation by presenting a novel
+      GPU algorithm for on-demand hierarchical grammar
+      extraction that is at least an order of magnitude faster than
+      a comparable CPU algorithm when processing large batches of sentences.
+      In terms of end-to-end translation, with decoding on the CPU, we increase
+      throughput by roughly two thirds on a standard MT evaluation dataset.
+      The GPU necessary to achieve these improvements increases the cost of a server by about a third.
+      We believe that GPU-based extraction of hierarchical grammars
+      is an attractive proposition, particularly for MT applications
+      that demand high throughput.
+  - layout: paper
+    paper-type: article
+    selected: no
+    year: 2014
+    img: mtm2014
+    title: The machine translation leaderboard
+    authors: Matt Post and Adam Lopez
+    journal: The Prague Bulletin of Mathematical Linguistics
+    doc-url: http://www.degruyter.com/view/j/pralin.2014.102.issue-1/pralin-2014-0012/pralin-2014-0012.xml?format=INT
+    journal-url: http://ufal.mff.cuni.cz/pbml 
+    venue: workshop
+    code: https://github.com/mjpost/leaderboard
+    abstract: >
+      <p> Much of an instructor's time is spent on the management and 
+      grading of homework. We present the Machine Translation Leaderboard, 
+      a platform for managing, displaying, and automatically grading 
+      homework assignments. It runs on Google App Engine, which provides 
+      hosting and user management services. Among its many features are the 
+      ability to easily define new assignments, manage submission histories,
+      maintain a development / test set distinction, and display a 
+      leaderboard. An entirely new class can be set up in minutes with 
+      minimal configuration. It comes pre-packaged with five assignments 
+      used in a graduate course on machine translation.
+  - layout: paper
+    paper-type: inproceedings
+    selected: no
+    year: 2013
+    img: iwslt2013
+    title: General lattice decoding for improved speech-to-text translation with the Fisher and Callhome Spanish-English Speech Translation Corpus 
+    authors: Matt Post, Gaurav Kumar, Adam Lopez, Damianos Karakos, Chris Callison-Burch, and Sanjeev Khudanpur
+    booktitle: Proceedings of IWSLT
+    booktitle-url: http://www.iwslt2013.org/
+    doc-url: papers/iwslt2013-post-etal.pdf
+    data: https://catalog.ldc.upenn.edu/ldc2014t23
+    venue: workshop
+    abstract: >
+      <p>Research into the translation of the output of automatic speech 
+      recognition (ASR) systems is hindered by the dearth of datasets 
+      developed for that explicit purpose. For Spanish-English translation, 
+      in particular, most parallel data available exists only in vastly 
+      different domains and registers. In order to support research on 
+      cross-lingual speech applications, we introduce the Fisher and 
+      Callhome Spanish-English Speech Translation Corpus, supplementing 
+      existing LDC audio and transcripts with (a) ASR 1-best, lattice, 
+      and oracle output produced by the Kaldi recognition system and 
+      (b) English translations obtained on Amazon’s Mechanical Turk. 
+      The result is a four-way parallel dataset of Spanish audio, 
+      transcriptions, ASR lattices, and English translations of 
+      approximately 38 hours of speech, with defined training, development, 
+      and held-out test sets.</p>
+      <p>We conduct baseline machine translation experiments using models 
+      trained on the provided training data, and validate the dataset by 
+      corroborating a number of known results in the field, including the 
+      utility of in-domain (information, conversational) training data, 
+      increased performance translating lattices (instead of recognizer 
+      1-best output), and the relationship between word error rate and 
+      BLEU score.</p>
+  - layout: paper
+    paper-type: inproceedings
+    selected: no
+    year: 2013
+    img: 20yearsofbitext
+    title: Beyond bitext&#58; Five open problems in machine translation
+    doc-url: papers/five_open_problems_in_mt.pdf
+    authors: with Matt Post
+    booktitle: Twenty Years of Bitext
+    booktitle-url: https://sites.google.com/site/20yearsofbitext/
+    abstract: >
+      In twenty years, the machine translation (MT)
+      research community has learned a great deal
+      about problems that can be solved with bitext. Yet for many potential
+      MT uses, there is little if any available bitext.
+      In the next twenty years, these uses will become
+      increasingly important, and the research community
+      must marshal its resources to solve
+      the new problems that they present. Specifically, we must assemble
+      large numbers of <i>small</i> bitexts for testing systems,
+      rather than small numbers of <i>large</i> bitexts
+      for training them. Small bitexts won't solve the new problems
+      alone, but they will help the research community identify 
+      the problems that need solving.
+  -
+    layout: paper
+    paper-type: inproceedings
+    selected: no
+    year: 2013
+    img: acl2013
+    title: Dirt cheap Web-scale parallel text from the Common Crawl
+    authors: Jason Smith, Herve Saint-Amand, Magdalena Plamada, Philipp Koehn, Chris Callison-Burch and Adam Lopez
+    booktitle: Proceedings of ACL
+    doc-url: http://aclweb.org/anthology/P/P13/P13-1135.pdf
+    booktitle-url: http://acl2013.org/site/
+    code: https://github.com/jrs026/CommonCrawlMiner
+    venue: conference
+    abstract: >
+      Parallel text is the fuel that drives modern
+      machine translation systems. The Web is a
+      comprehensive source of preexisting parallel text, but crawling the entire web is
+      impossible for all but the largest companies. We bring web-scale parallel text to
+      the masses by mining the Common Crawl,
+      a public Web crawl hosted on Amazon’s
+      Elastic Cloud. Starting from nothing more
+      than a set of common two-letter language
+      codes, our open-source extension of the
+      STRAND algorithm mined 32 terabytes of
+      the crawl in just under a day, at a cost of
+      about $500. Our large-scale experiment
+      uncovers large amounts of parallel text in
+      dozens of language pairs across a variety
+      of domains and genres, some previously
+      unavailable in curated datasets. Even with
+      minimal cleaning and ﬁltering, the resulting data boosts translation performance
+      across the board for ﬁve different language
+      pairs in the news domain, and on open domain test sets we see improvements of up
+      to 5 BLEU. We make our code and data
+      available for other researchers seeking to
+      mine this rich new data resource.
+  -
+    layout: paper
+    selected: no
+    paper-type: inproceedings
+    year: 2013
+    title: Massively parallel suffix array queries and on-demand phrase extraction for statistical machine translation using GPUs
+    authors: Hua He, Jimmy Lin, and Adam Lopez
+    doc-url: http://aclweb.org/anthology/N/N13/N13-1033.pdf
+    img: naacl2013
+    booktitle: Proceedings of NAACL HLT
+    booktitle-url: http://naacl2013.naacl.org/
+    venue: conference
+    abstract: >
+      Translation models can be scaled to large corpora and arbitrarily-long
+      phrases by looking up translations of source phrases on the fly in
+      an indexed parallel text. However, this is impractical because
+      on-demand extraction of phrase tables is a major computational
+      bottleneck. We solve this problem by developing novel algorithms for
+      general purpose graphics processing units (GPUs), which enable suffix
+      array queries for phrase lookup and phrase extractions to be massively
+      parallelized. Our open-source implementation improves the speed of a
+      highly-optimized, state-of-the-art serial CPU-based implementation by
+      at least an order of magnitude. In a Chinese-English translation task, our
+      GPU implementation extracts translation tables from
+      approximately 100 million words of parallel text in less than 30
+      milliseconds.
+  -
+    layout: paper
+    selected: no
+    paper-type: article 
+    year: 2013
+    title: Learning to translate with products of novices&#58; a suite of open-ended challenge problems for teaching MT
+    authors: With Matt Post, Chris Callison-Burch, Jonathan Weese, Juri Ganitkevitch, Narges Ahmidi, Olivia Buzek, Leah Hanson, Beenish Jamil, Matthias Lee, Ya-Ting Lin, Henry Pao, Fatima Rivera, Leili Shahriyari, Debu Sinha, Adam Teichert, Stephen Wampler, Michael Weinberger, Daguang Xu, Lin Yang, and Shang Zhao
+    doc-url: http://aclweb.org/anthology/Q/Q13/Q13-1014.pdf
+    code: http://alopez.github.io/dreamt/
+    img: tacl2013
+    journal: Transactions of the ACL
+    journal-url: https://tacl2013.cs.columbia.edu/ojs/index.php/tacl/index
+    volume: 1
+    pages: 165&ndash;178
+    venue: journal
+    abstract: > 
+      Machine translation (MT) draws from several different disciplines, making 
+      it a complex subject to teach. There are excellent pedagogical texts, but 
+      problems in MT and current algorithms for solving them are best learned by 
+      doing. As a centerpiece of our MT course, we devised a series of open-ended 
+      challenges for students in which the goal was to improve performance on 
+      carefully constrained instances of four key MT tasks: alignment, decoding, 
+      evaluation, and reranking. Students brought a diverse set of techniques to 
+      the problems, including some novel solutions which performed remarkably well. 
+      A surprising and exciting outcome was that student solutions or their 
+      combinations fared competitively on some tasks, demonstrating that even 
+      newcomers to the field can help improve the state-of-the-art on hard NLP 
+      problems while simultaneously learning a great deal. The problems, baseline 
+      code, and results are freely available.
+  -
+    layout: paper
+    paper-type: inproceedings
+    year: 2012
+    title: Putting human assessments of machine translation systems in order
+    doc-url: http://www.aclweb.org/anthology-new/W/W12/W12-3101.pdf
+    booktitle: Proceedings of WMT
+    booktitle-url: http://www.statmt.org/wmt12/
+    code: https://github.com/alopez/wmt-ranking
+    slides: http://www.cs.jhu.edu/~alopez/talks/alopez-wmt2012-slides.pdf
+    img: wmt2012
+    venue: workshop
+    abstract: >
+      Human assessment is often considered the gold standard in evaluation of 
+      translation systems. But in order for the evaluation to be meaningful, 
+      the rankings obtained from human assessment must be consistent and 
+      repeatable, and recent analysis by <a href="http://aclweb.org/anthology-new/W/W11/W11-2101.pdf">Bojar et al. (2011)</a> raised 
+      several concerns about the rankings derived from human assessments of 
+      English-Czech translation systems in the 2010 Workshop on Machine Translation.
+      We extend their analysis to <i>all</i> of the ranking tasks from 2010 and 
+      2011, and show through an extension of their reasoning that the ranking is 
+      naturally cast as an instance of finding the minimum feedback arc set in a 
+      tournament, a well-known NP-complete problem. All instances of this problem 
+      in the workshop data are efficiently solvable, but in some cases the rankings 
+      it produces are surprisingly different from the ones previously published. 
+      This leads to strong caveats and recommendations for both producers and 
+      consumers of these rankings.
+  -
+    layout: paper
+    paper-type: inproceedings
+    year: 2012
+    title: Using categorial grammar to label translation rules
+    doc-url: http://www.cs.jhu.edu/~alopez/papers/wmt2012-weese.pdf
+    authors: Jonathan Weese, Chris Callison-Burch and Adam Lopez
+    booktitle: Proceedings of WMT
+    booktitle-url: http://www.statmt.org/wmt12/
+    img: wmt-ccg2012
+    venue: workshop
+    abstract: >
+      Adding syntactic labels to synchronous context-free translation rules can
+      improve performance, but labeling with phrase structure constituents, as in
+      GHKM (Galley et al., 2004), excludes potentially useful translation rules. 
+      SAMT (Zollmann and Venugopal, 2006) introduces heuristics to create new
+      non-constituent labels, but these heuristics introduce many complex labels and
+      tend to add rarely-applicable rules to the translation grammar.        We
+      introduce a new labeling scheme based on categorial grammar, which allows
+      syntactic labeling of many rules with a minimal, well-motivated label set. We
+      show that our labeling scheme performs comparably to SAMT on an Urdu–English
+      translation task, yet the label set is an order of magnitude smaller, and
+      translation is twice as fast.
+  -
+    layout: paper
+    paper-type: inproceedings
+    selected: no
+    year: 2011
+    authors: Michael Auli and Adam Lopez
+    title: Training a log-linear parser with loss functions via softmax-margin
+    doc-url: http://aclweb.org/anthology-new/D/D11/D11-1031.pdf
+    img: emnlp2011
+    booktitle: Proceedings of EMNLP
+    booktitle-url: http://conferences.inf.ed.ac.uk/emnlp2011/
+    venue: conference
+    abstract: >
+      Log-linear parsing models are often trained by optimizing 
+      likelihood, but we would prefer to optimize for a task-specific metric like F-measure.
+      Softmax-margin is a convex objective for such models that minimizes a bound on 
+      expected risk for a given loss function, but its naïve application requires the loss 
+      to decompose over the predicted structure, which is not true of F-measure.
+      We use softmax-margin to optimize a log-linear CCG parser for a variety of loss functions, and
+      demonstrate a novel dynamic programming algorithm that enables us to use it with
+      F-measure, leading to substantial gains in accuracy on CCGBank.  When we embed our
+      loss-trained parser into a larger model that includes supertagging features
+      incorporated via belief propagation, we obtain further improvements and achieve 
+      a labelled/unlabelled dependency 
+      F-measure of 89.3%/94.0% on gold part-of-speech tags,
+      and 87.2%/92.8% on automatic part-of-speech
+      tags, the best reported results for this task.
+  -
+    layout: paper
+    paper-type: inproceedings
+    year: 2011
+    authors: Jonathan Weese, Juri Ganitkevitch, Chris Callison-Burch, Matt Post and Adam Lopez
+    title: Joshua 3.0&#58; Syntax-based machine translation with the Thrax grammar extractor
+    doc-url: http://aclweb.org/anthology-new/W/W11/W11-2160.pdf
+    img: wmt2011
+    booktitle: Proceedings of WMT
+    booktitle-url: http://statmt.org/wmt11/
+    venue: workshop
+    abstract: >
+      We present progress on Joshua, an open-source decoder for hierarchical and 
+      syntax-based machine translation. The main focus is describing Thrax, a 
+      ﬂexible, open source synchronous context-free grammar extractor. Thrax 
+      extracts both hierarchical (Chiang, 2007) and syntax-augmented machine
+      translation (Zollmann and Venugopal, 2006) grammars. It is built on Apache 
+      Hadoop for efficient distributed performance, and can easily be extended 
+      with support for new grammars, feature functions, and output formats.
+  -
+    layout: paper
+    paper-type: inproceedings
+    year: 2011
+    authors: Michael Auli and Adam Lopez
+    title: A comparison of loopy belief propagation and dual decomposition for integrated CCG supertagging and parsing
+    doc-url: http://aclweb.org/anthology-new/P/P11/P11-1048.pdf
+    img: acl-bp2011
+    booktitle: Proceedings of ACL 
+    booktitle-url: http://www.acl2011.org/
+    venue: conference
+    abstract: >
+      Via an oracle experiment, we show that the upper bound on accuracy of a CCG 
+      parser is significantly lowered when its search space is pruned using a 
+      supertagger, though the supertagger also prunes many bad parses.  Inspired by 
+      this analysis, we design a single model with both supertagging and parsing 
+      features, rather than separating them into distinct models chained together 
+      in a pipeline.  To overcome the resulting increase in complexity, we 
+      experiment with both belief propagation and dual decomposition approaches to 
+      inference, the first empirical comparison of these algorithms that we are 
+      aware of on a structured natural language processing problem.  On CCGbank we 
+      achieve a labelled dependency F-measure of 88.8% on gold POS tags, and 
+      86.7% on automatic part-of-speech tags, the best reported results for this 
+      task.
+  -
+    layout: paper
+    paper-type: inproceedings
+    year: 2011
+    authors: Michael Auli and Adam Lopez
+    title: Efficient CCG parsing&#58; A* versus adaptive supertagging
+    doc-url: http://aclweb.org/anthology-new/P/P11/P11-1158.pdf
+    img: acl-astar2011
+    booktitle: Proceedings of ACL 
+    booktitle-url: http://www.acl2011.org/
+    venue: conference
+    abstract: >
+      We present a systematic comparison and combination of two orthogonal techniques for efficient 
+      parsing of Combinatory Categorial Grammar (CCG).  First we consider adaptive supertagging, a 
+      widely used approximate search technique that prunes most lexical categories from the parser's 
+      search space using a separate sequence model.  Next we consider several variants on A*, a 
+      classic exact search technique which to our knowledge has not been applied to more expressive 
+      grammar formalisms like CCG.  In addition to standard hardware-independent measures of parser 
+      effort we also present what we believe is the first evaluation of A* parsing on the more 
+      realistic but more stringent metric of CPU time.  By itself, A* substantially reduces parser 
+      effort as measured by the number of edges considered during parsing, but we show that for CCG 
+      this does not always correspond to improvements in CPU time over a CKY baseline.  Combining A* 
+      with adaptive supertagging decreases CPU time by 15% for our best model.
+  -
+    layout: paper
+    year: 2010
+    paper-type: techreport 
+    authors: Phil Blunsom, Chris Callison-Burch, Trevor Cohn, Chris Dyer, Jonathan Graehl, Adam Lopez, Jan Botha, Vladimir Eidelman, ThuyLinh Nguyen, Ziyuan Wang, Jonathan Weese, Olivia Buzek, and Desai Chen
+    title: Final report of the 2010 CLSP workshop on models for synchronous grammar induction
+    img: clsp2010
+    doc-url: http://www.clsp.jhu.edu/workshops/archive/ws10/groups/models-of-synchronous-grammar-induction-for-smt/
+    abstract: >
+      The last decade of research in Statistical Machine Translation (SMT) 
+      has seen rapid progress. The most successful methods have been based 
+      on synchronous context free grammars (SCFGs), which encode 
+      translational equivalences and license reordering between tokens in 
+      the source and target languages. Yet, while closely related language 
+      pairs can be translated with a high degree of precision now, the 
+      result for distant pairs is far from acceptable. In theory, however, 
+      the right SCFG is capable of handling most, if not all, structurally
+      divergent language pairs. So we propose to focus on the crucial 
+      practical aspects of acquiring such SCFGs from bilingual text. We will
+      take the pragmatic approach of starting with existing algorithms for 
+      inducing <i>unlabelled</i> SCFGs (e.g. the popular Hiero model), and 
+      then using state-of-the-art hierarchical non-parametric Bayesian 
+      methods to iteratively refine the syntactic constituents used in the 
+      translation rules of the grammar, hoping to approach, in an 
+      unsupervised manner, SCFGs learned from massive quantities of manually
+      tree-banked parallel text. 
+  -
+    layout: paper
+    paper-type: article
+    year: 2010
+    authors: Abhishek Arun, Barry Haddow, Philipp Koehn, Adam Lopez, Phil Blunsom, and Chris Dyer
+    title: Monte Carlo techniques for phrase-based translation
+    doc-url: http://link.springer.com/article/10.1007%2Fs10590-010-9080-7
+    journal: Machine Translation
+    journal-url: http://www.springer.com/computer/ai/journal/10590
+    img: mtj2010
+    volume: 24
+    number: 2
+    venue: journal
+    abstract: >
+      Recent advances in statistical machine translation have used approximate beam search for NP-complete inference within probabilistic translation models. We present an alternative approach of sampling from the posterior distribution defined by a translation model. We define a novel Gibbs sampler for sampling translations given a source sentence and show that it effectively explores this posterior distribution. In doing so we overcome the limitations of heuristic beam search and obtain theoretically sound solutions to inference problems such as finding the maximum probability translation and minimum risk training and decoding. 
+  -
+    layout: paper
+    paper-type: inproceedings
+    year: 2010
+    authors: Chris Dyer, Adam Lopez, Juri Ganitkevitch, Jonny Weese, Ferhan Ture, Phil Blunsom, Hendra Setiawan, Vlad Eidelman, and Philip Resnik
+    title: cdec&#58; A decoder, alignment, and learning framework for finite-state and context-free translation models
+    pages: 7&ndash;12
+    booktitle: Proceedings of ACL (Demonstration track)
+    booktitle-url: http://www.acl2010.org/
+    img: cdec2010
+    code: https://github.com/redpony/cdec
+    doc-url: http://aclweb.org/anthology-new/P/P10/P10-4002.pdf
+    venue: workshop
+    abstract: >
+      We present cdec, an open source framework for decoding, aligning with, and 
+      training a number of statistical machine 
+      translation models, including word-based 
+      models, phrase-based models, and models 
+      based on synchronous context-free grammars. Using a single uniﬁed internal 
+      representation for translation forests, the 
+      decoder strictly separates model-speciﬁc 
+      translation logic from general rescoring, 
+      pruning, and inference algorithms. From 
+      this uniﬁed representation, the decoder can 
+      extract not only the 1- or k-best translations, but also alignments to a reference, 
+      or the quantities necessary to drive discriminative training using gradient-based 
+      or gradient-free optimization techniques. 
+      Its efficient C++ implementation means 
+      that memory use and runtime performance 
+      are signiﬁcantly better than comparable 
+      decoders.
+  -
+    layout: paper
+    paper-type: inproceedings
+    year: 2009
+    authors: Hieu Hoang, Philipp Koehn, and Adam Lopez
+    title: A unified framework for phrase-based, hierarchical, and syntax-based statistical machine translation
+    booktitle: Proceedings of IWSLT
+    booktitle-url: http://mt-archive.info/IWSLT-2009-TOC.htm
+    img: iwslt2009
+    doc-url: http://mt-archive.info/IWSLT-2009-Hoang.pdf
+    code: https://github.com/moses-smt/mosesdecoder
+    venue: workshop
+    abstract: >
+      Despite many differences between phrase-based, hierarchical, and syntax-based translation models, their training and testing pipelines are strikingly similar.  Drawing on this fact, we extend the Moses toolkit to implement hierarchical and syntactic models, making it the first open source toolkit with end-to-end support for all three of these popular models in a single package.  This extension substantially lowers the barrier to entry for machine translation research across multiple models.
+  -
+    layout: paper
+    paper-type: inproceedings
+    year: 2009
+    authors: Abhishek Arun, Chris Dyer, Barry Haddow, Phil Blunsom, Adam Lopez, and Philipp Koehn
+    title: Monte Carlo inference and maximization for phrase-based translation
+    doc-url: http://www.aclweb.org/anthology/W/W09/W09-1114.pdf
+    booktitle: Proceedings of CoNLL
+    booktitle-url: http://www.cnts.ua.ac.be/conll2009/
+    img: conll2009
+    venue: conference
+    abstract: >
+      Recent advances in statistical machine translation have used beam search for 
+      approximate NP-complete inference within probabilistic translation models.
+      We present an alternative approach of sampling from the posterior distribution 
+      defined by a translation model.  We define a novel Gibbs sampler for sampling 
+      translations given a source sentence and show that it effectively explores this 
+      posterior distribution.  In doing so we overcome the limitations of heuristic 
+      beam search and obtain theoretically sound solutions to inference problems such 
+      as finding the maximum probability translation and minimum expected risk training 
+      and decoding.
+  -
+    layout: paper
+    paper-type: inproceedings
+    year: 2009
+    title: Translation as weighted deduction
+    booktitle: Proceedings of EACL
+    booktitle-url: http://aclweb.org/anthology/E/E09/
+    doc-url: papers/eacl2009-lopez.pdf
+    img: eacl2009
+    slides: http://www.cs.jhu.edu/~alopez/talks/EACL09-lopez-slides.pdf
+    venue: conference
+    abstract: >
+      We present a unified view of many translation algorithms that synthesizes 
+      work on deductive parsing, semiring parsing, and efficient approximate search 
+      algorithms.  This gives rise to clean analyses and compact descriptions that 
+      can serve as the basis for modular implementations.  We illustrate this with 
+      several examples, showing how to mechanically develop search spaces using 
+      non-local features, novel models, and a variety of disparate phrase-based 
+      strategies.  Although the framework is drawn from parsing and applied to 
+      translation, it is applicable to many dynamic programming problems arising 
+      in natural language processing and other areas.
+    errata: >
+      <p>This draft corrects errors that appeared in logic WL<i>d</i> (Fig 1.2; 
+      in particular, the bit vector representing the newly covered words was 
+      incorrectly specified); in the goal item of logic
+      Monotone-Generate (Section 5; in particular, the goal item should have 
+      no words left to generate); and the deductive rules of 
+      Monotone-Generate + Ngram (Figure 2.2; the indexes of the n-gram context
+      were incorrect, and the consequent of the second rule should start with
+      i rather than i+1).
+      <p>Thanks to Wilker Aziz and Shay Cohen for pointing these errors out.</p>
+  -
+    layout: paper
+    paper-type: inproceedings
+    year: 2009
+    authors: Michael Auli, Adam Lopez, Hieu Hoang, and Philipp Koehn
+    title: A systematic analysis of translation model search spaces
+    doc-url: http://www.aclweb.org/anthology/W/W09/W09-0437.pdf
+    booktitle: Proceedings of the Fourth Workshop on Statistical Machine Translation 
+    booktitle-url: http://www.statmt.org/wmt09/
+    img: wmt2009
+    venue: workshop
+    abstract: >
+      Translation systems are complex, and most metrics do little to pinpoint causes of error or isolate system differences.  We use a simple technique to discover induction errors, which occur when good translations are absent from model search spaces.  Our results show that a common pruning heuristic drastically increases induction error, and also strongly suggest that the search spaces of phrase-based and hierarchical phrase-based models are highly overlapping despite the well known structural differences.
+  -
+    layout: paper
+    paper-type: inproceedings
+    year: 2008
+    title: Tera-scale translation models via pattern matching
+    pages: 505&ndash;512
+    booktitle: Proceedings of COLING 
+    booktitle-url: http://aclweb.org/anthology/C/C08/
+    img: coling2008
+    doc-url: http://www.aclweb.org/anthology/C/C08/C08-1064.pdf
+    slides: http://www.cs.jhu.edu/~alopez/talks/coling_2008.pdf
+    venue: conference
+    abstract: >
+      Translation model size is growing at a pace that outstrips improvements in 
+      computing power, and this hinders research on many interesting models.  We 
+      show how an algorithmic scaling technique can be used to easily handle very 
+      large models.  Using this technique, we explore several large model variants 
+      and show an improvement 1.4 BLEU on the NIST 2006 Chinese-English task.  This 
+      opens the door for work on a variety of models that are much less constrained 
+      by computational limitations.
+  -
+    layout: paper
+    paper-type: article
+    year: 2008
+    title: Statistical machine translation
+    journal: ACM Computing Surveys
+    journal-url: http://surveys.acm.org/
+    img: csur2008
+    volume: 40
+    number: 3
+    article: 8
+    pages: 1&ndash;49
+    doc-url: papers/survey.pdf
+    venue: journal
+    errata: >
+      The reference for Banerjee and Lavie (2005) on p. 39 is missing. It should be:
+      <ul><li>
+      S. Banerjee and A. Lavie. METEOR: An Automatic Metric for MT Evaluation with 
+      Improved Correlation with Human Judgments. In Proceedings of the ACL 2005 
+      Workshop on Intrinsic and Extrinsic Evaulation Measures for MT and/or 
+      Summarization, 2005.
+      </li></ul>
+      Thanks to Matt Snover for pointing this out.
+      <p>There is a typo in rule S3 on page 11; the English and Chinese sides of the rule are swapped.  It should read:
+      <ul><li>
+      NPB &rarr; JJ<sub>1</sub> NPB<sub>2</sub> / NPB<sub>2</sub> JJ<sub>1</sub>
+      </li></ul>
+      Thanks to Anoop Sarkar for pointing this out.
+    abstract: >
+      Statistical machine translation (SMT) treats the 
+      translation of natural language as a machine learning
+      problem.  By examining many samples of human-produced
+      translation, SMT algorithms automatically learn how to translate.
+      SMT has made tremendous strides in less than two decades, and
+      new ideas are constantly introduced.
+      This survey presents a tutorial overview of the state-of-the-art. 
+      We describe the context of the current research
+      and then move to a formal problem description and an overview
+      of the main subproblems: translation modeling, parameter estimation,
+      and decoding.  Along the way, we present a taxonomy of some
+      different approaches within these areas.  We conclude
+      with an overview of evaluation and a discussion of future directions.
+  -
+    layout: paper
+    paper-type: dissertation 
+    year: 2008
+    title: Machine translation by pattern matching
+    institution: University of Maryland
+    doc-url: papers/adam.lopez.dissertation.pdf
+    img: diss2008
+    slides: http://www.cs.jhu.edu/~alopez/talks/dissertation_defense.pdf
+    latex: https://github.com/alopez/dissertation
+    abstract: >
+      <p>The best systems for machine translation of natural language are based on statistical models learned from data.  Conventional representation of a statistical translation model requires substantial offline computation and representation in main memory.  Therefore, the principal bottlenecks to the amount of data we can exploit and the complexity of models we can use are available memory and CPU time, and current state of the art already pushes these limits.  With data size and model complexity continually increasing, a scalable solution to this problem is central to future improvement.</p>
+      
+      <p>Callison-Burch et al. (2005) and Zhang and Vogel (2005) proposed a solution that we call "translation by pattern matching", which we bring to fruition in this dissertation.  The training data itself serves as a proxy to the model; rules and parameters are computed on demand.  It achieves our desiderata of minimal offline computation and compact representation, but is dependent on fast pattern matching algorithms on text.  They demonstrated its application to a common model based on the translation of contiguous substrings, but leave some open problems.  Among these is a question: can this approach match the performance of conventional methods despite unavoidable differences that it induces in the model?  We show how to answer this question affirmatively.</p>
+      
+      <p>The main open problem we address is much harder.  Many translation models are based on the translation of discontiguous substrings.  The best pattern matching algorithm for these models is much too slow, taking several minutes per sentence.  We develop new algorithms that reduce empirical computation time by two orders of magnitude for these models, making translation by pattern matching widely applicable.  We use these algorithms to build a model that is two orders of magnitude larger than the current state of the art and substantially outperforms a strong competitor in Chinese-English translation.  We show that a conventional representation of this model would be impractical.  Our experiments shed light on some interesting properties of the underlying model.  The dissertation also includes the most comprehensive contemporary survey of statistical machine translation.</p>
+  -
+    layout: paper
+    year: 2007
+    paper-type: inproceedings
+    title: Hierarchical phrase-based translation with suffix arrays
+    pages: 976&ndash;985
+    booktitle: Proceedings of EMNLP-CoNLL
+    booktitle-url: http://www.cs.jhu.edu/EMNLP-CoNLL-2007/
+    doc-url: http://www.aclweb.org/anthology/D/D07/D07-1104.pdf
+    slides: http://www.cs.jhu.edu/~alopez/talks/emnlp2007.pdf
+    img: emnlp2007
+    venue: conference
+    abstract: >
+      A major engineering challenge in
+      statistical machine translation systems
+      is the efficient representation of extremely large
+      translation rulesets.
+      In phrase-based models, this problem 
+      can be addressed by storing the training data in memory and using a suffix
+      array as an efficient index to quickly lookup and extract rules on the fly.
+      <i>Hierarchical</i> phrase-based translation
+      introduces the added wrinkle of source phrases with gaps.  
+      Lookup algorithms used for contiguous phrases no longer apply and
+      the best approximate pattern matching algorithms are much too slow,
+      taking several minutes per sentence.
+      We describe new lookup algorithms 
+      for hierarchical phrase-based
+      translation that reduce the empirical computation
+      time by nearly two orders of magnitude, making on-the-fly
+      lookup feasible for source phrases with gaps.
+  -
+    layout: paper
+    year: 2006
+    paper-type: inproceedings
+    authors: With Philip Resnik
+    title: Word-based alignment, phrase-based translation&#58; What's the link?
+    pages: 90&ndash;99
+    booktitle: Proceedings of AMTA
+    booktitle-url: http://amta2006.amtaweb.org/index.htm
+    doc-url: http://www.mt-archive.info/AMTA-2006-Lopez.pdf
+    slides: http://www.cs.jhu.edu/~alopez/talks/amta_2006.pdf
+    img: amta2006
+    venue: conference
+    abstract: >
+      State-of-the-art statistical machine translation is 
+      based on alignments between <i>phrases</i>&mdash;sequences of words 
+      in the source and target sentences.  The learning step in these 
+      systems often relies on alignments between <i>words</i>.  
+      It is often assumed that the quality of this word alignment is 
+      critical for translation. However, recent results suggest that
+      the relationship between alignment quality and translation quality
+      is weaker than previously thought.  We investigate this 
+      question directly, comparing the impact of high-quality 
+      alignments with a carefully constructed set of degraded 
+      alignments.  In order to tease apart various interactions, 
+      we report experiments investigating the impact of alignments 
+      on different aspects of the system.  Our results confirm a weak 
+      correlation, but they also illustrate that more data and better 
+      feature engineering may be more beneficial than better alignment.
+  -
+    layout: paper
+    paper-type: inproceedings
+    year: 2005
+    authors: David Chiang, Adam Lopez, Nitin Madnani, Christof Monz, Philip Resnik, and Michael Subotin
+    title: The Hiero machine translation system&#58; Extensions, evaluation, and analysis
+    pages: 779&ndash;786
+    booktitle: Proceedings of HLT/EMNLP
+    booktitle-url: http://www.cs.utexas.edu/~ml/HLT-EMNLP05/
+    doc-url: http://www.aclweb.org/anthology-new/H/H05/H05-1098.pdf 
+    slides: http://www.cs.jhu.edu/~alopez/talks/emnlp2005.pdf
+    img: emnlp2005
+    venue: conference
+    abstract: >
+      Hierarchical organization is a well known property of language, and
+      yet the notion of hierarchical structure has been largely absent from
+      the best performing machine translation systems in recent community-wide
+      evaluations.  In this paper, we discuss a new hierarchical phrase-based
+      statistical machine translation system (Chiang, 2005), presenting
+      recent extensions to the original proposal, new evaluation results in
+      a community-wide evaluation, and a novel technique for fine-grained
+      comparative analysis of MT systems.
+  -
+    layout: paper
+    paper-type: inproceedings
+    year: 2005
+    authors: With Philip Resnik
+    title: Pattern visualization for machine translation output
+    pages: 12&ndash;13
+    booktitle: Proceedings of HLT/EMNLP Demonstrations
+    booktitle-url: http://www.cs.utexas.edu/~ml/HLT-EMNLP05/
+    doc-url: http://www.aclweb.org/anthology-new/H/H05/H05-2007.pdf
+    slides: http://www.cs.jhu.edu/~alopez/talks/emnlp2005-demo.pdf
+    img: emnlp-demo2005
+    venue: workshop
+    abstract: >
+      We describe a method for identifying systematic patterns in translation 
+      data using part-of-speech tag sequences. We incorporate this analysis 
+      into a diagnostic tool intended for developers of machine translation 
+      systems, and demonstrate how our application can be used by developers to 
+      explore patterns in machine translation output. 
+  -
+    layout: paper
+    paper-type: inproceedings
+    authors: With Philip Resnik
+    year: 2005
+    title: Improved HMM alignment models for languages with scarce resources
+    pages: 83&ndash;86
+    booktitle: Proceedings of the ACL 2005 Workshop on Building and Using Parallel Texts&#58; Data Driven Machine Translation and Beyond
+    booktitle-url: http://www.statmt.org/wpt05/
+    doc-url: http://www.aclweb.org/anthology/W/W05/W05-0812.pdf
+    slides: http://www.cs.jhu.edu/~alopez/talks/wpt05-slides.pdf
+    img: wmt2005
+    code: http://github.com/alopez/hmmalign
+    venue: workshop
+    abstract: >
+      We introduce improvements to statistical word 
+      alignment based on the Hidden Markov 
+      Model. One improvement incorporates syntactic 
+      knowledge. Results on the workshop data 
+      show that alignment performance exceeds that 
+      of a state-of-the art system based on more complex 
+      models, resulting in over a 5.5% absolute 
+      reduction in error on Romanian-English.
+  -
+    layout: paper
+    paper-type: inproceedings
+    year: 2002
+    authors: With Michael Nossal, Rebecca Hwa,  and Philip Resnik
+    title: Word-level alignment for multilingual resource acquisition
+    pages: 34&ndash;42
+    booktitle: Proceedings of the LREC Workshop on Linguistic Knowledge Acquisition and Representation&mdash;Bootstrapping Annotated Language Data
+    booktitle-url: http://www.lrec-conf.org/lrec2002/lrec/wksh/Bootstrapping.html
+    doc-url: http://lampsrv02.umiacs.umd.edu/pubs/TechReports/LAMP_085/LAMP_085.pdf
+    slides: http://www.cs.jhu.edu/~alopez/talks/lrec02-slides.pdf
+    img: lrec2002
+    venue: workshop
+    abstract: >
+      We present a simple, one-pass word alignment algorithm for parallel text. Our algorithm utilizes synchronous parsing and takes advantage 
+      of existing syntactic annotations. In our experiments the performance of this model is comparable to more complicated iterative methods. 
+      We discuss the challenges and potential beneﬁts of using this model to train syntactic parsers for new languages.

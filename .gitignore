@@ -3,4 +3,6 @@ _site
 .*swp
 *tar
 .DS_Store
+.sass-cache/
+
 

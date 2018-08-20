@@ -1,0 +1,31 @@
+{% if plugins contains 'jekyll-feed' %}{% include head/feed-tag.html %}{% endif %}
+
+{% assign lang = page.lang | default:site.lang | default:'en' %}
+<link rel="alternate" href="{{ page.url | absolute_url }}" hreflang="{{ lang | downcase | replace:'_','-' }}">
+
+<link rel="shortcut icon" href="{{ '/assets/icons/favicon.ico' | relative_url }}">
+<link rel="apple-touch-icon" href="{{ '/assets/icons/icon.png' | relative_url }}">
+
+<link rel="manifest" href="{{ '/assets/manifest.json' | relative_url }}">
+
+{% unless site.hydejack.no_google_fonts or site.no_google_fonts %}
+  <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+  <link rel="dns-prefetch" href="https://fonts.gstatic.com">
+{% endunless %}
+{% if site.google_analytics %}
+  <link rel="dns-prefetch" href="https://www.google-analytics.com">
+{% endif %}
+
+{% assign disqus = site.disqus | default:site.disqus_shortname %}
+{% if disqus %}
+<link rel="dns-prefetch" href="https://{{ disqus }}.disqus.com" id="_hrefDisqus">
+{% endif %}
+
+{% comment %}<!--
+  This is to avoid hard-coding URLs in JS (where they can't be discovered by automated tools).
+-->{% endcomment %}
+<link href="{{ '/assets/js/hydejack-8.0.0.js'                                     | relative_url }}" id="_hrefJS">
+<link href="{{ '/assets/bower_components/fontfaceobserver/fontfaceobserver.standalone.js'| relative_url }}" id="_hrefFFO">
+<link href="{{ '/assets/bower_components/katex/dist/katex.min.js'                        | relative_url }}" id="_hrefKatexJS">
+<link href="{{ '/assets/bower_components/katex/dist/katex.min.css'                       | relative_url }}" id="_hrefKatexCSS">
+<link href="{{ '/assets/img/swipe.svg'                                                   | relative_url }}" id="_hrefSwipeSVG">

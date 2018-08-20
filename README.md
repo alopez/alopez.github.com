@@ -1,1 +1,1 @@
-Code for my website at https://alopez.github.io
+Source for [alopez.github.io], based on [Hydejack](https://hydejack.com/).

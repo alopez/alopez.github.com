@@ -1,5 +1,5 @@
 {% for category in include.categories%}
-  <h4>{{ category.heading }}</h4>
+  <h2>{{ category.heading }}</h2>
   {% if category.items %}
   <ul>
     {% for item in category.items %}
@@ -14,7 +14,7 @@
   {% endif %}
   {% if category.subsections %}
   {% for subsection in category.subsections %}
-  <h5>{{ subsection.heading }}</h5>
+  <h3>{{ subsection.heading }}</h3>
   <ul>
     {% for item in subsection.items %}
       <li>
