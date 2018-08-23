@@ -36,7 +36,7 @@ order:  3
 ### Visiting students
 {% include collaborator.html people=site.data.collaborators.former-visitors %}
 
-### Collaborators past and present
+## Collaborators past and present
 {% include collaborator.html people=site.data.collaborators.collaborators %}
 
 ---
