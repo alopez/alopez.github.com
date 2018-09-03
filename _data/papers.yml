@@ -1,23 +1,15 @@
 papers:
   - layout: paper
     year: 2018
+    selected: yes
     paper-type: inproceedings
     img: inpress2
     title: "What do character-level models learn about morphology? The case of dependency parsing"
     authors: "Clara Vania, Andreas Grivas, and Adam Lopez"
     booktitle: Proceedings of EMNLP
     booktitle-url: http://emnlp2018.org/
+    doc-url: https://arxiv.org/abs/1808.09180
     venue: conference
-    note: To appear.
-    abstract: >
-      Character-level models are effective for parsing morphologically rich 
-      languages. This is attributed to their ability to learn morphology, 
-      but the extent to which they do is unknown. We seek answers by 
-      comparing them to an <i>oracle</i> with access to explicit 
-      morphological analysis on twelve languages with varying morphological 
-      typologies. Our results highlight many strengths of character-level 
-      models, but also show that they are poor at disambiguating some words,
-      particularly in the face of case syncretism.
   - layout: paper
     year: 2018
     paper-type: inproceedings
@@ -269,7 +261,6 @@ papers:
       how RGL may relate to other recently introduced
       graph grammar formalisms.
   - layout: paper
-    selected: yes
     paper-type: inproceedings
     year: 2017
     img: morphlm
