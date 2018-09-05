@@ -3,7 +3,6 @@ papers:
     year: 2018
     selected: yes
     paper-type: inproceedings
-    img: inpress2
     title: "What do character-level models learn about morphology? The case of dependency parsing"
     authors: "Clara Vania, Andreas Grivas, and Adam Lopez"
     booktitle: Proceedings of EMNLP
@@ -13,13 +12,13 @@ papers:
   - layout: paper
     year: 2018
     paper-type: inproceedings
-    img: inpress3
+    selected: yes
     title: "<i>Indicatements</i> that character language models learn English morpho-syntactic units and regularities"
     authors: "Yova Kementchedjhieva and Adam Lopez"
     booktitle: Proceedings of the Workshop on analyzing and interpreting neural networks for NLP
     booktitle-url: https://blackboxnlp.github.io/
+    doc-url: https://arxiv.org/abs/1809.00066
     venue: workshop
-    note: To appear.
     abstract: >
       Character language models have access to surface morphological 
       patterns, but it is not clear whether or <i>how</i> they learn 
