@@ -1,5 +1,14 @@
 papers:
   - layout: paper
+    selected: yes
+    year: 2018
+    paper-type: inproceedings
+    title: "Pre-training on high-resource speech recognition improves low-resource speech-to-text translation"
+    authors: "Sameer Bansal, Herman Kamper, Karen Livescu, Adam Lopez, and Sharon Goldwater"
+    booktitle: Arxiv
+    doc-url: https://arxiv.org/abs/1809.01431
+    venue: working
+  - layout: paper
     year: 2018
     selected: yes
     paper-type: inproceedings
