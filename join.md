@@ -22,11 +22,14 @@ something about all of them from a diverse of group of collaborators.
 
 I take one or two new PhD students each year. To apply, you must write
 a research statement. I am happy to discuss this with keen
-students, but I expect you to have done some reading and thinking first in
-an area of mutual interest, and I expect you to enter that discussion with
-some specific questions and ideas. If you only have a vague idea and you 
-want me to supply you with a topic, then I will simply refer you back to 
-this page, so why not read it now? Here is what I'm currently interested in:
+students, but I expect you to have done some [reading](/papers/) and thinking first in
+an area of mutual interest, and I expect you to start the discussion with
+some specific questions and ideas. If you have no questions or only a vague
+idea about what you want to do, then I will simply refer you back to this 
+page. I don't do this to discourage you and it doesn't mean you shouldn't 
+apply! But it does mean that I can't help you at this stage and you'll need 
+to some more thinking about your own interests first. Here is what I'm 
+currently interested in:
 
 Natural language understanding systems confront a menagerie of complex and 
 subtle phenomena. Deep learning is a useful tool in building these 
