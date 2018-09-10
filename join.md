@@ -28,7 +28,7 @@ some specific questions and ideas. If you have no questions or only a vague
 idea about what you want to do, then I will simply refer you back to this 
 page. I don't do this to discourage you and it doesn't mean you shouldn't 
 apply! But it does mean that I can't help you at this stage and you'll need 
-to some more thinking about your own interests first. Here is what I'm 
+to do some more thinking about your own interests first. Here is what I'm 
 currently interested in:
 
 Natural language understanding systems confront a menagerie of complex and 
