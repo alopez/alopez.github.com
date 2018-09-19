@@ -69,7 +69,7 @@ If you're excited about all of this, I encourage you to apply for a PhD.
 I advise students in two different programs:
 
 * PhD students in the [Institute for Language, Cognition, and Computation](http://www.ilcc.inf.ed.ac.uk/). This is a three-year research-only program. [Read the application guidance](http://web.inf.ed.ac.uk/ilcc/study-with-us).
-* PhD students in [Centres for Doctoral Training](https://www.ed.ac.uk/informatics/postgraduate/cdts). These are four-year programs combining research and some formal taught elements. Multiple relevant CDTs are currently under review for funding, and the results will be announced in late 2018, in time to apply for a September 2019 start.
+* PhD students in [Centres for Doctoral Training](https://www.ed.ac.uk/informatics/postgraduate/cdts). These are four-year programs combining research and some formal taught elements. Multiple relevant CDTs are currently under review for funding, and the results will be announced in late 2018, in time to apply for a September 2019 start. If you'd like to be informed when this happens, [please follow the guidance at the top of this page](http://datascience.inf.ed.ac.uk/apply/).
 
 **You cannot apply by emailing your documents to me.** You must use
 the university's common application system, which you can find in the
