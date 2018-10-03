@@ -7,7 +7,7 @@ order:  4
 ---
 
 I was trained as a computer scientist, but my
-[reasearch group](/collaborators/) has diverse interests 
+[research group](/collaborators/) has diverse interests 
 in natural language processing, and we work on many problems in 
 this area, from theoretical to empirical. We tend to focus on basic 
 curiosity-driven research in areas that aren't yet well understood, in 
