@@ -23,7 +23,7 @@ phd-students-second:
   -
     name: Jianpeng Cheng
     url: http://homepages.inf.ed.ac.uk/s1537177/
-    tagline: "Neural syntactic and semantic parsing Primary supervisor: Mirella Lapata."
+    tagline: "Neural syntactic and semantic parsing. Primary supervisor: Mirella Lapata."
   - 
     name: Marco Damonte
     url: http://mdtux89.github.io/
@@ -102,16 +102,13 @@ former-masters:
     name: Arthur Verkaik
     tagline: MInf 2017. 
   - 
-    name: Ajay Viswanathan
-    tagline: MSc 2017.
-  - 
     name: Justas Zemgulys
     tagline: MInf 2018. Now at Amazon.
     url: "https://www.linkedin.com/in/justas-%C5%BEemgulys-96a77469/"
 former-ug:
   - 
     name: Ramona Comanescu
-    tagline: BSc 2018. Now at Amazon, starting an MPhil in Cambridge in 2018.
+    tagline: BSc 2018. Now at Amazon, now MPhil student in Cambridge.
   -
     name: Iulia Banghea
     tagline: BSc 2017.
@@ -119,15 +116,15 @@ former-visitors:
   - 
     name: Chip Huyen
     url: https://huyenchip.com/
-    tagline: Visiting BSc student from Stanford University. 
+    tagline: Visiting BSc student from Stanford University, summer 2016. 
   -
     name: Katarzyna Pruś
     url: https://www.linkedin.com/in/katarzyna-pru%C5%9B-6bb609107?ppe=1
-    tagline: Visiting BSc student from University of Dundee. MPhil at University of Cambridge, now back in Edinburgh at the <a href="http://datascience.inf.ed.ac.uk/">CDT in Data Science</a>.
+    tagline: Visiting BSc student from University of Dundee, summer 2015. MPhil at University of Cambridge, now back in Edinburgh at the <a href="http://datascience.inf.ed.ac.uk/">CDT in Data Science</a>.
   - 
     name: Pijus Simonaitis
     url: https://www.linkedin.com/in/pijus-simonaitis-734594bb/?ppe=1
-    tagline: Visiting MSc student from École Normale Supérieure de Lyon. Now PhD student at Montpellier Laboratory of Computer Science, Robotics, and Microelectronics.
+    tagline: Visiting MSc student from École Normale Supérieure de Lyon, summer 2016. Now PhD student at Montpellier Laboratory of Computer Science, Robotics, and Microelectronics.
 collaborators:
   -
     name: Antonios Anastasopoulos
