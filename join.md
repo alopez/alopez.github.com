@@ -104,15 +104,15 @@ since there is nothing I can do to help you.
 Taught MSc programmes in Edinburgh are very intensive and you will not have 
 time on the side to join a research project. However, a third of the
 overall credits for the MSc come from an individual project, supervised by 
-a member of staff. These projects are assigned early in semester 2, and,
-while the assignment considers your preferences, there is no guarantee that
-you will get your preferred project, due to the very large numbers of
-students (particularly taught MSc students). Therefore, I cannot offer you
-any research experience if you are applying for a taught MSc.
+a member of staff. These projects are assigned early in semester 2, and
+though the assignment considers your preferences, there is no guarantee that
+you will get your preferred project due to the very large numbers of
+students. As a consequence, I can make no guarantees that you will be able
+to work with me if you are joining any of our taught MSc degrees.
 
-We rarely admit students directly to an MPhil or MScR degree, except as part
+Our department rarely admit students directly to an MPhil or MScR degree, 
+except as part
 of a [1+3 CDT programme](https://www.ed.ac.uk/informatics/postgraduate/cdts). 
-If you are interested in a research degree, I advise you to apply for a PhD.
 
 ## Self-funded students
 
