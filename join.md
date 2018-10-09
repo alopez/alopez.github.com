@@ -99,7 +99,8 @@ outside my control.
 ## Prospective MSc, MScR, or MPhil students
 
 In brief: do not contact me if you are applying for one of these degrees,
-because there is nothing that I can do for you. 
+because I have no influence over who is admitted or whether they will work 
+with me.
 
 Longer explanation: Taught MSc programmes in Edinburgh are very intensive 
 and you will not have time on the side to join a research project. A third 
@@ -110,7 +111,8 @@ though the assignment considers your preferences, there is no guarantee that
 you will get your preferred project due to the very large numbers of
 students. Because of all the uncertainties around this process, I can make 
 no guarantee that you will be able to work with me if you join our taught 
-MSc programme.
+MSc programme. As a practical matter, MSc admissions are handled centrally
+and I have no influence over them.
 
 Our department rarely admit students directly to an MPhil or MScR degree, 
 except as part
