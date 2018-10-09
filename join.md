@@ -18,6 +18,9 @@ computer science, and linguistics. I don't expect you to be an expert in
 all of these fields---few people are---but I do expect you to learn 
 something about all of them from a diverse of group of collaborators.
 
+* TOC
+{:toc}
+
 ## Prospective PhD students
 
 I take one or two new PhD students each year. To apply, you must write
@@ -92,6 +95,44 @@ consider you for funding, which is crucial since we only make funded offers
 (unless you have a full outside scholarship).  **I 
 cannot advise you on your chances of admission**, which depend on factors 
 outside my control.
+
+## Prospective MSc, MScR, or MPhil students
+
+In brief: do not contact me if you are applying for one of these degrees, 
+since there is nothing I can do to help you.
+
+Taught MSc programmes in Edinburgh are very intensive and you will not have 
+time on the side to join a research project. However, a third of the
+overall credits for the MSc come from an individual project, supervised by 
+a member of staff. These projects are assigned early in semester 2, and,
+while the assignment considers your preferences, there is no guarantee that
+you will get your preferred project, due to the very large numbers of
+students (particularly taught MSc students). Therefore, I cannot offer you
+any research experience if you are applying for a taught MSc.
+
+We rarely admit students directly to an MPhil or MScR degree, except as part
+of a [1+3 CDT programme](https://www.ed.ac.uk/informatics/postgraduate/cdts). 
+If you are interested in a research degree, I advise you to apply for a PhD.
+
+## Self-funded students
+
+If you have full funding from a fellowship that will pay for your tuition
+and a living stipend, that's great! The purpose of your fellowship is to
+enable you to pursue your intellectual interests, and if we have interests
+in common, I'm happy to discuss them with you. Having a fellowship makes
+admissions easier because it isn't contingent on funding, but it is still
+crucial that we have mutual research interests. 
+
+I do not take self-funded PhD students who pay out of their own pockets. This
+would be unethical on at least two counts: (1) it gives unequal access to 
+students with means; and (2) the university benefits from the labor of PhD
+students through their publications and other activities, and you should be 
+paid for this.
+
+Practically, this means that we can only offer admission to you unless we
+are able to find funding for you, or if you are able to source your own
+fellowship. I am aware that this means that I will be unable to work
+with many good applicants, but I will not make exceptions. 
 
 ## Current students in Edinburgh
 
