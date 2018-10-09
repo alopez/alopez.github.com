@@ -98,17 +98,19 @@ outside my control.
 
 ## Prospective MSc, MScR, or MPhil students
 
-In brief: do not contact me if you are applying for one of these degrees, 
-since there is nothing I can do to help you.
+In brief: do not contact me if you are applying for one of these degrees,
+because there is nothing that I can do for you. 
 
-Taught MSc programmes in Edinburgh are very intensive and you will not have 
-time on the side to join a research project. However, a third of the
-overall credits for the MSc come from an individual project, supervised by 
-a member of staff. These projects are assigned early in semester 2, and
+Longer explanation: Taught MSc programmes in Edinburgh are very intensive 
+and you will not have time on the side to join a research project. A third 
+of the overall credits for the MSc come from an individual project, 
+supervised by a member of staff, and you will need to devote all of your 
+effort to your project. Projects are assigned early in semester 2, and
 though the assignment considers your preferences, there is no guarantee that
 you will get your preferred project due to the very large numbers of
-students. As a consequence, I can make no guarantees that you will be able
-to work with me if you are joining any of our taught MSc degrees.
+students. Because of all the uncertainties around this process, I can make 
+no guarantee that you will be able to work with me if you join our taught 
+MSc programme.
 
 Our department rarely admit students directly to an MPhil or MScR degree, 
 except as part
@@ -124,15 +126,14 @@ admissions easier because it isn't contingent on funding, but it is still
 crucial that we have mutual research interests. 
 
 I do not take self-funded PhD students who pay out of their own pockets. This
-would be unethical on at least two counts: (1) it gives unequal access to 
-students with means; and (2) the university benefits from the labor of PhD
-students through their publications and other activities, and you should be 
-paid for this.
+would be unethical on at least two counts: (1) it gives unequal access; and 
+(2) the university benefits from the labor of PhD students through their 
+research and publications, and PhD students should be paid for this.
 
-Practically, this means that we can only offer admission to you unless we
-are able to find funding for you, or if you are able to source your own
-fellowship. I am aware that this means that I will be unable to work
-with many good applicants, but I will not make exceptions. 
+Practically, this means that we only offer admission to students we can
+fund, or who are able to obtain a fellowship. I am acutely aware that this 
+means that I can't work with many good applicants, but I will not make 
+exceptions. 
 
 ## Current students in Edinburgh
 
