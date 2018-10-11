@@ -1,6 +1,15 @@
 papers:
   - layout: paper
     selected: yes
+    paper-type: inproceedings
+    year: 2018
+    title: "Neural networks for cross-lingual negation scope detection"
+    authors: "Federico Fancellu, Adam Lopez, and Bonnie Webber"
+    booktitle: "arXiv preprint arXiv:1810.02156"
+    doc-url: https://arxiv.org/abs/1810.02156
+    venue: working
+  - layout: paper
+    selected: yes
     year: 2018
     paper-type: inproceedings
     title: "Pre-training on high-resource speech recognition improves low-resource speech-to-text translation"
