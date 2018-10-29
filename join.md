@@ -24,15 +24,44 @@ something about all of them from a diverse of group of collaborators.
 ## Prospective PhD students
 
 I take one or two new PhD students each year. To apply, you must write
-a research statement. I am happy to discuss this with keen
-students, but I expect you to have done some [reading](/papers/) and thinking first in
-an area of mutual interest, and I expect you to start the discussion with
-some specific questions and ideas. If you have no questions or only a vague
-idea about what you want to do, then I will simply refer you back to this 
-page. I don't do this to discourage you and it doesn't mean you shouldn't 
-apply! But it does mean that I can't help you at this stage and you'll need 
-to do some more thinking about your own interests first. Here is what I'm 
-currently interested in:
+a research proposal. Unfortunately, I'm not able to offer personalized
+advice on your research proposal, due to the number of interested applicants
+and my own time constraints, which include commitments to my current 
+students. But if you put my name in your application as a possible 
+supervisor, then I will read your proposal during the admissions process.
+
+### General advice on the research proposal
+
+Some applicants stress over the research proposal because they worry that
+they need to commit to a four-year plan before even starting the PhD. Don't
+worry about this. Your research proposal isn't a contract. I realize that 
+your interests will change over the course of a PhD, and even between the 
+time of the application and your first day of a PhD program. 
+
+At the same, do take it seriously! The proposal is an 
+exercise in persuasion and scientific communication. It should convince 
+the admissions committee that you can find interesting scientific questions 
+and plausible ways to answer them. Pick a question that you think is 
+interesting and show that it is worthwhile, unanswered, and possibly 
+answerable within a few years. To show that it’s unanswered, use evidence 
+from the current scientific literature. To show that it might be 
+answerable, sketch a plausible 3--4 page plan for answering it. I
+understand that your interests and plans will change over the course of a
+PhD, so nothing you write is set in stone. It’s just the opening of a 
+conversation about your interests. I also realize that you may not have
+written anything like this before, and that not everyone has the same
+access to opportunities. I am looking for something that shows you've
+done the best you can with the opportunities available to you.
+
+### Research topics
+
+I'm open to a wide variety of proposals in my areas of interest. To get
+an idea of what these are, I recommend that you do some [reading](/papers/)
+to see how my group approaches research problems. If you email me to ask
+I will most likely refer you back to this page. I don't do this to 
+discourage you and it doesn't mean you shouldn't apply! It just means that
+you'll need to think through your own interests independently. Here is 
+what I'm currently interested in:
 
 Natural language understanding systems confront a menagerie of complex and 
 subtle phenomena. Deep learning is a useful tool in building these 
@@ -56,7 +85,7 @@ we design and use deep probabilistic models of graphs?**
 I'm also interested in many other things involving language, structure, and 
 learning. To get a sense of what some of those things are, you can 
 [read some of my recent papers](/papers/). I am happy to 
-discuss specific questions or ideas related to my published work. 
+discuss *specific* questions or ideas related to my published work. 
 
 If you're excited about natural language, but not these topics, you may
 want to contact other members of 
@@ -67,6 +96,8 @@ If you aren't genuinely interested in language, then my research group is
 not a good fit for you, and you should contact a different
 supervisor in the 
 [School of Informatics](http://www.ed.ac.uk/informatics/).
+
+### How to apply
 
 If you're excited about all of this, I encourage you to apply for a PhD.
 I advise students in two different programs:
@@ -87,18 +118,43 @@ to many unrelated programmes across schools and colleges are usually rejected
 because their interests are unclear.) Read more about the application process
 [here](http://www.ed.ac.uk/informatics/postgraduate/apply)
 
+### Self-funded students
+
+If you have full funding from a fellowship that will pay for your tuition
+and a living stipend, that's great! The purpose of your fellowship is to
+enable you to pursue your intellectual interests, and if we have interests
+in common, I'm happy to discuss them with you. Having a fellowship makes
+admissions easier because it isn't contingent on funding, but it is still
+crucial that we have mutual research interests. 
+
+I do not take self-funded PhD students who pay out of their own pockets. This
+would be unethical on at least two counts: (1) it gives unequal access; and 
+(2) the university benefits from the labor of PhD students through their 
+research and publications, and PhD students should be paid for this.
+
+Practically, this means that we only offer admission to students we can
+fund, or who are able to obtain a fellowship. I am acutely aware that this 
+means that I can't work with many good applicants, but I will not make 
+exceptions. 
+
+### When to apply 
+
 **I only review applications in winter admissions cycle.
 For a September start, apply by the second week of December in
 the preceding year.** That is not a 
 hard deadline, but applying by then ensures that the school will 
 consider you for funding, which is crucial since we only make funded offers
-(unless you have a full outside scholarship).  **I 
-cannot advise you on your chances of admission**, which depend on factors 
-outside my control.
+(unless you have a full outside scholarship).  
+
+### Chances of admission
+
+**I cannot advise you on your chances of admission**, which depend on factors 
+outside my control, and also outside of your control. Graduate admissions is
+a very stochastic process, so I advise you to apply widely.
 
 ## Prospective MSc, MScR, or MPhil students
 
-In brief: do not contact me if you are applying for one of these degrees,
+In brief: **do not contact me** if you are applying for one of these degrees,
 because I have no influence over who is admitted or whether they will work 
 with me.
 
@@ -117,25 +173,6 @@ and I have no influence over them.
 Our department rarely admit students directly to an MPhil or MScR degree, 
 except as part
 of a [1+3 CDT programme](https://www.ed.ac.uk/informatics/postgraduate/cdts). 
-
-## Self-funded students
-
-If you have full funding from a fellowship that will pay for your tuition
-and a living stipend, that's great! The purpose of your fellowship is to
-enable you to pursue your intellectual interests, and if we have interests
-in common, I'm happy to discuss them with you. Having a fellowship makes
-admissions easier because it isn't contingent on funding, but it is still
-crucial that we have mutual research interests. 
-
-I do not take self-funded PhD students who pay out of their own pockets. This
-would be unethical on at least two counts: (1) it gives unequal access; and 
-(2) the university benefits from the labor of PhD students through their 
-research and publications, and PhD students should be paid for this.
-
-Practically, this means that we only offer admission to students we can
-fund, or who are able to obtain a fellowship. I am acutely aware that this 
-means that I can't work with many good applicants, but I will not make 
-exceptions. 
 
 ## Current students in Edinburgh
 
