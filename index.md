@@ -33,7 +33,7 @@ In the same month, she was a finalist in University of Edinburgh
 * Sorcha Gilroy and I taught a one-week course on 
 [Graph formalisms for meaning representations](https://drive.google.com/drive/folders/1NtdhgieGKpnTvpYiBCUgkE-g0ygKDyE_) 
 at [NASSLLI 2018](https://www.cmu.edu/nasslli2018/).
-We will give a half-day tutorial on the same topic at 
+We gave [a similar half-day tutorial](https://bit.ly/GraphFormalismsEMNLP) on the same topic at 
 [EMNLP 2018](http://emnlp2018.org/).
 
 ## Current Highlights
