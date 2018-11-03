@@ -41,7 +41,7 @@ Conferences cost the scientific community in other ways.
 [Independent scientists](https://twitter.com/deliprao/status/1040109386805309440) 
 and those in the Global South often cannot attend due to cost. Some are 
 prevented from attending by lengthy visa applications or [denied visas](https://medium.com/@hadyelsahar/highlighting-visa-issues-in-scientific-conferences-a4a1bab49dee). 
-Scientists from underrepresented groups [are harrassed](https://medium.com/@kristianlum/statistics-we-have-a-problem-304638dc5de5). 
+Scientists from underrepresented groups [are harassed and assaulted](https://medium.com/@kristianlum/statistics-we-have-a-problem-304638dc5de5). 
 In short, conferences are exclusive, and exclusivity keeps out those who 
 might otherwise advance our field.[^1] 
 
@@ -84,8 +84,8 @@ very small. All of them were small events attended by a few dozen people
 who collaborated intensively in small groups for a week or more. That 
 kind of focus is exactly the opposite of what we find in today’s enormous 
 conferences. And, having collaborated successfully with 
-remote partners several times, I’m even 
-skeptical that this requires colocation.
+remote partners several times over the past few years, I’m skeptical that 
+this requires colocation. 
 
 I'm sure it's healthy for scientific communities to collectively pause, 
 take stock, learn about recent discoveries, and interact spontaneously with 
@@ -103,11 +103,11 @@ alternatives to conferences in just a few years.
 
 Obviously, there are many other ways you can reduce your carbon footprint 
 and contribute to the enormous task ahead. But I was trained as a computer 
-scientist, and I know that if you want to lower some cost, you start with 
+scientist, and I know that if you want to lower costs, you start with 
 the biggest cost first because that’s where the biggest gains are. My goal 
 isn’t to minimize other things you can do, and it isn’t to tell you to just 
 stop conferencing. It’s an invitation: if you believe that the scientific
-exchange of conferences is important, how can you reimagine that exchange
+exchange that happens at conferences is important, how can you reimagine that exchange
 to make is much less damaging to the environment and far more inclusive
 than it is right now?
 
