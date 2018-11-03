@@ -20,7 +20,7 @@ Intergovernmental Panel on Climate Change, which states the facts in plain
 terms: catastrophic climate change is inevitable; it will destabilize 
 ecosystems and societies; and to stand even a chance of averting far 
 worse outcomes, we must cut worldwide carbon emissions in half over the 
-next decade--and then keep cutting them. To accomplish this, we will need 
+next decade---and then keep cutting them. To accomplish this, we will need 
 to remake modern society at all levels, from global to individual. 
 
 Remaking society at a global level will require sustained, coordinated 
@@ -42,6 +42,8 @@ Conferences cost the scientific community in other ways.
 and those in the Global South often cannot attend due to cost. Some are 
 prevented from attending by lengthy visa applications or [denied visas](https://medium.com/@hadyelsahar/highlighting-visa-issues-in-scientific-conferences-a4a1bab49dee). 
 Scientists from underrepresented groups [are harassed and assaulted](https://medium.com/@kristianlum/statistics-we-have-a-problem-304638dc5de5). 
+Women are more likely to face gendered expectations for family care that make
+it difficult for them to travel.
 In short, conferences are exclusive, and exclusivity keeps out those who 
 might otherwise advance our field.[^1] 
 
