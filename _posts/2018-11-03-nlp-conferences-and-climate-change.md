@@ -110,7 +110,7 @@ the biggest cost first because that’s where the biggest gains are. My goal
 isn’t to minimize other things you can do, and it isn’t to tell you to just 
 stop conferencing. It’s an invitation: if you believe that the scientific
 exchange that happens at conferences is important, how can you reimagine that exchange
-to make is much less damaging to the environment and far more inclusive
+to make it much less damaging to the environment and far more inclusive
 than it is right now?
 
 [^1]: Exclusivity was built into scientific conferences [from the beginning](https://www.visionlearning.com/en/library/Process-of-Science/49/The-How-and-Why-of-Scientific-Meetings/186#toc_2) and this needs to end.
