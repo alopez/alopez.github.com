@@ -30,11 +30,10 @@ paper she coauthored on [RNNs as weighted language recognizers](http://aclweb.or
 In the same month, she was a finalist in University of Edinburgh 
 [3-minute thesis competition](https://www.ed.ac.uk/institute-academic-development/postgraduate/doctoral/3mt/3mt-final).
 
-* Sorcha Gilroy and I taught a one-week course on 
-[Graph formalisms for meaning representations](https://drive.google.com/drive/folders/1NtdhgieGKpnTvpYiBCUgkE-g0ygKDyE_) 
-at [NASSLLI 2018](https://www.cmu.edu/nasslli2018/).
-We gave [a similar half-day tutorial](https://bit.ly/GraphFormalismsEMNLP) on the same topic at 
-[EMNLP 2018](http://emnlp2018.org/).
+* Sorcha Gilroy and I gave a tutorial on 
+[Graph Formalisms for Meaning Representations](https://bit.ly/GraphFormalismsEMNLP) at
+[EMNLP 2018](http://emnlp2018.org/). We taught [a week-long course](https://drive.google.com/drive/folders/1NtdhgieGKpnTvpYiBCUgkE-g0ygKDyE_)  
+on the same topic at [NASSLLI 2018](https://www.cmu.edu/nasslli2018/).
 
 ## Current Highlights
 
