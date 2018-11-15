@@ -32,8 +32,8 @@ In the same month, she was a finalist in University of Edinburgh
 
 * Sorcha Gilroy and I gave a tutorial on 
 [Graph Formalisms for Meaning Representations](https://bit.ly/GraphFormalismsEMNLP) at
-[EMNLP 2018](http://emnlp2018.org/). We taught [a week-long course](https://drive.google.com/drive/folders/1NtdhgieGKpnTvpYiBCUgkE-g0ygKDyE_)  
-on the same topic at [NASSLLI 2018](https://www.cmu.edu/nasslli2018/).
+[EMNLP 2018](http://emnlp2018.org/). We taught [a week-long course](https://drive.google.com/drive/folders/1NtdhgieGKpnTvpYiBCUgkE-g0ygKDyE_) on 
+the same topic at [NASSLLI 2018](https://www.cmu.edu/nasslli2018/).
 
 ## Current Highlights
 
