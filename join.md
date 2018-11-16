@@ -26,6 +26,30 @@ something about all of them from a diverse of group of collaborators.
 I expect take one or two new PhD students each year. I can take
 more than one student for 2019.
 
+Interest in natural language processing is skyrocketing. There are many
+good things about this, but a downside is that I'm no longer able to 
+respond personally to every prospective student who is interested in
+working with me. In fact, there's a good chance that you're reading
+this because I referred you to this page. I don't do this to discourage
+you---please apply! I wrote this advice page to help you: it
+summarizes the advice that I used to discuss with applicants individually, 
+and I keep it up-to-date.
+
+### Naming me as a potential supervisor on your application
+
+Many prospective students ask whether they can name me as a supervisor.
+Yes, please list me as a potential supervisor if the research topics
+below look interesting to you. When you name me as a potential supervisor,
+your application will be routed to me during the admissions process.
+
+You can name multiple potential supervisors on your application, and 
+generally this is fine, since many of us in the 
+[EdinburghNLP group](http://edinburghnlp.inf.ed.ac.uk/) have
+overlapping interests, and in practice we often forward applications
+to our colleagues when we think they will be of interest. (But don't list 
+everyone indiscriminately---focus on those whose interests are most closely 
+aligned to yours.) 
+
 ### General advice on the research proposal
 
 To apply, you must write
@@ -35,7 +59,7 @@ proposal. Unfortunately, **I cannot advise you  on your research
 proposal** due to the sheer number of applicants interested in natural
 language processing. So, if you contact me, I will simply refer you back to
 this page for advice. I don't do this to discourage you---Please do apply!
-And please put my name in your application as a possible supervisor---your 
+If you name me as a potential supervisor, then your 
 application will then be routed to me and I will read your proposal during 
 the normal admissions cycle, which takes place early in the calendar year. 
 
