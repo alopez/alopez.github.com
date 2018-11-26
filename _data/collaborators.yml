@@ -21,18 +21,6 @@ phd-students-first:
     tagline: Deep learning and morphology.
 phd-students-second:
   -
-    name: Jianpeng Cheng
-    url: http://homepages.inf.ed.ac.uk/s1537177/
-    tagline: "Neural syntactic and semantic parsing. Primary supervisor: Mirella Lapata."
-  - 
-    name: Marco Damonte
-    url: http://mdtux89.github.io/
-    tagline: "Abstract meaning representation. Primary supervisor: Shay Cohen."
-  -
-    name: Joana Ribeiro
-    url: https://www.ed.ac.uk/informatics/postgraduate/why-study-here/student-experience/joana-ribeiro
-    tagline: "Sequence modeling. Primary supervisor: Shay Cohen."
-  -
     name: Janie Sinclair
     url: http://www.inf.ed.ac.uk/people/students/Arabella_Jane_Sinclair.html
     tagline: "Dialogue and educational NLP. Primary supervisor: Dragan Gašević. Co-supervised with Chris Lucas."
@@ -142,6 +130,10 @@ collaborators:
     name: Chris Callison-Burch
     url: http://www.cis.upenn.edu/~ccb/
     tagline: University of Pennsylvania.
+  -
+    name: Jianpeng Cheng
+    url: http://homepages.inf.ed.ac.uk/s1537177/
+    tagline: "Neural syntactic and semantic parsing. Primary supervisor: Mirella Lapata."
   -
     name: David Chiang
     url: http://www3.nd.edu/~dchiang/

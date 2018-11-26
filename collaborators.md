@@ -15,7 +15,7 @@ order:  3
 ### As primary supervisor
 {% include collaborator.html people=site.data.collaborators.phd-students-first %}
 
-### As secondary supervisor
+### Student collaborators and coauthors
 {% include collaborator.html people=site.data.collaborators.phd-students-second %}
 
 <!--
