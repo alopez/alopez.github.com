@@ -12,10 +12,10 @@ order:  3
 > ---Talmud
 
 ## PhD students
-### As primary supervisor
+### Advisees
 {% include collaborator.html people=site.data.collaborators.phd-students-first %}
 
-### Student collaborators and coauthors
+### Student coauthors
 {% include collaborator.html people=site.data.collaborators.phd-students-second %}
 
 <!--
@@ -42,7 +42,7 @@ order:  3
 ---
 
 I am conservative about who I add to this list.
-It includes coauthors and student collaborators.
+It includes advisees and collaborators.
 If your information is out of date, please get in touch.
 
 

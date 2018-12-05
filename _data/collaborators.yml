@@ -2,7 +2,7 @@ phd-students-first:
   - 
     name: Sameer Bansal
     url: http://homepages.inf.ed.ac.uk/s1444673
-    tagline: Low-resource speech translation. Co-supervised with Sharon Goldwater.
+    tagline: Low-resource speech translation. Co-advised with Sharon Goldwater.
   -
     name: Nikolay Bogoychev
     url: https://nbogoychev.com
@@ -23,11 +23,7 @@ phd-students-second:
   -
     name: Janie Sinclair
     url: http://www.inf.ed.ac.uk/people/students/Arabella_Jane_Sinclair.html
-    tagline: "Dialogue and educational NLP. Primary supervisor: Dragan Gašević. Co-supervised with Chris Lucas."
-  - 
-    name: Ida Szubert
-    url: http://www.inf.ed.ac.uk/people/students/Katarzyna_Ida_Szubert.html
-    tagline: "Syntax, semantics, and graph algorithms. Teaching assistant extraordinaire. Primary supervisor: Mark Steedman."
+    tagline: "Dialogue and educational NLP. Primary advisor: Dragan Gašević. Co-advised with Chris Lucas."
 project-students:
 former-phd:
   -
@@ -43,7 +39,7 @@ former-phd:
   -
     name: Federico Fancellu
     url: https://ffancellu.github.io/
-    tagline: "PhD 2018. Primary supervisor: Bonnie Webber."
+    tagline: "PhD 2018. Primary advisor: Bonnie Webber."
     description: >
       Federico developed state-of-the-art models for computational detection
       of negation in English and Chinese. He now a postdoc with my colleague
@@ -83,6 +79,10 @@ former-masters:
     name: Jason R. Smith
     tagline: former PhD student at Johns Hopkins University. Now at Google.
   - 
+    name: Ida Szubert
+    url: http://www.inf.ed.ac.uk/people/students/Katarzyna_Ida_Szubert.html
+    tagline: "MSc 2016. Now PhD student at University of Edinburgh, advised by Mark Steedman."
+  - 
     name: Ieva Vasiljeva
     url: https://www.linkedin.com/in/ievavasiljeva/
     tagline: MSc 2017. Now at Improbable.
@@ -96,7 +96,7 @@ former-masters:
 former-ug:
   - 
     name: Ramona Comanescu
-    tagline: BSc 2018. Now at Amazon, now MPhil student in Cambridge.
+    tagline: BSc 2018. Now MPhil student in Cambridge.
   -
     name: Iulia Banghea
     tagline: BSc 2017.
@@ -133,7 +133,7 @@ collaborators:
   -
     name: Jianpeng Cheng
     url: http://homepages.inf.ed.ac.uk/s1537177/
-    tagline: "Neural syntactic and semantic parsing. Primary supervisor: Mirella Lapata."
+    tagline: University of Edinburgh. 
   -
     name: David Chiang
     url: http://www3.nd.edu/~dchiang/
