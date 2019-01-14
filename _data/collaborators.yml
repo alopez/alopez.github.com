@@ -8,10 +8,6 @@ phd-students-first:
     url: https://nbogoychev.com
     tagline: Machine translation.
   -
-    name: Sorcha Gilroy
-    url: http://homepages.inf.ed.ac.uk/s1459276/
-    tagline: Probabilistic models of graphs.
-  -
     name: Naomi Saphra
     url: http://nsaphra.github.io/ 
     tagline: Deep learning and social media.
@@ -24,6 +20,15 @@ phd-students-second:
     name: Janie Sinclair
     url: http://www.inf.ed.ac.uk/people/students/Arabella_Jane_Sinclair.html
     tagline: "Dialogue and educational NLP. Primary advisor: Dragan Gašević. Co-advised with Chris Lucas."
+mscr:
+  -
+    name: Kate McCurdy
+    url: http://www.inf.ed.ac.uk/people/students/Katherine_Anne_McCurdy.html
+    tagline: Morphology in neural models. Co-advised with Sharon Goldwater.
+  - 
+    name: Katarzyna Pruś
+    url: https://www.inf.ed.ac.uk/people/students/Katarzyna_Prus.html
+    tagline: Modeling morphology
 project-students:
 former-phd:
   -
@@ -35,7 +40,7 @@ former-phd:
       parser for combinatory categorial grammar, a linguistically expressive 
       grammar formalism. After graduation Michael began working on neural
       translation, and is one of the key researchers behind Facebook's 
-      <a href="https://code.facebook.com/posts/1978007565818999/a-novel-approach-to-neural-machine-translation/">convolutional machine translation system</a>.  -
+      <a href="https://code.facebook.com/posts/1978007565818999/a-novel-approach-to-neural-machine-translation/">convolutional machine translation system</a>. 
   -
     name: Federico Fancellu
     url: https://ffancellu.github.io/
@@ -45,6 +50,16 @@ former-phd:
       of negation in English and Chinese. He now a postdoc with my colleague
       Mirella Lapata and we continue to collaborate with Sorcha Gilroy
       on semantic parsing.
+  -
+    name: Sorcha Gilroy
+    url: http://homepages.inf.ed.ac.uk/s1459276/
+    tagline: PhD defended January 11, 2019. Expected award date July 2019.
+    description: >
+      Sorcha's thesis, Probabilistic Graph Formalisms for Meaning Representations,
+      surveys a range of mathematical tools for probabilistic generative
+      models of graphs, and presents several new results. Among her many
+      accomplishments as a PhD student, she won an outstanding paper award
+      at NAACL 2018.
 former-masters:
   - 
     name: Despoina Christou

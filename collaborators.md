@@ -11,12 +11,15 @@ order:  3
 >
 > ---Talmud
 
-## PhD students
-### Advisees
+## Students
+### PhD advisees
 {% include collaborator.html people=site.data.collaborators.phd-students-first %}
 
-### Student coauthors
+### PhD student coauthors
 {% include collaborator.html people=site.data.collaborators.phd-students-second %}
+
+### MScR advisees
+{% include collaborator.html people=site.data.collaborators.mscr %}
 
 <!--
 <h4>Master's and undergraduate project students</h4>

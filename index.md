@@ -23,7 +23,11 @@ which offers a four-year MSc + PhD programme.
 
 ## News
 
-* In June, my awesome PhD student [Sorcha Gilroy](http://homepages.inf.ed.ac.uk/s1459276/) 
+* On January 11, 2019, [Sorcha Gilroy](http://homepages.inf.ed.ac.uk/s1459276/) 
+successfully defended her thesis on Probabilistic Graph Formalisms for
+Meaning Representations.
+
+* In June 2018, Sorcha Gilroy 
 received an [oustanding paper award](https://naacl2018.wordpress.com/2018/04/11/outstanding-papers/)
 [NAACL 2018](http://naacl2018.org/) for a very cool
 paper she coauthored on [RNNs as weighted language recognizers](http://aclweb.org/anthology/N18-1205). 
