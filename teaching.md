@@ -18,7 +18,7 @@ order:  2
 > ---Gian-Carlo Rota
 
 ## Courses at the University of Edinburgh
-* New in spring 2019: [Natural language understanding, generation, and machine translation](http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11157.htm) This is a new second-semester advanced NLP course that I will teach with [Rico Sennrich](https://homepages.inf.ed.ac.uk/rsennric/)
+* New in spring 2019: [Natural language understanding, generation, and machine translation](https://course.inf.ed.ac.uk/nlu+) This is a new second-semester advanced NLP course that I will teach with [Rico Sennrich](https://homepages.inf.ed.ac.uk/rsennric/)
 * Spring 2018: [Natural language understanding](https://www.inf.ed.ac.uk/teaching/courses/nlu/)
 * Spring 2015, 16, &amp; 17: [Machine translation](https://alopez.github.io/mt-class/)
 * Autumn 2016: [Informatics 2A: Processing formal and natural languages](http://www.inf.ed.ac.uk/teaching/courses/inf2a/)
