@@ -24,7 +24,7 @@ which offers a four-year MSc + PhD programme.
 ## News
 
 * In January 2019, [Sorcha Gilroy](http://homepages.inf.ed.ac.uk/s1459276/) 
-successfully defended her PhD thesis on Probabilistic Graph Formalisms for
+successfully defended her [PhD thesis](https://drive.google.com/file/d/1yi_dyiOKXbZdVNcGy789A26FE7nAoTn0/view?usp=sharing) on Probabilistic Graph Formalisms for
 Meaning Representations. During her time as a student, she 
 received an [oustanding paper award](https://naacl2018.wordpress.com/2018/04/11/outstanding-papers/)
 at [NAACL 2018](http://naacl2018.org/) and was a finalist in University of Edinburgh 
