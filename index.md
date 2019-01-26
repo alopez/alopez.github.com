@@ -23,16 +23,13 @@ which offers a four-year MSc + PhD programme.
 
 ## News
 
-* On January 11, 2019, [Sorcha Gilroy](http://homepages.inf.ed.ac.uk/s1459276/) 
-successfully defended her thesis on Probabilistic Graph Formalisms for
-Meaning Representations.
-
-* In June 2018, Sorcha Gilroy 
+* In January 2019, [Sorcha Gilroy](http://homepages.inf.ed.ac.uk/s1459276/) 
+successfully defended her PhD thesis on Probabilistic Graph Formalisms for
+Meaning Representations. During her time as a student, she 
 received an [oustanding paper award](https://naacl2018.wordpress.com/2018/04/11/outstanding-papers/)
-[NAACL 2018](http://naacl2018.org/) for a very cool
-paper she coauthored on [RNNs as weighted language recognizers](http://aclweb.org/anthology/N18-1205). 
-In the same month, she was a finalist in University of Edinburgh 
-[3-minute thesis competition](https://www.ed.ac.uk/institute-academic-development/postgraduate/doctoral/3mt/3mt-final).
+at [NAACL 2018](http://naacl2018.org/) and was a finalist in University of Edinburgh 
+[3-minute thesis competition](https://www.ed.ac.uk/institute-academic-development/postgraduate/doctoral/3mt/3mt-final),
+along with many other accomplishments.
 
 * Sorcha Gilroy and I gave a tutorial on 
 [Graph Formalisms for Meaning Representations](https://bit.ly/GraphFormalismsEMNLP) at
