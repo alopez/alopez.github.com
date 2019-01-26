@@ -36,17 +36,20 @@ former-phd:
     url: http://michaelauli.github.io/ 
     tagline: PhD 2012. Now at Facebook AI Research.
     description: >
-      During our collaboration Michael developed the most accurate known 
+      Michael's <a href="https://www.era.lib.ed.ac.uk/handle/1842/7636">thesis</a> 
+      applied advanced machine learning techniques to a
       parser for combinatory categorial grammar, a linguistically expressive 
-      grammar formalism. After graduation Michael began working on neural
+      grammar formalism. It remained state-of-the-art for several years afer he
+      developed it. After graduation Michael began working on neural
       translation, and is one of the key researchers behind Facebook's 
-      <a href="https://code.facebook.com/posts/1978007565818999/a-novel-approach-to-neural-machine-translation/">convolutional machine translation system</a>. 
+      <a href="https://code.facebook.com/posts/1978007565818999/a-novel-approach-to-neural-machine-translation/">convolutional neural machine translation system</a>. 
   -
     name: Federico Fancellu
     url: https://ffancellu.github.io/
     tagline: "PhD 2018. Primary advisor: Bonnie Webber."
     description: >
-      Federico developed state-of-the-art models for computational detection
+      Federico's <a href="https://www.era.lib.ed.ac.uk/handle/1842/33038">thesis</a> 
+      developed state-of-the-art models for computational detection
       of negation in English and Chinese. He now a postdoc with my colleague
       Mirella Lapata and we continue to collaborate with Sorcha Gilroy
       on semantic parsing.
@@ -55,7 +58,7 @@ former-phd:
     url: http://homepages.inf.ed.ac.uk/s1459276/
     tagline: PhD defended January 2019, expected award in July 2019.
     description: >
-      Sorcha's thesis, Probabilistic Graph Formalisms for Meaning Representations,
+      Sorcha's <a href="https://drive.google.com/file/d/1yi_dyiOKXbZdVNcGy789A26FE7nAoTn0/view">thesis</a>
       surveys a range of mathematical tools for probabilistic generative
       models of graphs, and presents several new results. Among her many
       accomplishments as a PhD student, she won an outstanding paper award
