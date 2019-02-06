@@ -202,7 +202,7 @@ hard deadline, but applying by then ensures that the school will
 consider you for funding, which is crucial since we only make funded offers
 (unless you have a full outside scholarship).  
 
-Since CDT funding will only be announced in December 2018, these
+Since CDT funding will only be announced in February 2019, these
 programmes will necessarily have later deadlines for the 2019 admissions
 cycle only. 
 
