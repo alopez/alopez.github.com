@@ -159,7 +159,7 @@ application guidance links below. I
 advise students in two different programs:
 
 * PhD students in the [Institute for Language, Cognition, and Computation](http://www.ilcc.inf.ed.ac.uk/). This is a three-year research-only program. [Read the application guidance](http://web.inf.ed.ac.uk/ilcc/study-with-us).
-* PhD students in [Centres for Doctoral Training](https://www.ed.ac.uk/informatics/postgraduate/cdts). These are four-year programs combining research and some formal taught elements. Multiple relevant CDTs are currently under review for funding, and the results will be announced in December 2018, in time to apply for a September 2019 start. 
+* PhD students in [Centres for Doctoral Training](https://www.ed.ac.uk/informatics/postgraduate/cdts). These are four-year programs combining research and some formal taught elements. Multiple relevant CDTs are currently under review for funding, and the results will be announced in late February 2019, in time to apply for a September 2019 start. 
 
 If you already have an MSc in a relevant area, you can apply for the ILCC PhD. 
 If you do not have an MSc, or if you'd like a longer programme with some
