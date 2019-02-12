@@ -197,6 +197,10 @@ after-pubs:
         heading: University courses
         items:
           -
+            title: "Natural language understanding, generation, and machine translation"
+            year: 2019 (with Rico Sennrich)
+            detail: Fourth-year and MSc course at the University of Edinburgh
+          -
             title: Natural language understanding
             year: 2018
             detail: Fourth-year and MSc course at the University of Edinburgh
@@ -223,6 +227,10 @@ after-pubs:
       -
         heading: Tutorials and Short Courses
         items:
+          -
+            title: Graph formalisms for meaning representations
+            year: 2018
+            detail: Half-day tutorial at EMNLP. Co-taught with Sorcha Gilroy
           -
             title: Graph formalisms for meaning representations
             year: 2018
@@ -301,9 +309,6 @@ after-pubs:
             title: Nikolay Bogoychev
             detail: PhD student at the University of Edinburgh since 2015
           -
-            title: Sorcha Gilroy
-            detail: PhD student at the University of Edinburgh since 2015
-          -
             title: Naomi Saphra
             detail: PhD student at University of Edinburgh since 2015, Johns Hopkins University 2013&ndash;2015 
           -
@@ -315,6 +320,9 @@ after-pubs:
           -
             title: Jason Smith
             detail: PhD student at Johns Hopkins University from 2006 to 2013, advised from 2011 to 2013. Now at Google
+          -
+            title: Dr. Sorcha Gilroy
+            detail: PhD University of Edinburgh, 2019 (to be conferred in July)
           -
             title: Dr. Michael Auli
             detail: PhD University of Edinburgh, 2012. Now at Facebook AI Research
@@ -345,6 +353,12 @@ after-pubs:
       -
         heading: Masters students
         items:
+          -
+            title: Kate McCurdy
+            detail: MScR student in Data Science, 2019. Co-advised with Sharon Goldwater
+          -
+            title: Katarzyna Pruś
+            detail: MScR student in Data Science, 2019.
           -
             title: Moise Lubwimi
             detail: "MInf, University of Edinburgh, 2018. Thesis: <i>Investigating English generation from Abstract Meaning</i>"
@@ -495,7 +509,7 @@ after-pubs:
         heading: University and department
         items:
           -
-            title: Deputy director
+            title: Co-director
             detail: Center for Doctoral Training in Data Science, University of Edinburgh School of Informatics. Since 2017
           -
             title: Postgraduate selector
