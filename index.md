@@ -22,6 +22,9 @@ also the co-director of the
 which offers a four-year MSc + PhD programme.
 
 ## News
+* I'm in the [Edinburgh Science Festival](https://www.sciencefestival.co.uk/festival)!
+My interactive talk about [language translation technologies](https://www.sciencefestival.co.uk/event-details/inside-google-translate)
+will be on April 10.
 
 * In January 2019, [Sorcha Gilroy](http://homepages.inf.ed.ac.uk/s1459276/) 
 successfully defended her [PhD thesis](https://drive.google.com/file/d/1yi_dyiOKXbZdVNcGy789A26FE7nAoTn0/view?usp=sharing) on Probabilistic Graph Formalisms for
