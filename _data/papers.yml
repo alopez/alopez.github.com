@@ -25,7 +25,7 @@ papers:
     authors: "Clara Vania, Andreas Grivas, and Adam Lopez"
     booktitle: Proceedings of EMNLP
     booktitle-url: http://emnlp2018.org/
-    doc-url: https://arxiv.org/abs/1808.09180
+    doc-url: http://aclweb.org/anthology/D18-1278
     venue: conference
   - layout: paper
     year: 2018
@@ -35,7 +35,7 @@ papers:
     authors: "Yova Kementchedjhieva and Adam Lopez"
     booktitle: Proceedings of the Workshop on analyzing and interpreting neural networks for NLP
     booktitle-url: https://blackboxnlp.github.io/
-    doc-url: https://arxiv.org/abs/1809.00066
+    doc-url: http://aclweb.org/anthology/W18-5417
     venue: workshop
     abstract: >
       Character language models have access to surface morphological 
@@ -60,7 +60,7 @@ papers:
     booktitle: Proceedings of Interspeech
     booktitle-url: http://interspeech2018.org/
     venue: conference
-    doc-url: https://arxiv.org/abs/1803.09164
+    doc-url: https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1326.pdf
     abstract: >
       Speech-to-text translation has many potential applications for 
       low-resource languages, but the typical approach of cascading speech 
@@ -171,7 +171,7 @@ papers:
     booktitle: Workshop on Speech-Centric Natural Language Processing (SCNLP)
     booktitle-url: http://speechnlp.github.io/2017/
     venue: workshop
-    doc-url: http://aclweb.org/anthology/W/W17/W17-4607.pdf
+    doc-url: http://aclweb.org/anthology/W17-4607
     abstract: >
       Vast amounts of speech data collected for
       language documentation and research remain
@@ -285,7 +285,7 @@ papers:
     authors: Clara Vania and Adam Lopez
     booktitle: Proceedings of ACL
     booktitle-url: "http://acl2017.org/"
-    doc-url: "https://doi.org/10.18653/v1/P17-1184"
+    doc-url: https://www.aclweb.org/anthology/P17-1184
     venue: conference
     abstract: >
       "Words can be represented by composing
@@ -322,7 +322,7 @@ papers:
     authors: Jianpeng Cheng, Adam Lopez, and Mirella Lapata
     booktitle: Proceedings of ACL
     booktitle-url: http://acl2017.org/
-    doc-url: https://doi.org/10.18653/v1/P17-2019
+    doc-url: http://aclweb.org/anthology/P17-2019
     venue: conference
     abstract: >
       Generative models defining joint distributions
@@ -460,7 +460,7 @@ papers:
     booktitle: Proceedings of RepEval
     booktitle-url: https://sites.google.com/site/repevalacl16/
     code: https://github.com/nsaphra/urbandic-scraper
-    doc-url: http://arxiv.org/pdf/1606.08270.pdf 
+    doc-url: http://www.aclweb.org/anthology/W16-2517
     venue: workshop
     abstract: >
       Existing corpora for intrinsic evaluation
@@ -484,7 +484,7 @@ papers:
     booktitle: Proceedings of ACL
     booktitle-url: http://acl2016.org/
     code: https://github.com/XapaJIaMnu/gLM
-    doc-url: https://drive.google.com/file/d/0B7cpo43vOGF1RHIxSTgwNFB6Wkk/view?usp=sharing
+    doc-url: http://aclweb.org/anthology/P16-1183
     venue: conference
     abstract: >
       For many applications, the query speed of $N$-gram language models is 
@@ -509,7 +509,7 @@ papers:
     booktitle: Proceedings of ACL
     code: https://github.com/ffancellu/NegNN
     booktitle-url: http://acl2016.org/
-    doc-url: https://drive.google.com/file/d/0B7cpo43vOGF1Umw0dHNtQXZiMGs/view
+    doc-url: http://www.aclweb.org/anthology/P16-1047
     venue: conference
     abstract: >
       Automatic negation scope detection is a task that has been tackled 
@@ -558,7 +558,7 @@ papers:
     year: 2015
     img: amrica
     title: AMRICA&#58; an AMR Inspector for Cross-language Alignments
-    doc-url: http://speak.clsp.jhu.edu/uploads/publications/papers/1053_pdf.pdf
+    doc-url: http://www.aclweb.org/anthology/N15-3008
     authors: Naomi Saphra and Adam Lopez
     booktitle: NAACL-HLT Demonstrations
     booktitle-url: http://naacl.org/naacl-hlt-2015/
@@ -587,7 +587,7 @@ papers:
     year: 2015
     img: hiero-gpu
     title: Gappy pattern matching on GPUs for on-demand extraction of hierarchical translation grammars
-    doc-url: http://aclweb.org/anthology/Q/Q15/Q15-1007.pdf
+    doc-url: http://aclweb.org/anthology/Q15-1007
     authors: Hua He, Jimmy Lin, and Adam Lopez
     journal: Transactions of the ACL
     journal-url: https://tacl2013.cs.columbia.edu/ojs/index.php/tacl
@@ -646,7 +646,7 @@ papers:
     authors: Matt Post, Gaurav Kumar, Adam Lopez, Damianos Karakos, Chris Callison-Burch, and Sanjeev Khudanpur
     booktitle: Proceedings of IWSLT
     booktitle-url: http://www.iwslt2013.org/
-    doc-url: papers/iwslt2013-post-etal.pdf
+    doc-url: http://www.mt-archive.info/10/IWSLT-2013-Post.pdf
     data: https://catalog.ldc.upenn.edu/ldc2014t23
     venue: workshop
     abstract: >
@@ -677,7 +677,7 @@ papers:
     year: 2013
     img: 20yearsofbitext
     title: Beyond bitext&#58; Five open problems in machine translation
-    doc-url: papers/five_open_problems_in_mt.pdf
+    doc-url: https://mjpost.github.io/papers/lopez-post-bitext13.pdf
     authors: with Matt Post
     booktitle: Twenty Years of Bitext
     booktitle-url: https://sites.google.com/site/20yearsofbitext/
@@ -704,7 +704,7 @@ papers:
     title: Dirt cheap Web-scale parallel text from the Common Crawl
     authors: Jason Smith, Herve Saint-Amand, Magdalena Plamada, Philipp Koehn, Chris Callison-Burch and Adam Lopez
     booktitle: Proceedings of ACL
-    doc-url: http://aclweb.org/anthology/P/P13/P13-1135.pdf
+    doc-url: http://aclweb.org/anthology/P13-1135
     booktitle-url: http://acl2013.org/site/
     code: https://github.com/jrs026/CommonCrawlMiner
     venue: conference
@@ -738,7 +738,7 @@ papers:
     year: 2013
     title: Massively parallel suffix array queries and on-demand phrase extraction for statistical machine translation using GPUs
     authors: Hua He, Jimmy Lin, and Adam Lopez
-    doc-url: http://aclweb.org/anthology/N/N13/N13-1033.pdf
+    doc-url: http://aclweb.org/anthology/N13-1033
     img: naacl2013
     booktitle: Proceedings of NAACL HLT
     booktitle-url: http://naacl2013.naacl.org/
@@ -764,7 +764,7 @@ papers:
     year: 2013
     title: Learning to translate with products of novices&#58; a suite of open-ended challenge problems for teaching MT
     authors: With Matt Post, Chris Callison-Burch, Jonathan Weese, Juri Ganitkevitch, Narges Ahmidi, Olivia Buzek, Leah Hanson, Beenish Jamil, Matthias Lee, Ya-Ting Lin, Henry Pao, Fatima Rivera, Leili Shahriyari, Debu Sinha, Adam Teichert, Stephen Wampler, Michael Weinberger, Daguang Xu, Lin Yang, and Shang Zhao
-    doc-url: http://aclweb.org/anthology/Q/Q13/Q13-1014.pdf
+    doc-url: http://aclweb.org/anthology/Q13-1014
     code: http://alopez.github.io/dreamt/
     img: tacl2013
     journal: Transactions of the ACL
@@ -791,11 +791,10 @@ papers:
     paper-type: inproceedings
     year: 2012
     title: Putting human assessments of machine translation systems in order
-    doc-url: http://www.aclweb.org/anthology-new/W/W12/W12-3101.pdf
+    doc-url: http://aclweb.org/anthology/W12-3101
     booktitle: Proceedings of WMT
     booktitle-url: http://www.statmt.org/wmt12/
     code: https://github.com/alopez/wmt-ranking
-    slides: http://www.cs.jhu.edu/~alopez/talks/alopez-wmt2012-slides.pdf
     img: wmt2012
     venue: workshop
     abstract: >
@@ -818,7 +817,7 @@ papers:
     paper-type: inproceedings
     year: 2012
     title: Using categorial grammar to label translation rules
-    doc-url: http://www.cs.jhu.edu/~alopez/papers/wmt2012-weese.pdf
+    doc-url: http://www.aclweb.org/anthology/W12-3127
     authors: Jonathan Weese, Chris Callison-Burch and Adam Lopez
     booktitle: Proceedings of WMT
     booktitle-url: http://www.statmt.org/wmt12/
@@ -843,7 +842,7 @@ papers:
     year: 2011
     authors: Michael Auli and Adam Lopez
     title: Training a log-linear parser with loss functions via softmax-margin
-    doc-url: http://aclweb.org/anthology-new/D/D11/D11-1031.pdf
+    doc-url: http://aclweb.org/anthology/D11-1031
     img: emnlp2011
     booktitle: Proceedings of EMNLP
     booktitle-url: http://conferences.inf.ed.ac.uk/emnlp2011/
@@ -869,7 +868,7 @@ papers:
     year: 2011
     authors: Jonathan Weese, Juri Ganitkevitch, Chris Callison-Burch, Matt Post and Adam Lopez
     title: Joshua 3.0&#58; Syntax-based machine translation with the Thrax grammar extractor
-    doc-url: http://aclweb.org/anthology-new/W/W11/W11-2160.pdf
+    doc-url: http://aclweb.org/anthology/W11-2160
     img: wmt2011
     booktitle: Proceedings of WMT
     booktitle-url: http://statmt.org/wmt11/
@@ -888,7 +887,7 @@ papers:
     year: 2011
     authors: Michael Auli and Adam Lopez
     title: A comparison of loopy belief propagation and dual decomposition for integrated CCG supertagging and parsing
-    doc-url: http://aclweb.org/anthology-new/P/P11/P11-1048.pdf
+    doc-url: http://aclweb.org/anthology/P11-1048
     img: acl-bp2011
     booktitle: Proceedings of ACL 
     booktitle-url: http://www.acl2011.org/
@@ -912,7 +911,7 @@ papers:
     year: 2011
     authors: Michael Auli and Adam Lopez
     title: Efficient CCG parsing&#58; A* versus adaptive supertagging
-    doc-url: http://aclweb.org/anthology-new/P/P11/P11-1158.pdf
+    doc-url: http://aclweb.org/anthology/P11-1158
     img: acl-astar2011
     booktitle: Proceedings of ACL 
     booktitle-url: http://www.acl2011.org/
@@ -981,7 +980,7 @@ papers:
     booktitle-url: http://www.acl2010.org/
     img: cdec2010
     code: https://github.com/redpony/cdec
-    doc-url: http://aclweb.org/anthology-new/P/P10/P10-4002.pdf
+    doc-url: http://aclweb.org/anthology/P10-4002
     venue: workshop
     abstract: >
       We present cdec, an open source framework for decoding, aligning with, and 
@@ -1021,7 +1020,7 @@ papers:
     year: 2009
     authors: Abhishek Arun, Chris Dyer, Barry Haddow, Phil Blunsom, Adam Lopez, and Philipp Koehn
     title: Monte Carlo inference and maximization for phrase-based translation
-    doc-url: http://www.aclweb.org/anthology/W/W09/W09-1114.pdf
+    doc-url: http://aclweb.org/anthology/W09-1114
     booktitle: Proceedings of CoNLL
     booktitle-url: http://www.cnts.ua.ac.be/conll2009/
     img: conll2009
@@ -1043,7 +1042,7 @@ papers:
     title: Translation as weighted deduction
     booktitle: Proceedings of EACL
     booktitle-url: http://aclweb.org/anthology/E/E09/
-    doc-url: papers/eacl2009-lopez.pdf
+    doc-url: http://aclweb.org/anthology/E09-1061v2
     img: eacl2009
     slides: http://www.cs.jhu.edu/~alopez/talks/EACL09-lopez-slides.pdf
     venue: conference
@@ -1073,7 +1072,7 @@ papers:
     year: 2009
     authors: Michael Auli, Adam Lopez, Hieu Hoang, and Philipp Koehn
     title: A systematic analysis of translation model search spaces
-    doc-url: http://www.aclweb.org/anthology/W/W09/W09-0437.pdf
+    doc-url: http://aclweb.org/anthology/W09-0437
     booktitle: Proceedings of the Fourth Workshop on Statistical Machine Translation 
     booktitle-url: http://www.statmt.org/wmt09/
     img: wmt2009
@@ -1089,7 +1088,7 @@ papers:
     booktitle: Proceedings of COLING 
     booktitle-url: http://aclweb.org/anthology/C/C08/
     img: coling2008
-    doc-url: http://www.aclweb.org/anthology/C/C08/C08-1064.pdf
+    doc-url: http://aclweb.org/anthology/C08-1064
     slides: http://www.cs.jhu.edu/~alopez/talks/coling_2008.pdf
     venue: conference
     abstract: >
@@ -1166,7 +1165,7 @@ papers:
     pages: 976&ndash;985
     booktitle: Proceedings of EMNLP-CoNLL
     booktitle-url: http://www.cs.jhu.edu/EMNLP-CoNLL-2007/
-    doc-url: http://www.aclweb.org/anthology/D/D07/D07-1104.pdf
+    doc-url: http://aclweb.org/anthology/D07-1104
     slides: http://www.cs.jhu.edu/~alopez/talks/emnlp2007.pdf
     img: emnlp2007
     venue: conference
@@ -1226,7 +1225,7 @@ papers:
     pages: 779&ndash;786
     booktitle: Proceedings of HLT/EMNLP
     booktitle-url: http://www.cs.utexas.edu/~ml/HLT-EMNLP05/
-    doc-url: http://www.aclweb.org/anthology-new/H/H05/H05-1098.pdf 
+    doc-url: http://aclweb.org/anthology/H05-1098
     slides: http://www.cs.jhu.edu/~alopez/talks/emnlp2005.pdf
     img: emnlp2005
     venue: conference
@@ -1248,7 +1247,7 @@ papers:
     pages: 12&ndash;13
     booktitle: Proceedings of HLT/EMNLP Demonstrations
     booktitle-url: http://www.cs.utexas.edu/~ml/HLT-EMNLP05/
-    doc-url: http://www.aclweb.org/anthology-new/H/H05/H05-2007.pdf
+    doc-url: http://www.aclweb.org/anthology/H05-2007
     slides: http://www.cs.jhu.edu/~alopez/talks/emnlp2005-demo.pdf
     img: emnlp-demo2005
     venue: workshop
@@ -1267,7 +1266,7 @@ papers:
     pages: 83&ndash;86
     booktitle: Proceedings of the ACL 2005 Workshop on Building and Using Parallel Texts&#58; Data Driven Machine Translation and Beyond
     booktitle-url: http://www.statmt.org/wpt05/
-    doc-url: http://www.aclweb.org/anthology/W/W05/W05-0812.pdf
+    doc-url: http://aclweb.org/anthology/W05-0812
     slides: http://www.cs.jhu.edu/~alopez/talks/wpt05-slides.pdf
     img: wmt2005
     code: http://github.com/alopez/hmmalign
@@ -1290,7 +1289,7 @@ papers:
     pages: 34&ndash;42
     booktitle: Proceedings of the LREC Workshop on Linguistic Knowledge Acquisition and Representation&mdash;Bootstrapping Annotated Language Data
     booktitle-url: http://www.lrec-conf.org/lrec2002/lrec/wksh/Bootstrapping.html
-    doc-url: http://lampsrv02.umiacs.umd.edu/pubs/TechReports/LAMP_085/LAMP_085.pdf
+    doc-url: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.135.7331&rep=rep1&type=pdf
     slides: http://www.cs.jhu.edu/~alopez/talks/lrec02-slides.pdf
     img: lrec2002
     venue: workshop
