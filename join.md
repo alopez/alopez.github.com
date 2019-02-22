@@ -159,11 +159,8 @@ application guidance links below. I
 advise students in two different programs:
 
 * PhD students in the [Institute for Language, Cognition, and Computation](http://www.ilcc.inf.ed.ac.uk/). This is a three-year research-only program. [Read the application guidance](http://web.inf.ed.ac.uk/ilcc/study-with-us).
-* PhD students in [Centres for Doctoral Training](https://www.ed.ac.uk/informatics/postgraduate/cdts). These are four-year programs combining research and some formal taught elements. Multiple relevant CDTs are currently under review for funding, and the results will be announced in late February 2019, in time to apply for a September 2019 start. 
+* PhD students in the [Centre for Doctoral Training in Natural Language Processing](https://edinburghnlp.inf.ed.ac.uk/cdt). This is a new four-year program combining research and some formal taught elements. [Read the application guidance](https://edinburghnlp.inf.ed.ac.uk/cdt/apply/)
 
-If you already have an MSc in a relevant area, you can apply for the ILCC PhD. 
-If you do not have an MSc, or if you'd like a longer programme with some
-formal taught work, apply for one of the CDT programmes.
 You can apply to multiple programmes concurrently. (But please only apply to
 programmes that you are _genuinely interested in_. Applicants who submit
 to many unrelated programmes across schools and colleges are routinely rejected
@@ -195,16 +192,13 @@ exceptions.
 
 ### When to apply 
 
-**I only review applications in winter admissions cycle.
+I usually only review applications in winter admissions cycle.
 For a September start, apply by the second week of December in
-the preceding year.** That is not a 
-hard deadline, but applying by then ensures that the school will 
+the preceding year. **For the 2019 intake of the new 
+[CDT in NLP](https://edinburghnlp.inf.ed.ac.uk/cdt), apply by the 29th of March).**
+That is not a hard deadline, but applying by then ensures that the school will 
 consider you for funding, which is crucial since we only make funded offers
 (unless you have a full outside scholarship).  
-
-Since CDT funding will only be announced in February 2019, these
-programmes will necessarily have later deadlines for the 2019 admissions
-cycle only. 
 
 ### Chances of admission
 
@@ -230,9 +224,7 @@ no guarantee that you will be able to work with me if you join our taught
 MSc programme. As a practical matter, MSc admissions are handled centrally
 and I have no influence over them.
 
-Our department rarely admit students directly to MPhil or MScR degrees, 
-except as part
-of a [1+3 CDT programme](https://www.ed.ac.uk/informatics/postgraduate/cdts). 
+Our department does not admit students directly to MPhil or MScR degrees. 
 
 ## Current students in Edinburgh
 
