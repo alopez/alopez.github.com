@@ -16,12 +16,22 @@ in the [School of Informatics](http://web.inf.ed.ac.uk/)
 at the [University of Edinburgh](https://www.ed.ac.uk/). 
 [My research group](collaborators) is part of the larger 
 [Edinburgh natural language processing group](http://groups.inf.ed.ac.uk/edinburghnlp/)
-and we collaborate with many people in Edinburgh and more widely. I am 
-also the co-director of the 
-[Centre for Doctoral Training in Data Science](http://datascience.inf.ed.ac.uk/), 
-which offers a four-year MSc + PhD programme.
+and we collaborate with many people in Edinburgh and more widely. 
+This year I will become co-director of the new
+[Centre for Doctoral Training in Natural Language Processing](https://edinburghnlp.inf.ed.ac.uk/cdt/).
+Currently I am co-director of the 
+[Centre for Doctoral Training in Data Science](http://datascience.inf.ed.ac.uk/).
+
 
 ## News
+* In February, the UK government announced its multi-million pound investment in a new
+[Centre for Doctoral Training in Natural Language Processing](https://edinburghnlp.inf.ed.ac.uk/cdt/)
+in Edinburgh, directed by my colleage [Mirella Lapata](http://homepages.inf.ed.ac.uk/mlap/).
+The centre is a collaboration between informatics, linguistics, psychology, and design.
+It will offer an innovative new PhD programme that integrates research and 
+teaching across these disciplines.
+I will be co-director. [Apply now!](https://edinburghnlp.inf.ed.ac.uk/cdt/)
+ 
 * I'm in the [Edinburgh Science Festival](https://www.sciencefestival.co.uk/festival)!
 My interactive talk about [language translation technologies](https://www.sciencefestival.co.uk/event-details/inside-google-translate)
 will be on April 10.
@@ -39,7 +49,7 @@ along with many other accomplishments.
 [EMNLP 2018](http://emnlp2018.org/). We taught [a week-long course](https://drive.google.com/drive/folders/1NtdhgieGKpnTvpYiBCUgkE-g0ygKDyE_) on 
 the same topic at [NASSLLI 2018](https://www.cmu.edu/nasslli2018/).
 
-## Current Highlights
+## Current Research Highlights
 
 <ul>
 {% for paper in site.data.papers.papers %}

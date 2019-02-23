@@ -2,21 +2,29 @@ papers:
   - layout: paper
     selected: yes
     paper-type: inproceedings
-    year: 2018
-    title: "Neural networks for cross-lingual negation scope detection"
-    authors: "Federico Fancellu, Adam Lopez, and Bonnie Webber"
-    booktitle: "arXiv preprint arXiv:1810.02156"
-    doc-url: https://arxiv.org/abs/1810.02156
-    venue: working
+    year: 2019
+    title: "The problem with probabilistic DAG automata for semantic graphs"
+    authors: "Ieva Vasiljeva, Sorcha Gilroy, and Adam Lopez"
+    booktitle: "Proceedings of NAACL-HLT"
+    doc-url: "https://arxiv.org/abs/1810.12266"
+    venue: conference
   - layout: paper
     selected: yes
-    year: 2018
+    paper-type: inproceedings
+    year: 2019
+    title: "Understanding learning dynamics of language models with SVCCA"
+    authors: "Naomi Saphra and Adam Lopez"
+    booktitle: "Proceedings of NAACL-HLT"
+    venue: conference 
+  - layout: paper
+    selected: yes
+    year: 2019
     paper-type: inproceedings
     title: "Pre-training on high-resource speech recognition improves low-resource speech-to-text translation"
     authors: "Sameer Bansal, Herman Kamper, Karen Livescu, Adam Lopez, and Sharon Goldwater"
-    booktitle: "arXiv preprint arXiv:1809.01431"
+    booktitle: "Proceedings of NAACL-HLT"
     doc-url: https://arxiv.org/abs/1809.01431
-    venue: working
+    venue: conference 
   - layout: paper
     year: 2018
     selected: yes
@@ -106,6 +114,15 @@ papers:
       find evidence that alignment increases with ability and with word 
       complexity.
   - layout: paper
+    selected: yes
+    paper-type: inproceedings
+    year: 2018
+    title: "Neural networks for cross-lingual negation scope detection"
+    authors: "Federico Fancellu, Adam Lopez, and Bonnie Webber"
+    booktitle: "arXiv preprint arXiv:1810.02156"
+    doc-url: https://arxiv.org/abs/1810.02156
+    venue: working
+  - layout: paper
     year: 2018
     paper-type: inproceedings
     selected: yes
@@ -137,7 +154,7 @@ papers:
   - layout: paper
     year: 2018
     paper-type: article
-    selected: yes
+    selected: no
     img: daga-cl
     title: Weighted DAG automata for semantic graphs
     authors: David Chiang, Frank Drewes, Daniel Gildea, Adam Lopez, and Giorgio Satta
@@ -218,7 +235,7 @@ papers:
       main results, with 75.49 UAS and 68.87
       LAS F-1 scores (average across 81 treebanks).
   - layout: paper
-    selected: yes
+    selected: no
     paper-type: inproceedings
     year: 2017
     img: prgg
@@ -244,7 +261,7 @@ papers:
       as a possible alternative. We provide a top-down parsing algorithm for RGL that runs
       in time linear in the size of the input graph.
   - layout: paper
-    selected: yes
+    selected: no
     paper-type: inproceedings
     year: 2017
     img: rgg
