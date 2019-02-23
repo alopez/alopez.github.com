@@ -61,7 +61,7 @@ papers:
   - layout: paper
     year: 2018
     paper-type: inproceedings
-    selected: yes
+    selected: no
     img: interspeech2018
     title: "Low-resource speech-to-text translation"
     authors: "Sameer Bansal, Herman Kamper, Karen Livescu, Adam Lopez, and Sharon Goldwater"
