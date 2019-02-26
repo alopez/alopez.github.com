@@ -16,6 +16,7 @@ papers:
     authors: "Naomi Saphra and Adam Lopez"
     booktitle: "Proceedings of NAACL-HLT"
     venue: conference 
+    doc-url: "https://arxiv.org/abs/1811.00225"
   - layout: paper
     selected: yes
     year: 2019
