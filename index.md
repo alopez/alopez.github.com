@@ -38,7 +38,7 @@ My interactive talk about [language translation technologies](https://www.scienc
 will be on April 10.
 
 * In January 2019, [Sorcha Gilroy](http://homepages.inf.ed.ac.uk/s1459276/) 
-successfully defended her [PhD thesis](https://drive.google.com/file/d/1yi_dyiOKXbZdVNcGy789A26FE7nAoTn0/view?usp=sharing) on Probabilistic Graph Formalisms for
+successfully defended her [PhD thesis](https://www.era.lib.ed.ac.uk/handle/1842/35606) on Probabilistic Graph Formalisms for
 Meaning Representations. During her time as a student, she 
 received an [oustanding paper award](https://naacl2018.wordpress.com/2018/04/11/outstanding-papers/)
 at [NAACL 2018](http://naacl2018.org/) and was a finalist in University of Edinburgh 
