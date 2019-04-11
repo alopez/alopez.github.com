@@ -516,6 +516,9 @@ after-pubs:
         items:
           -
             title: Co-director
+            detail: Center for Doctoral Training in Natural Language Processing, University of Edinburgh School of Informatics. Since 2019
+          -
+            title: Co-director
             detail: Center for Doctoral Training in Data Science, University of Edinburgh School of Informatics. Since 2017
           -
             title: Postgraduate selector
