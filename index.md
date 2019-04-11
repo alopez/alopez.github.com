@@ -33,10 +33,6 @@ It will offer an innovative new PhD programme that integrates research and
 teaching across these disciplines.
 I will be co-director. [Apply now!](https://edinburghnlp.inf.ed.ac.uk/cdt/)
  
-* I'm in the [Edinburgh Science Festival](https://www.sciencefestival.co.uk/festival)!
-My interactive talk about [language translation technologies](https://www.sciencefestival.co.uk/event-details/inside-google-translate)
-will be on April 10.
-
 * In January 2019, [Sorcha Gilroy](http://homepages.inf.ed.ac.uk/s1459276/) 
 successfully defended her [PhD thesis](https://www.era.lib.ed.ac.uk/handle/1842/35606) on Probabilistic Graph Formalisms for
 Meaning Representations. During her time as a student, she 

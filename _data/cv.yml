@@ -286,6 +286,9 @@ after-pubs:
   -
     heading: Public engagement
     items:
+      - title: Inside Google Translate
+        year: 2019
+        detail: Talk at Edinburgh Science Festival
       - title: When will Google Translate learn to translate poetry?
         year: 2018
         detail: Talk at Pint of Science festival
