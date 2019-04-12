@@ -104,17 +104,17 @@ understanding; here are some examples:
 that their models learn to represent linguistic properties of language 
 without any explicit guidance. But [recent work in machine learning](https://arxiv.org/abs/1611.03530) 
 suggests that deep models are simply very good at memorizing local 
-correlations. **What do these models really learn about language, and how can 
-we influence what they learn?** The goal of projects in this area is to first 
+correlations. **What do these models really learn about language?** The goal
+of projects in this area is to first 
 understand what, when, and how deep learning models learn about language; 
 we're interested in both mathematical perspectives on learning and 
 generalization, and linguistic or cognitive perspectives on what phenomena 
 [are](http://aclweb.org/anthology/W18-5417) or [aren't](http://aclweb.org/anthology/D18-1278) 
-acquired from text or [speech](https://arxiv.org/abs/1809.01431). With this 
-understanding, we would also like to influence what the models learn; for 
-example by attempting to remove [cultural biases](https://arxiv.org/abs/1707.09457) 
-or latent [demographic information](https://arxiv.org/abs/1808.06640) about 
-authors from learned representations.
+acquired from text or [speech](https://arxiv.org/abs/1809.01431). 
+We also want to understand what [cultural biases](https://arxiv.org/abs/1707.09457) 
+or latent [demographic information](https://arxiv.org/abs/1808.06640) these
+models learn, in order to understand the social implications of using 
+such models.
 
 * For a system to understand a text and answer questions about it, the 
 system must distill the meaning of the text into a set of facts (semantic 
