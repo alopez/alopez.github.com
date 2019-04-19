@@ -23,8 +23,8 @@ something about all of them from a diverse of group of collaborators.
 
 ## Prospective PhD students
 
-I expect take one or two new PhD students each year. I can take
-more than one student for 2019.
+I expect take one or two new PhD students each year. I am not able to
+take additional students in 2019, but will consider applicants for 2020.
 
 Interest in natural language processing is skyrocketing. There are many
 good things about this, but a downside is that I'm no longer able to 
