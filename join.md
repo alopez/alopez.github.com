@@ -23,8 +23,8 @@ something about all of them from a diverse of group of collaborators.
 
 ## Prospective PhD students
 
-I expect take one or two new PhD students each year. I am not able to
-take additional students in 2019, but will consider applicants for 2020.
+I expect take one or two new PhD students each year. I am no longer
+taking students for 2019.
 
 Interest in natural language processing is skyrocketing. There are many
 good things about this, but a downside is that I'm no longer able to 
@@ -113,8 +113,8 @@ generalization, and linguistic or cognitive perspectives on what phenomena
 acquired from text or [speech](https://arxiv.org/abs/1809.01431). 
 We also want to understand what [cultural biases](https://arxiv.org/abs/1707.09457) 
 or latent [demographic information](https://arxiv.org/abs/1808.06640) these
-models learn, in order to understand the social implications of using 
-such models.
+models learn, in order to understand the social implications of their 
+rapidly increasing use.
 
 * For a system to understand a text and answer questions about it, the 
 system must distill the meaning of the text into a set of facts (semantic 
