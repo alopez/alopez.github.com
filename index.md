@@ -25,13 +25,13 @@ Currently I am co-director of the
 
 
 ## News
-* In February, the UK government announced its multi-million pound investment in a new
+* In February 2019, the UK government announced its multi-million pound investment in a new
 [Centre for Doctoral Training in Natural Language Processing](https://edinburghnlp.inf.ed.ac.uk/cdt/)
 in Edinburgh, directed by my colleague [Mirella Lapata](http://homepages.inf.ed.ac.uk/mlap/).
 The centre is a collaboration between informatics, linguistics, psychology, and design.
 It will offer an innovative new PhD programme that integrates research and 
 teaching across these disciplines.
-I will be co-director. [Apply now!](https://edinburghnlp.inf.ed.ac.uk/cdt/)
+I will be co-director. 
  
 * In January 2019, [Sorcha Gilroy](http://homepages.inf.ed.ac.uk/s1459276/) 
 successfully defended her [PhD thesis](https://www.era.lib.ed.ac.uk/handle/1842/35606) on Probabilistic Graph Formalisms for
