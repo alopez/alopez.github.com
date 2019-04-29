@@ -25,6 +25,11 @@ Currently I am co-director of the
 
 
 ## News
+* In April 2019, [Nikolay Bogoychev](https://nbogoychev.com/) successfully
+defended his PhD thesis on Fast Machine Translation on Parallel and 
+Massively Parallel Hardware. Nick’s thesis shows how careful thinking about 
+memory accesses yields simple and very effective algorithms for MT.
+
 * In February 2019, the UK government announced its multi-million pound investment in a new
 [Centre for Doctoral Training in Natural Language Processing](https://edinburghnlp.inf.ed.ac.uk/cdt/)
 in Edinburgh, directed by my colleague [Mirella Lapata](http://homepages.inf.ed.ac.uk/mlap/).
@@ -40,11 +45,6 @@ received an [oustanding paper award](https://naacl2018.wordpress.com/2018/04/11/
 at [NAACL 2018](http://naacl2018.org/) and was a finalist in University of Edinburgh 
 [3-minute thesis competition](https://www.ed.ac.uk/institute-academic-development/postgraduate/doctoral/3mt/3mt-final),
 along with many other accomplishments.
-
-* Sorcha Gilroy and I gave a tutorial on 
-[Graph Formalisms for Meaning Representations](https://bit.ly/GraphFormalismsEMNLP) at
-[EMNLP 2018](http://emnlp2018.org/). We taught [a week-long course](https://drive.google.com/drive/folders/1NtdhgieGKpnTvpYiBCUgkE-g0ygKDyE_) on 
-the same topic at [NASSLLI 2018](https://www.cmu.edu/nasslli2018/).
 
 ## Current Research Highlights
 
