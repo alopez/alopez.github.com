@@ -23,10 +23,10 @@ something about all of them from a diverse of group of collaborators.
 
 ## Prospective PhD students
 
-I expect take one or two new PhD students each year. I am no longer
-taking students for 2019.
+*I am no longer taking students for 2019.* Beyond that I expect to take
+one or two students per year.
 
-Interest in natural language processing is skyrocketing. There are many
+Interest in natural language processing is skyrocketing. There are some
 good things about this, but a downside is that I'm no longer able to 
 respond personally to every prospective student who is interested in
 working with me. In fact, there's a good chance that you're reading
@@ -57,9 +57,7 @@ a research proposal. The School of Informatics advises you to contact
 prospective supervisors prior to applying, to discuss the topic of your
 proposal. Unfortunately, **I cannot advise you  on your research 
 proposal** due to the sheer number of applicants interested in natural
-language processing. So, if you contact me, I will simply refer you back to
-this page for advice. I don't do this to discourage you---Please do apply!
-If you name me as a potential supervisor, then your 
+language processing. But if you name me as a potential supervisor, then your 
 application will then be routed to me and I will read your proposal during 
 the normal admissions cycle, which takes place early in the calendar year. 
 
