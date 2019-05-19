@@ -4,10 +4,6 @@ phd-students-first:
     url: http://homepages.inf.ed.ac.uk/s1444673
     tagline: Low-resource speech translation. Co-advised with Sharon Goldwater.
   -
-    name: Nikolay Bogoychev
-    url: https://nbogoychev.com
-    tagline: Machine translation.
-  -
     name: Naomi Saphra
     url: http://nsaphra.github.io/ 
     tagline: Deep learning and social media.
@@ -46,13 +42,12 @@ former-phd:
   -
     name: Federico Fancellu
     url: https://ffancellu.github.io/
-    tagline: "PhD 2018. Primary advisor: Bonnie Webber."
+    tagline: "PhD 2018. Primary advisor: Bonnie Webber. Now at Samsung AI Center"
     description: >
       Federico's <a href="https://www.era.lib.ed.ac.uk/handle/1842/33038">thesis</a> 
       developed state-of-the-art models for computational detection
-      of negation in English and Chinese. He now a postdoc with my colleague
-      Mirella Lapata and we continue to collaborate with Sorcha Gilroy
-      on semantic parsing.
+      of negation in English and Chinese. During his postdoc with Mirella
+      Lapata, he collaborated with Sorcha Gilroy on semantic parsing.
   -
     name: Sorcha Gilroy
     url: http://homepages.inf.ed.ac.uk/s1459276/
@@ -63,6 +58,15 @@ former-phd:
       models of graphs, and presents several new results. Among her many
       accomplishments as a PhD student, she won an outstanding paper award
       at NAACL 2018.
+  -
+    name: Nikolay Bogoychev
+    url: https://nbogoychev.com/
+    tagline: PhD defended April 2019, to be conferred in July 2019.
+    description: >
+      Nikolay's thesis shows how careful thinking about memory accesses 
+      yields simple and very fast algorithms for machine translation on
+      parallel hardware. He is continuing this work as a postdoc in
+      the machine translation group at Edinburgh.
 former-masters:
   - 
     name: Despoina Christou
