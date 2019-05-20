@@ -23,7 +23,7 @@ something about all of them from a diverse of group of collaborators.
 
 ## Prospective PhD students
 
-*I am no longer taking students for 2019.* Beyond that I expect to take
+**I am no longer taking students for 2019.** Beyond that I expect to take
 one or two students per year.
 
 Interest in natural language processing is skyrocketing. There are some
