@@ -52,17 +52,21 @@ after-pubs:
     heading: Grants
     items:
       -
-        title: EAGER&#58; Formal and empirical foundations of semantics-preserving machine translation
-        year: 2013 &ndash; 2015
-        detail: National Science Foundation (USA), $150K
+        title: UKRI Centre for Doctoral Training in Natural Language Processing
+        year: 2019 &ndash; 2027
+        detail: Engineering and Physical Sciences Research Council, £6.8M. Co-I with Mirella Lapata (PI), Frank Keller, Simon King, Ivan Titov, and Kenneth Heafield
+      -
+        title: Amazon academic research award
+        year: 2016
+        detail: $60K
       - 
         title: Google faculty research award
         year: 2015
         detail: $52K
       -
-        title: Amazon academic research award
-        year: 2016
-        detail: $60K
+        title: EAGER&#58; Formal and empirical foundations of semantics-preserving machine translation
+        year: 2013 &ndash; 2015
+        detail: National Science Foundation (USA), $150K
   -
     heading: Invited Talks
     items:
