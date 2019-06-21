@@ -93,7 +93,6 @@ papers:
   - layout: paper
     year: 2018
     paper-type: inproceedings
-    selected: yes
     img: sigdial2018
     title: "Does ability affect alignment in second language tutorial dialogue?" 
     authors: "Arabella Sinclair, Adam Lopez, Christopher G. Lucas and Dragan Gašević"
@@ -115,7 +114,6 @@ papers:
       find evidence that alignment increases with ability and with word 
       complexity.
   - layout: paper
-    selected: yes
     paper-type: inproceedings
     year: 2018
     title: "Neural networks for cross-lingual negation scope detection"
@@ -126,7 +124,6 @@ papers:
   - layout: paper
     year: 2018
     paper-type: inproceedings
-    selected: yes
     img: inpress
     title: A structured syntax-semantics interface for English-AMR alignment
     authors: Ida Szubert, Adam Lopez, and Nathan Schneider
