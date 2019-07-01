@@ -42,7 +42,7 @@ former-phd:
   -
     name: Federico Fancellu
     url: https://ffancellu.github.io/
-    tagline: "PhD 2018. Primary advisor: Bonnie Webber. Now at Samsung AI Center"
+    tagline: "PhD 2018. Primary advisor: Bonnie Webber. Now at Samsung AI Center."
     description: >
       Federico's <a href="https://www.era.lib.ed.ac.uk/handle/1842/33038">thesis</a> 
       developed state-of-the-art models for computational detection
@@ -51,7 +51,7 @@ former-phd:
   -
     name: Sorcha Gilroy
     url: http://homepages.inf.ed.ac.uk/s1459276/
-    tagline: PhD defended January 2019, to be conferred in July 2019.
+    tagline: "PhD 2019. Now at peak.ai."
     description: >
       Sorcha's <a href="https://www.era.lib.ed.ac.uk/handle/1842/35606">thesis</a>
       surveys a range of mathematical tools for probabilistic generative
@@ -61,7 +61,7 @@ former-phd:
   -
     name: Nikolay Bogoychev
     url: https://nbogoychev.com/
-    tagline: PhD defended April 2019, to be conferred in July 2019.
+    tagline: "PhD 2019. Now researcher at the University of Edinburgh."
     description: >
       Nikolay's thesis shows how careful thinking about memory accesses 
       yields simple and very fast algorithms for machine translation on
