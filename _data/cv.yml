@@ -312,10 +312,7 @@ after-pubs:
       -
         heading: PhD students (as primary supervisor)
         items:
-          -
-            title: Nikolay Bogoychev
-            detail: PhD student at the University of Edinburgh since 2015
-          -
+         -
             title: Naomi Saphra
             detail: PhD student at University of Edinburgh since 2015, Johns Hopkins University 2013&ndash;2015 
           -
@@ -328,8 +325,11 @@ after-pubs:
             title: Jason Smith
             detail: PhD student at Johns Hopkins University from 2006 to 2013, advised from 2011 to 2013. Now at Google
           -
+            title: Nikolay Bogoychev
+            detail: PhD University of Edinburgh, 2019. Now researcher at University of Edinburgh
+          -
             title: Dr. Sorcha Gilroy
-            detail: PhD University of Edinburgh, 2019 (to be conferred in July)
+            detail: PhD University of Edinburgh, 2019. Now at peak.ai.
           -
             title: Dr. Michael Auli
             detail: PhD University of Edinburgh, 2012. Now at Facebook AI Research
