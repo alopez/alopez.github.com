@@ -192,16 +192,15 @@ exceptions.
 ### When to apply 
 
 I usually only review applications in winter admissions cycle.
-For a September start, apply by the second week of December in
-the preceding year. **For the 2019 intake of the new 
-[CDT in NLP](https://edinburghnlp.inf.ed.ac.uk/cdt), apply by the 29th of March).**
-That is not a hard deadline, but applying by then ensures that the school will 
+For a September start, the application deadline is usually in the 
+second week of December in the preceding year. 
+The deadline is not hard, but applying by then ensures that the school will 
 consider you for funding, which is crucial since we only make funded offers
-(unless you have a full outside scholarship).  
+(unless you have a full outside scholarship; read about self-funding above).  
 
 ### Chances of admission
 
-**I cannot advise you on your chances of admission**, which depend on factors 
+**I cannot advise you on your chances of admission**, which depend on many factors 
 outside your control or even mine. Graduate admissions is a very stochastic 
 process, so I advise you to apply widely.
 
@@ -237,8 +236,8 @@ allocation is not decided by me, so I cannot make any guarantees.
 
 ## Prospective interns and visitors
 
-**I do not currently have any openings for internships.** When I do, 
-I will list them here. Please do not send me an unsolicited application. 
+**I do not have any openings for internships.** 
+Please do not send me an unsolicited application. 
 
 ## Prospective visitors
 
@@ -248,4 +247,4 @@ If you are already visiting the university I am happy to talk about research.
 
 ## Prospective Postdocs
 
-**I do not currently have any openings for postdocs.**
+**I do not have any openings for postdocs.**
