@@ -15,12 +15,6 @@ order:  3
 ### PhD advisees
 {% include collaborator.html people=site.data.collaborators.phd-students-first %}
 
-### PhD student coauthors
-{% include collaborator.html people=site.data.collaborators.phd-students-second %}
-
-### MScR advisees
-{% include collaborator.html people=site.data.collaborators.mscr %}
-
 <!--
 <h4>Master's and undergraduate project students</h4>
 {% include collaborator.html people=page.project-students show=false %}
