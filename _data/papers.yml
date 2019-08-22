@@ -41,6 +41,34 @@ papers:
     doc-url: https://www.aclweb.org/anthology/N19-1006
     venue: conference 
   - layout: paper
+    year: 2019
+    paper-type: inproceedings
+    title: "Tutorbot Corpus: Evidence of Human-Agent Verbal Alignment in Second Language Learner Dialogues"
+    authors: "Arabella Sinclair, Kate McCurdy, Rafael Ferreira, Adam Lopez, Christopher G. Lucas, Dragan Gašević"
+    doc-url: http://homepages.inf.ed.ac.uk/s0934062/edm2019.pdf
+    venue: conference
+    booktitle: Proceedings of Educational Data Mining
+    booktitle-url: http://educationaldatamining.org/edm2019/
+    venue: conference
+  - layout: paper
+    year: 2019
+    paper-type: inproceedings
+    title: "I wanna talk like you: Speaker Adaptation to Dialogue Style in L2 Practice Conversation"
+    authors: "Arabella J. Sinclair, Rafael Ferreira, Dragan Gašević, Christopher G. Lucas, and Adam Lopez"
+    doc-url: http://homepages.inf.ed.ac.uk/s0934062/aied2019.pdf
+    venue: conference
+    booktitle: Proceedings of AIED
+    booktitle-url: https://caed-lab.com/aied2019/
+  - layout: paper
+    year: 2019
+    paper-type: inproceedings
+    title: Sparsity Emerges Naturally in Neural Language Models
+    authors: Naomi Saphra and Adam Lopez
+    doc-url: https://openreview.net/forum?id=H1ets1h56E
+    venue: workshop
+    booktitle: ICML Workshop on Identifying and Understanding Deep Learning Phenomena
+    booktitle-url: http://deep-phenomena.org/
+  - layout: paper
     year: 2018
     selected: yes
     paper-type: inproceedings
