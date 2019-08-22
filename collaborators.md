@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Collaborators
+title:  Research group
 cover:  false
 menu:   true
 order:  3
@@ -39,14 +39,9 @@ order:  3
 ### Visiting students
 {% include collaborator.html people=site.data.collaborators.former-visitors %}
 
-## Collaborators past and present
-{% include collaborator.html people=site.data.collaborators.collaborators %}
-
 ---
 
-I am conservative about who I add to this list.
-It includes advisees and collaborators.
-If your information is out of date, please get in touch.
+If your information is out of date, please get in touch!
 
 
 

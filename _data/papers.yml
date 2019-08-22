@@ -1,5 +1,19 @@
 papers:
   - layout: paper
+    paper-type: inproceedings
+    year: 2019
+    title: "Semantic graph parsing with recurrent neural network DAG grammars"
+    authors: "Federico Fancellu, Sorcha Gilroy, Adam Lopez, and Mirella Lapata"
+    booktitle: "Proceedings of EMNLP"
+    venue: conference
+  - layout: paper
+    paper-type: inproceedings
+    year: 2019
+    title: " A systematic comparison of methods for low-resource dependency parsing on genuinely low-resource languages"
+    authors: "Clara Vania, Yova Kementchedjhieva, Anders Søgaard, and Adam Lopez"
+    booktitle: "Proceedings of EMNLP"
+    venue: conference
+  - layout: paper
     selected: yes
     paper-type: inproceedings
     year: 2019

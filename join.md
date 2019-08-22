@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Prospective collaborators
+title:  Prospective students
 cover:  false
 menu:   true
 order:  4

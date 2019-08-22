@@ -24,9 +24,9 @@ Currently I am co-director of the
 [Centre for Doctoral Training in Data Science](http://datascience.inf.ed.ac.uk/).
 
 
-## News
+## Recent News
 * In April 2019, [Nikolay Bogoychev](https://nbogoychev.com/) successfully
-defended his PhD thesis on Fast Machine Translation on Parallel and 
+defended [his PhD thesis](https://www.era.lib.ed.ac.uk/handle/1842/35886) on Fast Machine Translation on Parallel and 
 Massively Parallel Hardware. Nick’s thesis shows how careful thinking about 
 memory accesses yields simple and very effective algorithms for MT.
 
@@ -35,8 +35,7 @@ memory accesses yields simple and very effective algorithms for MT.
 in Edinburgh, directed by my colleague [Mirella Lapata](http://homepages.inf.ed.ac.uk/mlap/).
 The centre is a collaboration between informatics, linguistics, psychology, and design.
 It will offer an innovative new PhD programme that integrates research and 
-teaching across these disciplines.
-I will be co-director. 
+teaching across these disciplines. I will be co-director. 
  
 * In January 2019, [Sorcha Gilroy](http://homepages.inf.ed.ac.uk/s1459276/) 
 successfully defended her [PhD thesis](https://www.era.lib.ed.ac.uk/handle/1842/35606) on Probabilistic Graph Formalisms for
@@ -46,7 +45,7 @@ at [NAACL 2018](http://naacl2018.org/) and was a finalist in University of Edinb
 [3-minute thesis competition](https://www.ed.ac.uk/institute-academic-development/postgraduate/doctoral/3mt/3mt-final),
 along with many other accomplishments.
 
-## Current Research Highlights
+## Recent Research Highlights
 
 <ul>
 {% for paper in site.data.papers.papers %}
