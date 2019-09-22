@@ -25,18 +25,27 @@ I am also the outgoing co-director of the
 
 
 ## Recent News
-* In April 2019, [Nikolay Bogoychev](https://nbogoychev.com/) successfully
+* In September 2019, [Clara Vania](https://claravania.github.io/) successfully
+defended her PhD theisis, On Understanding Character-level Models for Representing Morphology.
+Clara's thesis carefully teases apart cases in which neural character-level
+models successfully mimic the relationship between form and function in morphology,
+and cases where they don't, across a variety of typologically different languages.
+
+* In September 2019, the 
+[Centre for Doctoral Training in Natural Language Processing](https://edinburghnlp.inf.ed.ac.uk/cdt/)
+[welcomed its first students](https://twitter.com/EdinburghNLP/status/1173630819652579338)
+The centre, directed by my colleague [Mirella Lapata](http://homepages.inf.ed.ac.uk/mlap/),
+is a collaboration between informatics, linguistics, psychology, and design.
+It offers an innovative new PhD programme that integrates research and 
+teaching across these disciplines, and is supported in part by a 
+multi-million pound [training grant from the UK government](https://www.ukri.org/research/themes-and-programmes/ukri-cdts-in-artificial-intelligence/). I am 
+the co-director. 
+
+ * In April 2019, [Nikolay Bogoychev](https://nbogoychev.com/) successfully
 defended [his PhD thesis](https://www.era.lib.ed.ac.uk/handle/1842/35886) on Fast Machine Translation on Parallel and 
 Massively Parallel Hardware. Nick’s thesis shows how careful thinking about 
 memory accesses yields simple and very effective algorithms for MT.
 
-* In February 2019, the UK government announced its multi-million pound investment in a new
-[Centre for Doctoral Training in Natural Language Processing](https://edinburghnlp.inf.ed.ac.uk/cdt/)
-in Edinburgh, directed by my colleague [Mirella Lapata](http://homepages.inf.ed.ac.uk/mlap/).
-The centre is a collaboration between informatics, linguistics, psychology, and design.
-It will offer an innovative new PhD programme that integrates research and 
-teaching across these disciplines. I will be co-director. 
- 
 * In January 2019, [Sorcha Gilroy](http://homepages.inf.ed.ac.uk/s1459276/) 
 successfully defended her [PhD thesis](https://www.era.lib.ed.ac.uk/handle/1842/35606) on Probabilistic Graph Formalisms for
 Meaning Representations. During her time as a student, she 
