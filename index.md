@@ -19,17 +19,25 @@ at the [University of Edinburgh](https://www.ed.ac.uk/).
 and we collaborate with many people in Edinburgh and more widely. 
 I am the co-director of the 
 [Centre for Doctoral Training in Natural Language Processing](https://edinburghnlp.inf.ed.ac.uk/cdt/),
-which will welcome its first students in September 2019.
+which welcomed its first students in September 2019.
 I am also the outgoing co-director of the 
 [Centre for Doctoral Training in Data Science](http://datascience.inf.ed.ac.uk/).
 
 
 ## Recent News
+* In September 2019, [Arabella Jane Sinclair](http://homepages.inf.ed.ac.uk/s0934062/)
+successfully defended her PhD thesis on Modelling Speaker Adaptation in Second 
+Language Learner Dialogue. Arabella's thesis shows that students and tutors
+adapt to each other in conversation across many different dimensions, and that
+the nature of this adaptation depends on the student's ability. She is
+starting a postdoc at the University of Amsterdam.
+
 * In September 2019, [Clara Vania](https://claravania.github.io/) successfully
 defended her PhD theisis, On Understanding Character-level Models for Representing Morphology.
 Clara's thesis carefully teases apart cases in which neural character-level
 models successfully mimic the relationship between form and function in morphology,
 and cases where they don't, across a variety of typologically different languages.
+She is starting a postdoc at New York University.
 
 * In September 2019, the 
 [Centre for Doctoral Training in Natural Language Processing](https://edinburghnlp.inf.ed.ac.uk/cdt/)
@@ -44,7 +52,8 @@ the co-director.
  * In April 2019, [Nikolay Bogoychev](https://nbogoychev.com/) successfully
 defended [his PhD thesis](https://www.era.lib.ed.ac.uk/handle/1842/35886) on Fast Machine Translation on Parallel and 
 Massively Parallel Hardware. Nick’s thesis shows how careful thinking about 
-memory accesses yields simple and very effective algorithms for MT.
+memory accesses yields simple and very effective algorithms for MT. He is 
+now a postdoc at the University of Edinburgh.
 
 * In January 2019, [Sorcha Gilroy](http://homepages.inf.ed.ac.uk/s1459276/) 
 successfully defended her [PhD thesis](https://www.era.lib.ed.ac.uk/handle/1842/35606) on Probabilistic Graph Formalisms for
@@ -52,7 +61,7 @@ Meaning Representations. During her time as a student, she
 received an [oustanding paper award](https://naacl2018.wordpress.com/2018/04/11/outstanding-papers/)
 at [NAACL 2018](http://naacl2018.org/) and was a finalist in University of Edinburgh 
 [3-minute thesis competition](https://www.ed.ac.uk/institute-academic-development/postgraduate/doctoral/3mt/3mt-final),
-along with many other accomplishments.
+along with many other accomplishments. She is now a data scientist at Peak.ai.
 
 ## Recent Research Highlights
 

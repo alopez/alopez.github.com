@@ -8,10 +8,7 @@ phd-students-first:
     url: http://nsaphra.github.io/ 
     tagline: Learning dynamics of neural models.
 
-  -
-    name: Janie Sinclair
-    url: http://homepages.inf.ed.ac.uk/s0934062/
-    tagline: "Dialoge and second-language learning. Primary advisor: Dragan Gašević. Co-advised with Chris Lucas."
+
   -
     name: Kate McCurdy
     url: http://www.inf.ed.ac.uk/people/students/Katherine_Anne_McCurdy.html
@@ -19,7 +16,7 @@ phd-students-first:
   - 
     name: Katarzyna Pruś
     url: https://www.inf.ed.ac.uk/people/students/Katarzyna_Prus.html
-    tagline: Modeling morphology
+    tagline: Modeling aspect.
 project-students:
 former-phd:
   -
@@ -70,6 +67,14 @@ former-phd:
       Clara's thesis teases apart the interaction between morphology, typology,
       and character-level neural models, showing where the latter successfully
       mimic the mapping from form to function, and cases where they don't.
+  - name: Arabella Jane Sinclair
+    url: http://homepages.inf.ed.ac.uk/s0934062/
+    tagline: PhD defended 2019. Advised with Dragan Gašević and Chris Lucas.  Next job&colon; postdoc at University of Amsterdam
+    description: >
+      Arabella's thesis shows that when learning a second language through
+      conversation, students and their tutors adapt to each other across
+      many different dimensions, and that the nature of this adaptation
+      depends on the student's ability in the language.
 former-masters:
   - 
     name: Despoina Christou
