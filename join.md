@@ -23,9 +23,10 @@ something about all of them from a diverse of group of collaborators.
 
 ## Prospective PhD students
 
-**I am no longer taking students for 2019.** I don't yet know whether I 
-will take students in 2020. Beyond that I expect to take
-one or two students per year.
+**I will take at most one new student 2020**. Beyond that I expect to 
+take one or two students per year. Good advising takes time, and
+taking more students than this would make it difficult for me to spend 
+sufficient time with the students I'm already working with.
 
 Interest in natural language processing is skyrocketing. There are some
 good things about this, but a downside is that I'm no longer able to 
@@ -168,15 +169,24 @@ and a PhD definitely requires that commitment.)
 Read more about the application process
 [here](http://www.ed.ac.uk/informatics/postgraduate/apply).
 
+### When to apply 
+
+I only review applications in winter admissions cycle.
+For a September 2020 start, the application deadline is November 29, 2019. 
+The deadline is not hard, but applying by then ensures that the school will 
+consider you for funding, which is crucial since we only make funded offers
+(unless you have a full outside scholarship; read about self-funding above).  
+
 ### Self-funded students
 
 If you have full funding from a fellowship that will pay for your tuition
 and a living stipend, that's great! The purpose of your fellowship is to
 enable you to pursue your intellectual interests, and if we have interests
 in common, I'm happy to discuss them with you. Having a fellowship makes
-admissions easier because it isn't contingent on funding, but **it is still
-crucial that we have mutual research interests**. If you have a fellowship,
-but you want me to advise you on a topic that is very far from my interests,
+your admission easier because it isn't contingent on funding, but **it is still
+crucial that  I have capacity to take a new student and that we have 
+mutual research interests**. If you have a fellowship, but I am at capacity,
+or you want me to advise you on a topic that is very far from my interests,
 I will decline---such an arrangement wouldn't benefit either of us.
 
 **I do not take self-funded PhD students who pay out of their own pockets.** This
@@ -189,19 +199,10 @@ fund, or who are able to obtain a fellowship. I am acutely aware that this
 means that I can't work with many good applicants, but I will not make 
 exceptions. 
 
-### When to apply 
-
-I usually only review applications in winter admissions cycle.
-For a September start, the application deadline is usually in the 
-second week of December in the preceding year. 
-The deadline is not hard, but applying by then ensures that the school will 
-consider you for funding, which is crucial since we only make funded offers
-(unless you have a full outside scholarship; read about self-funding above).  
-
 ### Chances of admission
 
 **I cannot advise you on your chances of admission**, which depend on many factors 
-outside your control or even mine. Graduate admissions is a very stochastic 
+outside your control or even mine. PhD admissions is a very stochastic 
 process, so I advise you to apply widely.
 
 ## Prospective MSc, MScR, or MPhil students
