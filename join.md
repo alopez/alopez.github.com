@@ -23,8 +23,8 @@ something about all of them from a diverse of group of collaborators.
 
 ## Prospective PhD students
 
-**I will take at most one new student 2020**. Beyond that I expect to 
-take one or two students per year. Good advising takes time, and
+**I will take at most one new student in September 2020**. Beyond that 
+I expect to take one or two students per year. Good advising takes time, and
 taking more students than this would make it difficult for me to spend 
 sufficient time with the students I'm already working with.
 
