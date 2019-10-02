@@ -1,10 +1,12 @@
 papers:
   - layout: paper
     paper-type: inproceedings
+    selected: yes
     year: 2019
     title: "Semantic graph parsing with recurrent neural network DAG grammars"
     authors: "Federico Fancellu, Sorcha Gilroy, Adam Lopez, and Mirella Lapata"
     booktitle: "Proceedings of EMNLP"
+    doc-url: https://arxiv.org/abs/1910.00051
     venue: conference
   - layout: paper
     selected: yes
