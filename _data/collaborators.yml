@@ -4,11 +4,9 @@ phd-students-first:
     url: http://homepages.inf.ed.ac.uk/s1444673
     tagline: Low-resource speech translation. Co-advised with Sharon Goldwater.
   -
-    name: Naomi Saphra
-    url: http://nsaphra.github.io/ 
-    tagline: Learning dynamics of neural models.
-
-
+    name: Seraphina Goldfarb-Tarrant
+    url: https://seraphinatarrant.github.io/
+    tagline: Bias in NLP models.
   -
     name: Kate McCurdy
     url: http://www.inf.ed.ac.uk/people/students/Katherine_Anne_McCurdy.html
@@ -16,7 +14,11 @@ phd-students-first:
   - 
     name: Katarzyna Pruś
     url: https://www.inf.ed.ac.uk/people/students/Katarzyna_Prus.html
-    tagline: Modeling aspect.
+    tagline: Modeling grammatical aspect.
+  -
+    name: Naomi Saphra
+    url: http://nsaphra.github.io/ 
+    tagline: Learning dynamics of neural NLP models.
 project-students:
 former-phd:
   -
