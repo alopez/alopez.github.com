@@ -442,6 +442,9 @@ after-pubs:
       -
         heading: Examinations
         items:
+          - 
+            title: Dr. Duygu Ataman
+            detail: Thesis examiner. PhD, Universtiy of Trento, 2019
           -
             title: Dr. Pierre Godard 
             detail: "Rapporteur (reviewer/ examiner). PhD, LIMSI, 2019"
@@ -463,33 +466,6 @@ after-pubs:
           -
             title: Dr. Xingyi Song
             detail: Thesis examiner. PhD, University of Sheffield, 2016
-      -
-        heading: Annual reviews
-        items:
-          -
-            title: James Owers
-            detail: Annual review committee, University of Edinburgh, 2017 and 2019
-          -
-            title: Dr. Herman Kamper
-            detail: Thesis committee. PhD, University of Edinburgh, 2016
-          -
-            title: Dr. Bharat Ram Ambati
-            detail: Thesis committee. PhD, University of Edinburgh, 2016
-          -
-            title: Maria Nadejde
-            detail: Annual review committee. PhD, University of Edinburgh, 2018
-          -
-            title: Adam Teichert
-            detail: PhD candidacy committee, Johns Hopkins University, 2014
-          -
-            title: Dr. Loïc Dugast
-            detail: Thesis committee. PhD, University of Edinburgh, 2013
-          -
-            title: Dr. Hieu Hoang
-            detail: Thesis committee. PhD, University of Edinburgh, 2011
-          -
-            title: Niyue Tan
-            detail: First-year committee, University of Edinburgh, 2009
   -
     heading: Consulting
     items:
