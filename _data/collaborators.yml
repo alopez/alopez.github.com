@@ -1,8 +1,4 @@
 phd-students-first:
-  - 
-    name: Sameer Bansal
-    url: http://homepages.inf.ed.ac.uk/s1444673
-    tagline: Low-resource speech translation. Co-advised with Sharon Goldwater.
   -
     name: Seraphina Goldfarb-Tarrant
     url: https://seraphinatarrant.github.io/
@@ -70,13 +66,21 @@ former-phd:
       and character-level neural models, showing where the latter successfully
       mimic the mapping from form to function, and cases where they don't.
   - name: Arabella Jane Sinclair
-    url: http://homepages.inf.ed.ac.uk/s0934062/
+    url: https://staff.fnwi.uva.nl/a.j.sinclair/
     tagline: PhD defended 2019. Advised with Dragan Gašević and Chris Lucas.  Next job&colon; postdoc at University of Amsterdam
     description: >
       Arabella's thesis shows that when learning a second language through
       conversation, students and their tutors adapt to each other across
       many different dimensions, and that the nature of this adaptation
       depends on the student's ability in the language.
+  - 
+    name: Sameer Bansal
+    url: http://0xsameer.github.io
+    tagline: PhD defended 2019. Co-advised with Sharon Goldwater and Herman Kamper.
+    description: >
+      Sameer's thesis pushes the limits of what kind of system it is possible to
+      build if you only  have a few hours of speech paired with translations, with
+      potential applications in language documentation and crisis response.
 former-masters:
   - 
     name: Despoina Christou

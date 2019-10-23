@@ -25,22 +25,28 @@ I am also the outgoing co-director of the
 
 
 ## Recent News
-* In September 2019, [Arabella Jane Sinclair](http://homepages.inf.ed.ac.uk/s0934062/)
+* In October 2019, [Sameer Bansal](https://0xsameer.github.io/)
+successfully defended his PhD thesis on Low-Resource Speech Translation.
+Sameer's thesis pushes the limits of what kind of system it is possible to 
+build if you only  have a few hours of speech paired with translations, with
+potential applications in language documentation and crisis response.
+
+* In September 2019, [Arabella Jane Sinclair](https://staff.fnwi.uva.nl/a.j.sinclair/)
 successfully defended her PhD thesis on Modelling Speaker Adaptation in Second 
 Language Learner Dialogue. Arabella's thesis shows that students and tutors
 adapt to each other in conversation across many different dimensions, and that
 the nature of this adaptation depends on the student's ability. She is
-starting a postdoc at the University of Amsterdam.
+now a postdoc at the University of Amsterdam.
 
 * In September 2019, [Clara Vania](https://claravania.github.io/) successfully
 defended her PhD theisis, On Understanding Character-level Models for Representing Morphology.
 Clara's thesis carefully teases apart cases in which neural character-level
 models successfully mimic the relationship between form and function in morphology,
 and cases where they don't, across a variety of typologically different languages.
-She is starting a postdoc at New York University.
+She is now a postdoc at New York University.
 
 * In September 2019, the 
-[Centre for Doctoral Training in Natural Language Processing](https://edinburghnlp.inf.ed.ac.uk/cdt/)
+[Centre for Doctoral Training in Natural Language Processing](https://edin.ac/cdt-in-nlp)
 [welcomed its first students](https://twitter.com/EdinburghNLP/status/1173630819652579338)
 The centre, directed by my colleague [Mirella Lapata](http://homepages.inf.ed.ac.uk/mlap/),
 is a collaboration between informatics, linguistics, psychology, and design.
@@ -50,7 +56,7 @@ multi-million pound [training grant from the UK government](https://www.ukri.org
 the co-director. 
 
  * In April 2019, [Nikolay Bogoychev](https://nbogoychev.com/) successfully
-defended [his PhD thesis](https://www.era.lib.ed.ac.uk/handle/1842/35886) on Fast Machine Translation on Parallel and 
+defended his [PhD thesis](https://www.era.lib.ed.ac.uk/handle/1842/35886) on Fast Machine Translation on Parallel and 
 Massively Parallel Hardware. Nick’s thesis shows how careful thinking about 
 memory accesses yields simple and very effective algorithms for MT. He is 
 now a postdoc at the University of Edinburgh.
