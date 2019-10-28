@@ -60,14 +60,14 @@ former-phd:
   -
     name: Clara Vania
     url: https://claravania.github.io/
-    tagline: PhD defended 2019. Next job&colon; postdoc at New York University
+    tagline: PhD defended 2019. Now postdoc at New York University
     description: >
       Clara's thesis teases apart the interaction between morphology, typology,
       and character-level neural models, showing where the latter successfully
       mimic the mapping from form to function, and cases where they don't.
   - name: Arabella Jane Sinclair
     url: https://staff.fnwi.uva.nl/a.j.sinclair/
-    tagline: PhD defended 2019. Advised with Dragan Gašević and Chris Lucas.  Next job&colon; postdoc at University of Amsterdam
+    tagline: PhD defended 2019. Advised with Dragan Gašević and Chris Lucas.  Now postdoc at University of Amsterdam.
     description: >
       Arabella's thesis shows that when learning a second language through
       conversation, students and their tutors adapt to each other across
