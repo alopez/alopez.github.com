@@ -310,65 +310,54 @@ after-pubs:
     heading: Advising
     subsections:
       -
-        heading: PhD students (as primary supervisor)
+        heading: PhD students 
         items:
+          -
+            title: Seraphina Goldfarb-Tarrant
+            detail: PhD student at University of Edinburgh since 2019
+          -
+            title: Kate McCurdy 
+            detail: PhD student at University of Edinburgh since 2019
+          -
+            title: Katarzyna Pruś
+            detail: PhD student at University of Edinburgh since 2019
           -
             title: Naomi Saphra
             detail: PhD student at University of Edinburgh since 2015, Johns Hopkins University 2013&ndash;2015 
-          -
-            title: Clara Vania
-            detail: PhD student at the University of Edinburgh since 2015
-          -
-            title: Adithya Renduchintala
-            detail: PhD student at Johns Hopkins University since 2013, advised until 2014
-          -
-            title: Jason Smith
-            detail: PhD student at Johns Hopkins University from 2006 to 2013, advised from 2011 to 2013. Now at Google
-          -
-            title: Nikolay Bogoychev
-            detail: PhD University of Edinburgh, 2019. Now researcher at University of Edinburgh
-          -
-            title: Dr. Sorcha Gilroy
-            detail: PhD University of Edinburgh, 2019. Now at peak.ai.
-          -
-            title: Dr. Michael Auli
-            detail: PhD University of Edinburgh, 2012. Now at Facebook AI Research
       - 
-        heading: PhD students (as second supervisor)
+        heading: PhD alumni
         items:
           -
-            title: Ida Szubert
-            detail: PhD student at the University of Edinburgh since 2016. Primary advisor&#58; Mark Steedman
+            title: Dr. Sameer Bansal
+            detail: PhD, University of Edinburgh. Defended Oct 2019, to be conferred in 2020. Co-advised with Sharon Goldwater
           -
-            title: Sameer Bansal
-            detail: PhD student at the University of Edinburgh since 2016. Primary advisor&#58; Sharon Goldwater
+            title: Dr. Janie Sinclair
+            detail: PhD, University of Edinburgh. Defended Sep 2019, to be conferred in 2020. Co-advised with Dragan Gašević and Chris Lucas. Now postdoc at University of Amsterdam
           -
-            title: Joana Ribeiro
-            detail: MPhil student at the University of Edinburgh since 2015. Primary advisor&#58; Shay Cohen
+            title: Dr. Clara Vania
+            detail: PhD, University of Edinburgh. Defended Sep 2019, to be conferred in 2020. Now postdoc at New York University
           -
-            title: Marco Damonte
-            detail: PhD student at the University of Edinburgh since 2015. Primary advisor&#58; Shay Cohen
+            title: Dr. Nikolay Bogoychev
+            detail: PhD, University of Edinburgh, 2019. Now postdoc at University of Edinburgh
           -
-            title: Janie Sinclair
-            detail: PhD student at the University of Edinburgh since 2015. Primary advisor&#58; Dragan Gašević
+            title: Dr. Sorcha Gilroy
+            detail: PhD, University of Edinburgh, 2019. Now data scientist at peak.ai
           -
-            title: Jianpeng Cheng
-            detail: PhD University of Edinburgh, 2015. Primary advisor&#58; Mirella Lapata
+            title: Dr. Federico Fancellu 
+            detail: PhD, University of Edinburgh, 2018. Co-advised with Bonnie Webber. Now research scientist at Samsung AI Centre
           -
-            title: Federico Fancellu 
-            detail: PhD University of Edinburgh, 2018. Primary advisor&#58; Bonnie Webber
-          -
-            title: Dominikus Wetzel
-            detail: PhD University of Edinburgh, 2017. Primary advisor&#58; Bonnie Webber
+            title: Dr. Michael Auli
+            detail: PhD, University of Edinburgh, 2012. Now research scientist at Facebook AI Research
+ 
       -
         heading: Masters students
         items:
           -
             title: Kate McCurdy
-            detail: MScR student in Data Science, 2019. Co-advised with Sharon Goldwater
+            detail: MScR, 2019. Co-advised with Sharon Goldwater
           -
             title: Katarzyna Pruś
-            detail: MScR student in Data Science, 2019.
+            detail: MScR, 2019
           -
             title: Moise Lubwimi
             detail: "MInf, University of Edinburgh, 2018. Thesis: <i>Investigating English generation from Abstract Meaning</i>"
@@ -511,7 +500,7 @@ after-pubs:
             detail: Center for Doctoral Training in Natural Language Processing, University of Edinburgh School of Informatics. Since 2019
           -
             title: Co-director
-            detail: Center for Doctoral Training in Data Science, University of Edinburgh School of Informatics. Since 2017
+            detail: Center for Doctoral Training in Data Science, University of Edinburgh School of Informatics. 2017&ndash;19
           -
             title: Postgraduate selector
             detail: Institute for Language, Cognition, and Computation. 2016&ndash;2017
@@ -520,7 +509,7 @@ after-pubs:
             detail: University of Edinburgh School of Informatics. 2015&ndash;17
           -
             title: Executive committee
-            detail: Center for Doctoral Training in Data Science, University of Edinburgh School of Informatics. Since 2016
+            detail: Center for Doctoral Training in Data Science, University of Edinburgh School of Informatics. 2016
           -
             title: Academic steering committee 
             detail: Center for Doctoral Training in Data Science, University of Edinburgh School of Informatics. Since 2015

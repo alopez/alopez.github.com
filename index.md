@@ -17,11 +17,8 @@ at the [University of Edinburgh](https://www.ed.ac.uk/).
 [My research group](collaborators) is part of the larger 
 [Edinburgh natural language processing group](http://groups.inf.ed.ac.uk/edinburghnlp/)
 and we collaborate with many people in Edinburgh and more widely. 
-I am the co-director of the 
-[Centre for Doctoral Training in Natural Language Processing](https://edinburghnlp.inf.ed.ac.uk/cdt/),
-which welcomed its first students in September 2019.
-I am also the outgoing co-director of the 
-[Centre for Doctoral Training in Data Science](http://datascience.inf.ed.ac.uk/).
+I am also the co-director of the 
+[Centre for Doctoral Training in Natural Language Processing](https://edinburghnlp.inf.ed.ac.uk/cdt/).
 
 
 ## Recent News

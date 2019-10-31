@@ -249,4 +249,8 @@ If you are already visiting the university I am happy to talk about research.
 
 ## Prospective Postdocs
 
-**I do not have any openings for postdocs.**
+I do not currently have any openings for postdocs. You are welcome to 
+contact me if you expect to be looking for a postdoc in the future. It's
+a good idea to do this a year or so in advance, since it often takes
+time to arrange funding.
+
