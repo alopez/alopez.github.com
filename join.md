@@ -251,6 +251,7 @@ If you are already visiting the university I am happy to talk about research.
 
 I do not currently have any openings for postdocs. You are welcome to 
 contact me if you expect to be looking for a postdoc in the future. It's
-a good idea to do this a year or so in advance, since it often takes
-time to arrange funding.
+a good idea to do this half a year or even a year in advance, since it often takes
+time (and luck) to find funding. We may be able to work something out in 
+less time, but there are few guarantees in research funding.
 
