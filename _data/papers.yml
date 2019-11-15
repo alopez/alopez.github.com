@@ -6,7 +6,7 @@ papers:
     title: "Semantic graph parsing with recurrent neural network DAG grammars"
     authors: "Federico Fancellu, Sorcha Gilroy, Adam Lopez, and Mirella Lapata"
     booktitle: "Proceedings of EMNLP"
-    doc-url: https://arxiv.org/abs/1910.00051
+    doc-url: https://www.aclweb.org/anthology/D19-1278/
     venue: conference
   - layout: paper
     selected: yes
@@ -15,7 +15,7 @@ papers:
     title: " A systematic comparison of methods for low-resource dependency parsing on genuinely low-resource languages"
     authors: "Clara Vania, Yova Kementchedjhieva, Anders Søgaard, and Adam Lopez"
     booktitle: "Proceedings of EMNLP"
-    doc-url: https://arxiv.org/abs/1909.02857
+    doc-url: https://www.aclweb.org/anthology/D19-1102/
     venue: conference
   - layout: paper
     selected: yes
