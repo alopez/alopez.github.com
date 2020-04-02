@@ -65,7 +65,7 @@ former-phd:
     url: https://claravania.github.io/
     tagline: PhD defended 2019. Now postdoc at New York University
     description: >
-      Clara's thesis teases apart the interaction between morphology, typology,
+      Clara's <a href="https://era.ed.ac.uk/handle/1842/36742">thesis</a> teases apart the interaction between morphology, typology,
       and character-level neural models, showing where the latter successfully
       mimic the mapping from form to function, and cases where they don't.
   - name: Arabella Jane Sinclair
@@ -79,9 +79,9 @@ former-phd:
   - 
     name: Sameer Bansal
     url: http://0xsameer.github.io
-    tagline: PhD defended 2019. Co-advised with Sharon Goldwater and Herman Kamper.
+    tagline: PhD defended 2019. Co-advised with Sharon Goldwater and Herman Kamper. Now researcher at Bloomberg.
     description: >
-      Sameer's thesis pushes the limits of what kind of system it is possible to
+      Sameer's <a href="https://era.ed.ac.uk/handle/1842/36781">thesis</a> pushes the limits of what kind of system it is possible to
       build if you only  have a few hours of speech paired with translations, with
       potential applications in language documentation and crisis response.
 former-masters:

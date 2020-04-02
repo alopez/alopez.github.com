@@ -23,13 +23,13 @@ I am also the co-director of the
 
 ## Recent News
 * In 2019, five of my PhD students successfully defended their theses:
-  - [Sameer Bansal](https://0xsameer.github.io/), whose thesis was on 
-    Low-Resource Speech Translation.
+  - [Sameer Bansal](https://0xsameer.github.io/), whose [thesis](https://era.ed.ac.uk/handle/1842/36781) was on 
+    Low-Resource Speech Translation. He is now a researcher at Bloomberg.
   - [Arabella Jane Sinclair](https://staff.fnwi.uva.nl/a.j.sinclair/),
     whose thesis was on Modelling Speaker Adaptation in Second 
     Language Learner Dialogue. 
     She is now a postdoctoral researcher at the University of Amsterdam.
-  - [Clara Vania](https://claravania.github.io/), whose thesis was 
+  - [Clara Vania](https://claravania.github.io/), whose [thesis](https://era.ed.ac.uk/handle/1842/36742) was 
     On Understanding Character-level Models for Representing Morphology.
     She is now a postdoctoral researcher at New York University.
   - [Nikolay Bogoychev](https://nbogoychev.com/),
