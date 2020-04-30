@@ -21,7 +21,7 @@ order:  2
 * Autumn 2019: Doing Research in NLP, a seminar course for the [CDT in NLP](https://edin.ac/cdt-in-nlp)
 * Spring 2019: [Natural language understanding, generation, and machine translation](https://course.inf.ed.ac.uk/nlu+)
 * Spring 2018: [Natural language understanding](https://www.inf.ed.ac.uk/teaching/courses/nlu/)
-* Spring 2015, 16, &amp; 17: [Machine translation](https://alopez.github.io/mt-class/)
+* Spring 2015, 16, &amp; 17 (completely rewritten!): [Machine translation](https://alopez.github.io/mt-class/)
 * Autumn 2016: [Informatics 2A: Processing formal and natural languages](http://www.inf.ed.ac.uk/teaching/courses/inf2a/)
 
 ## Courses at Johns Hopkins University
