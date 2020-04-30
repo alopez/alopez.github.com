@@ -26,7 +26,7 @@ I am also the co-director of the
   - [Sameer Bansal](https://0xsameer.github.io/), whose [thesis](https://era.ed.ac.uk/handle/1842/36781) was on 
     Low-Resource Speech Translation. He is now a researcher at Bloomberg.
   - [Arabella Jane Sinclair](https://staff.fnwi.uva.nl/a.j.sinclair/),
-    whose thesis was on Modelling Speaker Adaptation in Second 
+    whose [thesis](https://era.ed.ac.uk/handle/1842/37009) was on Modelling Speaker Adaptation in Second 
     Language Learner Dialogue. 
     She is now a postdoctoral researcher at the University of Amsterdam.
   - [Clara Vania](https://claravania.github.io/), whose [thesis](https://era.ed.ac.uk/handle/1842/36742) was 
@@ -41,8 +41,6 @@ I am also the co-director of the
     [thesis](https://www.era.lib.ed.ac.uk/handle/1842/35606) was on 
     Probabilistic Graph Formalisms for Meaning Representations. 
     She is now a data scientist at Peak.ai.
-
-
 
 * In September 2019, the 
 [Centre for Doctoral Training in Natural Language Processing](https://edin.ac/cdt-in-nlp)

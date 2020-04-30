@@ -1,6 +1,15 @@
 papers:
   - layout: paper
     paper-type: inproceedings
+    year: 2020
+    title: "Cross-lingual topic prediction for speech using translations"
+    authors: "Sameer Bansal, Herman Kamper, Adam Lopez, and Sharon Goldwater"
+    booktitle: "Proceedings of ICASSP"
+    doc-url: https://arxiv.org/abs/1908.11425
+    venue: conference
+    selected: yes
+  - layout: paper
+    paper-type: inproceedings
     selected: yes
     year: 2019
     title: "Semantic graph parsing with recurrent neural network DAG grammars"
