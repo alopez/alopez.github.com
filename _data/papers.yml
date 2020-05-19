@@ -2,6 +2,15 @@ papers:
   - layout: paper
     paper-type: inproceedings
     year: 2020
+    title: "Inflecting when there's no majority: Limitations of encoder-decoder neural networks as cognitive models for German plurals"
+    authors: "Kate McCurdy, Sharon Goldwater, and Adam Lopez"
+    booktitle: "Proceedings of ACL"
+    venue: conference
+    selected: yes
+    doc-url: https://arxiv.org/abs/2005.08826
+  - layout: paper
+    paper-type: inproceedings
+    year: 2020
     title: "Cross-lingual topic prediction for speech using translations"
     authors: "Sameer Bansal, Herman Kamper, Adam Lopez, and Sharon Goldwater"
     booktitle: "Proceedings of ICASSP"
