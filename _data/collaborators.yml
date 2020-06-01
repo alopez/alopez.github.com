@@ -3,6 +3,10 @@ phd-students-first:
     name: Seraphina Goldfarb-Tarrant
     url: https://seraphinatarrant.github.io/
     tagline: Bias in NLP models.
+  -
+    name: Andreas Grivas
+    url: http://grv.overfit.xyz/
+    tagline: MSc 2017. Structured prediction.
   - 
     name: Julie-Anne Meaney
     tagline: Computational humour. Co-advised with Walid Magdy.
@@ -90,10 +94,6 @@ former-masters:
     name: Despoina Christou
     url: https://www.linkedin.com/in/despoinachristou
     tagline: MSc 2016. Now PhD student at Aristotle University of Thessaloniki.
-  -
-    name: Andreas Grivas
-    url: http://grv.overfit.xyz/
-    tagline: MSc 2017. Now research associate at University of Edinburgh.
   -
     name: Yova Kementchedjhieva
     url: https://yovakem.github.io/
