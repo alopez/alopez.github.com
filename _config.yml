@@ -28,7 +28,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  Researcher in <br/> Natural Language Processing
+  Natural Language Processing Researcher
 
 # A list of keywords for your blog.
 keywords:              []
@@ -41,8 +41,8 @@ author:
   name:                Adam Lopez
   picture:             /assets/img/me.jpg
   social:
-    email:               'alopez@inf.ed.ac.uk'
     github:              alopez
+    email:               'adam.d.lopez@gmail.com'
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             >

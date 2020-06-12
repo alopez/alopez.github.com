@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Research group
+title:  Research students
 cover:  false
 menu:   true
 order:  3

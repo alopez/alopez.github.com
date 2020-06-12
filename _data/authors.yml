@@ -17,8 +17,8 @@ author1:
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
-    email:             alopez@inf.ed.ac.uk
-    github:            alopez
+    github:           alopez
+    email:            'adam.d.lopez@gmail.com'
     # twitter:           there_are_two_
     # linkedin:        <firstname-lastname-string>
 

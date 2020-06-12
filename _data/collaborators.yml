@@ -39,7 +39,7 @@ former-phd:
   -
     name: Federico Fancellu
     url: https://ffancellu.github.io/
-    tagline: "PhD 2018. Primary advisor: Bonnie Webber. Now at Samsung AI Center."
+    tagline: "PhD 2018, co-advised with Bonnie Webber. Now at Samsung AI Center."
     description: >
       Federico's <a href="https://www.era.lib.ed.ac.uk/handle/1842/33038">thesis</a> 
       developed state-of-the-art models for computational detection
@@ -58,7 +58,7 @@ former-phd:
   -
     name: Nikolay Bogoychev
     url: https://nbogoychev.com/
-    tagline: "PhD 2019. Now researcher at the University of Edinburgh."
+    tagline: "PhD 2019. Now postdoc at the University of Edinburgh."
     description: >
       Nikolay's <a href="https://www.era.lib.ed.ac.uk/handle/1842/35886">thesis</a> shows how careful thinking about memory accesses 
       yields simple and very fast algorithms for machine translation on
@@ -67,7 +67,7 @@ former-phd:
   -
     name: Clara Vania
     url: https://claravania.github.io/
-    tagline: PhD defended 2019. Now postdoc at New York University.
+    tagline: PhD 2020. Now postdoc at New York University.
     description: >
       Clara's <a href="https://era.ed.ac.uk/handle/1842/36742">thesis</a> teases apart the interaction between morphology, typology,
       and character-level neural models, showing where the latter successfully
@@ -75,7 +75,7 @@ former-phd:
   - 
     name: Arabella Jane Sinclair
     url: https://staff.fnwi.uva.nl/a.j.sinclair/
-    tagline: PhD defended 2019. Advised with Dragan Gašević and Chris Lucas.  Now postdoc at University of Amsterdam.
+    tagline: PhD 2020, co-advised with Dragan Gašević and Chris Lucas.  Now postdoc at University of Amsterdam.
     description: >
       Arabella's <a href="https://era.ed.ac.uk/handle/1842/37009">thesis</a> shows that when learning a second language through
       conversation, students and their tutors adapt to each other across
@@ -84,7 +84,7 @@ former-phd:
   - 
     name: Sameer Bansal
     url: http://0xsameer.github.io
-    tagline: PhD defended 2019. Co-advised with Sharon Goldwater and Herman Kamper. Now researcher at Bloomberg.
+    tagline: PhD 2020, co-advised with Sharon Goldwater and Herman Kamper. Now researcher at Bloomberg.
     description: >
       Sameer's <a href="https://era.ed.ac.uk/handle/1842/36781">thesis</a> pushes the limits of what kind of system it is possible to
       build if you only  have a few hours of speech paired with translations, with
@@ -114,7 +114,7 @@ former-masters:
   -
     name: Adithya Renduchintala
     url: https://arendu.github.io/
-    tagline: PhD student at Johns Hopkins University. Adi amicably switched advisors after I moved to the University of Edinburgh, and is still at Johns Hopkins. 
+    tagline: I was Adi's PhD advisor during his first year at Johns Hopkins University, and he amicably switched advisors when I moved to the University of Edinburgh. He completed his PhD at JHU and is now a research scientist at Facebook AI. 
   -
     name: Jason R. Smith
     tagline: former PhD student at Johns Hopkins University. Now at Google.
