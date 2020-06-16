@@ -4,22 +4,20 @@ title: About me
 cover: false
 ---
 
-I develop computational models of natural language learning, 
-understanding and generation in people and machines, and my research 
-focuses on basic scientific problems related to these models. I am 
-especially interested in modeling the rich diversity of linguistic
-phenomena across the world’s languages. 
-
-I am a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank))
+I am a Reader (Associate Professor) 
 in the [Institute for Language, Cognition, and Computation](http://web.inf.ed.ac.uk/ilcc)
 in the [School of Informatics](http://web.inf.ed.ac.uk/)
-at the [University of Edinburgh](https://www.ed.ac.uk/). 
-[My research group](collaborators) is part of the larger 
-[Edinburgh natural language processing group](http://groups.inf.ed.ac.uk/edinburghnlp/)
-and we collaborate with many people in Edinburgh and more widely. 
-I am also the co-director of the 
-[Centre for Doctoral Training in Natural Language Processing](https://edinburghnlp.inf.ed.ac.uk/cdt/).
+at the [University of Edinburgh](https://www.ed.ac.uk/).
+My [research](papers) interests are broad, spanning many engineering, scientific,
+and mathematical problems in natural language processing.
+I advise [several PhD students](collaborators) in the
+[Edinburgh natural language processing group](http://groups.inf.ed.ac.uk/edinburghnlp/).
+I am not accepting new students.
 
+I have developed and taught [advanced courses in natural language processing](teaching)
+at Edinburgh and at Johns Hopkins University. I also developed and taught
+much of the training program for the 
+[UKRI Centre for Doctoral Training in Natural Language Processing](https://nlp-cdt.ac.uk/).
 
 ## Recent News
 * In 2019, five of my PhD students successfully defended their theses:
