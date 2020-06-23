@@ -3,23 +3,27 @@ layout: page
 title: About me
 cover: false
 ---
+In July, I will join the research team at [Rasa](https://rasa.com), which is building
+new capabilities into the standard infrastructure for conversational AI.
+My [research](papers) interests are broad, and I have worked on many engineering, scientific,
+and mathematical problems in natural language processing. 
 
-I am a Reader (Associate Professor) 
+I am currently a Reader (Associate Professor)
 in the [Institute for Language, Cognition, and Computation](http://web.inf.ed.ac.uk/ilcc)
 in the [School of Informatics](http://web.inf.ed.ac.uk/)
-at the [University of Edinburgh](https://www.ed.ac.uk/).
-My [research](papers) interests are broad, spanning many engineering, scientific,
-and mathematical problems in natural language processing.
-I advise [several PhD students](collaborators) in the
+at the [University of Edinburgh](https://www.ed.ac.uk/), where I 
+advise [several PhD students](collaborators) in the
 [Edinburgh natural language processing group](http://groups.inf.ed.ac.uk/edinburghnlp/).
 I am not accepting new students.
 
-I have developed and taught [advanced courses in natural language processing](teaching)
+I previously developed and taught [advanced courses in natural language processing](teaching)
 at Edinburgh and at Johns Hopkins University. I also developed and taught
-much of the training program for the 
-[UKRI Centre for Doctoral Training in Natural Language Processing](https://nlp-cdt.ac.uk/).
+much of the training program for the [UKRI Centre for Doctoral Training in Natural Language Processing](https://nlp-cdt.ac.uk/) 
+in its first year. 
 
 ## Recent News
+* In July 2020, I will join [Rasa](https://rasa.com), [leading a new research hub in Edinburgh](https://www.prnewswire.com/news-releases/rasa-raises-26m-in-series-b-funding-led-by-andreessen-horowitz-301081571.html).
+  
 * In 2019, five of my PhD students successfully defended their theses:
   - [Sameer Bansal](https://0xsameer.github.io/), whose [thesis](https://era.ed.ac.uk/handle/1842/36781) was on 
     Low-Resource Speech Translation. He is now a researcher at Bloomberg.
@@ -39,16 +43,6 @@ much of the training program for the
     [thesis](https://www.era.lib.ed.ac.uk/handle/1842/35606) was on 
     Probabilistic Graph Formalisms for Meaning Representations. 
     She is now a data scientist at Peak.ai.
-
-* In September 2019, the 
-[Centre for Doctoral Training in Natural Language Processing](https://edin.ac/cdt-in-nlp)
-[welcomed its first students](https://twitter.com/EdinburghNLP/status/1173630819652579338)
-The centre, directed by my colleague [Mirella Lapata](http://homepages.inf.ed.ac.uk/mlap/),
-is a collaboration between informatics, linguistics, psychology, and design.
-It offers an innovative new PhD programme that integrates research and 
-teaching across these disciplines, and is supported in part by a 
-multi-million pound [training grant from the UK government](https://www.ukri.org/research/themes-and-programmes/ukri-cdts-in-artificial-intelligence/). I am 
-the co-director. 
 
 ## Recent Research Highlights
 
