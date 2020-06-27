@@ -37,7 +37,7 @@ models of graphs.
 _I am on leave from the University and no longer teaching_
 
 * Academic year 2019&ndash;20: Doing Research in NLP, course for the [CDT in NLP](https://edin.ac/cdt-in-nlp)
-* Spring 2019: [Natural language understanding, generation, and machine translation](https://course.inf.ed.ac.uk/nlu+)
+* Spring 2019, 20: [Natural language understanding, generation, and machine translation](https://www.learn.ed.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_74870_1&content_id=_4290009_1)
 * Spring 2018: [Natural language understanding](https://www.inf.ed.ac.uk/teaching/courses/nlu/)
 * Autumn 2016: [Informatics 2A: Processing formal and natural languages](http://www.inf.ed.ac.uk/teaching/courses/inf2a/)
 * Spring 2015, 16, &amp; 17 (completely rewritten!): [Machine translation](https://alopez.github.io/mt-class/)
