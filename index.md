@@ -3,12 +3,12 @@ layout: page
 title: About me
 cover: false
 ---
-In July, I will join the research team at [Rasa](https://rasa.com), which is building
-new capabilities into the standard infrastructure for conversational AI.
+I am a researcher at [Rasa](https://rasa.com), which is building
+the standard infrastructure for conversational AI.
 My [research](papers) interests are broad, and I have worked on many engineering, scientific,
 and mathematical problems in natural language processing. 
 
-I am currently a Reader (Associate Professor)
+I am also a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank)) (on leave)
 in the [Institute for Language, Cognition, and Computation](http://web.inf.ed.ac.uk/ilcc)
 in the [School of Informatics](http://web.inf.ed.ac.uk/)
 at the [University of Edinburgh](https://www.ed.ac.uk/), where I 
@@ -22,7 +22,7 @@ much of the training program for the [UKRI Centre for Doctoral Training in Natur
 in its first year. 
 
 ## Recent News
-* In July 2020, I will join [Rasa](https://rasa.com), [leading a new research hub in Edinburgh](https://www.prnewswire.com/news-releases/rasa-raises-26m-in-series-b-funding-led-by-andreessen-horowitz-301081571.html).
+* In July 2020, I joined the research team at [Rasa](https://rasa.com)! I'm [leading a new research and product hub in Edinburgh](https://www.prnewswire.com/news-releases/rasa-raises-26m-in-series-b-funding-led-by-andreessen-horowitz-301081571.html).
   
 * In 2019, five of my PhD students successfully defended their theses:
   - [Sameer Bansal](https://0xsameer.github.io/), whose [thesis](https://era.ed.ac.uk/handle/1842/36781) was on 
