@@ -8,13 +8,13 @@ the standard infrastructure for conversational AI.
 My [research](papers) interests are broad, and I have worked on many engineering, scientific,
 and mathematical problems in natural language processing. 
 
-I am also a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank)) (on leave)
+I am also a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank)) 
 in the [Institute for Language, Cognition, and Computation](http://web.inf.ed.ac.uk/ilcc)
 in the [School of Informatics](http://web.inf.ed.ac.uk/)
 at the [University of Edinburgh](https://www.ed.ac.uk/), where I 
 continue to advise [several PhD students](collaborators) in the
 [Edinburgh natural language processing group](http://groups.inf.ed.ac.uk/edinburghnlp/).
-I am not accepting new students.
+I am no longer accepting new students.
 
 I previously developed and taught [advanced courses in natural language processing](teaching)
 at Edinburgh and at Johns Hopkins University. I also developed and taught
