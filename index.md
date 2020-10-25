@@ -16,11 +16,6 @@ continue to advise [several PhD students](collaborators) in the
 [Edinburgh natural language processing group](http://groups.inf.ed.ac.uk/edinburghnlp/).
 I am no longer accepting new students.
 
-I previously developed and taught [advanced courses in natural language processing](teaching)
-at Edinburgh and at Johns Hopkins University. I also developed and taught
-much of the training program for the [UKRI Centre for Doctoral Training in Natural Language Processing](https://nlp-cdt.ac.uk/) 
-in its first year. 
-
 ## Recent News
 * In July 2020, I joined the research team at [Rasa](https://rasa.com)! I'm [leading a new research and product hub in Edinburgh](https://www.prnewswire.com/news-releases/rasa-raises-26m-in-series-b-funding-led-by-andreessen-horowitz-301081571.html).
   
