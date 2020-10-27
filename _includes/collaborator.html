@@ -1,7 +1,0 @@
-<ul>
-  {% for person in include.people %}
-  <li>{% if person.url %}<a href="{{ person.url }}">{% endif %}{{ person.name }}{% if person.url %}</a>{% endif %}, {{ person.tagline }}
-  {% if person.description %}<br/>{{ person.description }}{% endif %}</li>
-  {% endfor %}
-</ul>
-
