@@ -1,22 +1,13 @@
 ---
 layout: default
 ---
-I am a research manager at [Rasa](https://rasa.com), where we are building
-the standard infrastructure for conversational AI. Building good 
-conversational systems is hard, and the goal of our [research](https://rasa.com/research/)
-is to deliver tools that make it easier.
-
-My research interests are broad, and I have worked on many engineering, scientific,
-and mathematical problems in natural language processing. You can find my work
-in these places:
-
-- Most of my published research papers 
-  are on my [ACL Anthology page](https://www.aclweb.org/anthology/people/a/adam-lopez/)
-  along with accurate metadata curated by hand.
-- More papers, including preprints and non-ACL publications,
-  are on my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=u4sxKZwAAAAJ&view_op=list_works&sortby=pubdate) 
-  along with inaccurate metadata curated by machine.
-- My code is on [github](https://github.com/alopez). 
+I am a [research](https://rasa.com/research/) manager at [Rasa](https://rasa.com), where we are building
+the standard infrastructure for conversational AI. 
+My research interests are broad, and I have worked on many scientific, mathematical,
+and engineering problems in natural language processing. 
+Most of my research papers can be found on 
+the [ACL Anthology](https://www.aclweb.org/anthology/people/a/adam-lopez/)
+and/ or [Google Scholar](https://scholar.google.com/citations?hl=en&user=u4sxKZwAAAAJ&view_op=list_works&sortby=pubdate).
 
 I am also a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank)) 
 at the University of Edinburgh, where I am part of the
