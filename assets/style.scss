@@ -194,6 +194,13 @@ ul {
   list-style-type: disc;
 }
 
+@media (min-width: 650px) {
+  ul {
+    columns: 2;
+  }
+}
+
+
 ol {
   list-style-type: decimal;
 }
