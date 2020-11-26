@@ -14,6 +14,7 @@ at the University of Edinburgh, where I am part of the
 [Edinburgh natural language processing group](http://groups.inf.ed.ac.uk/edinburghnlp/).
 I am privileged to have worked with some immensely talented PhD students:
 
+<div class="students">
 - [Michael Auli](https://michaelauli.github.io/) (2012)
 - [Federico Fancellu](https://ffancellu.github.io/) (2018)
 - [Sorcha Gilroy](https://uk.linkedin.com/in/sorcha-gilroy-a6105693) (2019)
@@ -27,6 +28,7 @@ I am privileged to have worked with some immensely talented PhD students:
 - [Seraphina Goldfarb-Tarrant](https://seraphinatarrant.github.io/)
 - Julie-Anne Meaney
 - [Andreas Grivas](https://grv.overfit.xyz/)
+</div>
 
 I am no longer accepting new students.
 
