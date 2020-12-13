@@ -186,7 +186,6 @@ a {
 }
 
 ul, ol {
-  margin: 15px 0;
   padding-left: 30px;
 }
 
@@ -200,7 +199,6 @@ ul {
   }
 }
 
-
 ol {
   list-style-type: decimal;
 }
@@ -211,6 +209,10 @@ ol ul, ul ol, ul ul, ol ol {
 
 ul ul, ol ul {
   list-style-type: circle;
+}
+
+dt {
+  margin-top: 20px;
 }
 
 em, i {
