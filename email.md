@@ -2,42 +2,40 @@
 layout: default
 ---
 I get so much email that I simply cannot respond to all of it. So here
-is a brief guide on whether to email me and how. **Is your
-email...**
+is a brief guide on whether to email me and how. 
 
-**... about my work at Rasa?** 
+Are you interested in my work at Rasa? 
 : Email <a.lopez@rasa.com>. Please
   _do not_ send university-related emails to this address.
 
-**... from a friend and/ or former research student?**
+Are you a friend or a current or former research student?
 :  I would love to hear from you! Please email my personal
   address if you have it, otherwise one of the other addresses
   on this page.
 
-**... seeking an a studentship or other academic position with me?** 
+Are you seeking a studentship or other academic position with me?
 : I am no longer taking students or hiring
   for academic positions, so please don't email me. I wish
   you the best of luck, but there's nothing I can do to help you,
   so I will not respond to your email.
 
-**... about courses or programs of study at the university?** 
+Are you seeking information about courses or programs at the university?
 : I no longer teach nor direct academic 
   programes, so please don't email me. I wish you best of
   luck, but there's nothing I can do to help you, so I will
   not respond to your email.
 
-**... about university business?** 
+Are you interested in other university business? 
 : My work at the university is limited to advising
-  my current PhD students. If your email relates
-  to that, send it to <alopez@inf.ed.ac.uk>. I 
-  am unlikely to respond to other emails about university work,
-  unless it is something on which I am obliged or already committed.
-  Even when I am able to respond, my response may be slow. Please 
-  be patient, and do _not_ send university-related emails to 
+  my current PhD students. If your interest relates
+  to that, or to another university matter on which I am obliged 
+  or already commited, email <alopez@inf.ed.ac.uk>. I 
+  am unlikely to respond to emails about other university business.
+  Please be patient, and _do not_ send university-related emails to 
   other addresses.
 
-**... not in one of the above categories?** 
+Are you interested in something not covered by the categories above? 
 : It is unlikely
-  that I will respond. My time is finite, and every email I 
-  respond to chips away at time that I have for people and
+  that I will respond to emails on other topics. My time is finite, and every email I 
+  respond to chips away at time that I have for the people and
   projects that matter to me.
