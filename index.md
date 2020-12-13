@@ -10,18 +10,18 @@ the [ACL Anthology](https://www.aclweb.org/anthology/people/a/adam-lopez/)
 and/ or [Google Scholar](https://scholar.google.com/citations?hl=en&user=u4sxKZwAAAAJ&view_op=list_works&sortby=pubdate).
 
 I am also a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank)) 
-at the University of Edinburgh, where I am part of the
+at the University of Edinburgh, where I am part of the 
 [Edinburgh natural language processing group](http://groups.inf.ed.ac.uk/edinburghnlp/).
 I am privileged to have worked with some immensely talented PhD students:
 
 <div class="students">
-- [Michael Auli](https://michaelauli.github.io/) (2012)
-- [Federico Fancellu](https://ffancellu.github.io/) (2018)
-- [Sorcha Gilroy](https://uk.linkedin.com/in/sorcha-gilroy-a6105693) (2019)
-- [Nikolay Bogoychev](https://nbogoychev.com/) (2019)
-- [Clara Vania](https://claravania.github.io/) (2019)
-- [Arabella Jane Sinclair](https://staff.fnwi.uva.nl/a.j.sinclair/) (2019)
-- Sameer Bansal (2019)
+- [Michael Auli](https://michaelauli.github.io/) ([2012](https://era.ed.ac.uk/handle/1842/7636))
+- [Federico Fancellu](https://ffancellu.github.io/) ([2018](https://era.ed.ac.uk/handle/1842/33038))
+- [Sorcha Gilroy](https://uk.linkedin.com/in/sorcha-gilroy-a6105693) ([2019](https://era.ed.ac.uk/handle/1842/35606))
+- [Nikolay Bogoychev](https://nbogoychev.com/) ([2019](https://era.ed.ac.uk/handle/1842/35886))
+- [Clara Vania](https://claravania.github.io/) ([2019](https://era.ed.ac.uk/handle/1842/36742))
+- [Arabella Jane Sinclair](https://staff.fnwi.uva.nl/a.j.sinclair/) ([2019](https://era.ed.ac.uk/handle/1842/37009))
+- Sameer Bansal ([2019](https://era.ed.ac.uk/handle/1842/36781))
 - [Naomi Saphra](http://nsaphra.github.io/) (SOON)
 - [Kate McCurdy](https://kmccurdy.github.io/)
 - Katarzyna Pruś
