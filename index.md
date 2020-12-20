@@ -18,7 +18,7 @@ I am privileged to have worked with some immensely talented PhD students:
 - [Michael Auli](https://michaelauli.github.io/) ([2012](https://era.ed.ac.uk/handle/1842/7636))
 - [Federico Fancellu](https://ffancellu.github.io/) ([2018](https://era.ed.ac.uk/handle/1842/33038))
 - [Sorcha Gilroy](https://uk.linkedin.com/in/sorcha-gilroy-a6105693) ([2019](https://era.ed.ac.uk/handle/1842/35606))
-- [Nikolay Bogoychev](https://nbogoychev.com/) ([2019](https://era.ed.ac.uk/handle/1842/35886))
+- [Nikolay Bogoychev](https://nbogoychev.com/about/) ([2019](https://era.ed.ac.uk/handle/1842/35886))
 - [Clara Vania](https://claravania.github.io/) ([2019](https://era.ed.ac.uk/handle/1842/36742))
 - [Arabella Jane Sinclair](https://staff.fnwi.uva.nl/a.j.sinclair/) ([2019](https://era.ed.ac.uk/handle/1842/37009))
 - Sameer Bansal ([2019](https://era.ed.ac.uk/handle/1842/36781))
