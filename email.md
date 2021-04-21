@@ -31,11 +31,12 @@ Are you interested in other university business?
   to that, or to another university matter on which I am obliged 
   or already commited, email <alopez@inf.ed.ac.uk>. I 
   am unlikely to respond to emails about other university business.
-  Please be patient, and _do not_ send university-related emails to 
+  I also do not check my university email frequently, so please be patient, 
+  and _do not_ send university-related emails to 
   other addresses.
 
-Are you interested in something not covered by the categories above? 
+Are you interested in something not covered by the answers above? 
 : It is unlikely
   that I will respond to emails on other topics. My time is finite, and every email I 
-  respond to chips away at time that I have for the people and
-  projects that matter to me.
+  respond to chips away at the time that I have for the people 
+  that matter to me.
