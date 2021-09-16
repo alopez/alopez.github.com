@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-I am a [research](https://rasa.com/research/) manager at [Rasa](https://rasa.com), where we are building
+I am Director of [Research](https://rasa.com/research/) at [Rasa](https://rasa.com), where we are building
 the standard infrastructure for conversational AI. 
 My research interests are broad, and I have worked on many scientific, mathematical,
 and engineering problems in natural language processing. 
