@@ -7,7 +7,7 @@ My research interests are broad, and I have worked on many scientific, mathemati
 and engineering problems in natural language processing. 
 Most of my research papers can be found on 
 the [ACL Anthology](https://www.aclweb.org/anthology/people/a/adam-lopez/)
-and/ or [Google Scholar](https://scholar.google.com/citations?hl=en&user=u4sxKZwAAAAJ&view_op=list_works&sortby=pubdate).
+and/ or [Semantic Scholar](https://www.semanticscholar.org/author/Adam-Lopez/144871732?sort=pub-date).
 
 I am also a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank)) 
 at the University of Edinburgh, where I am part of the 
