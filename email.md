@@ -4,11 +4,17 @@ layout: default
 I get so much email that I simply cannot respond to all of it. So here
 is a brief guide on whether to email me and how. 
 
-Are you interested in my work at Rasa? 
+Are you contacting me about my work at Rasa? 
 : Email <a.lopez@rasa.com>. Please
   _do not_ send university-related emails to this address.
 
-Are you a friend or a current or former research student?
+Are you contacting me about something related to my PhD students? 
+: Email <alopez@inf.ed.ac.uk>, and please also email the student. 
+  I check my university email at most once a week, so please be 
+  patient waiting for a response, and _do not_ send university-related 
+  emails to any other address.
+
+Are you a friend and/ or a current or former research student?
 :  I would love to hear from you! Please email my personal
   address if you have it, otherwise one of the other addresses
   on this page.
@@ -26,14 +32,9 @@ Are you seeking information about courses or programs at the university?
   not respond to your email.
 
 Are you interested in other university business? 
-: My work at the university is limited to advising
-  my current PhD students. If your interest relates
-  to that, or to another university matter on which I am obliged 
-  or already commited, email <alopez@inf.ed.ac.uk>. I 
-  am unlikely to respond to emails about other university business.
-  I also do not check my university email frequently, so please be patient, 
-  and _do not_ send university-related emails to 
-  other addresses.
+: My responsibilities at the university are limited to advising my 
+  current PhD students. I am unlikely to respond to emails about other 
+  university business.
 
 Are you interested in something not covered by the answers above? 
 : It is unlikely
