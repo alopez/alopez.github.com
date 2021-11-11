@@ -22,7 +22,7 @@ I am privileged to have worked with some immensely talented PhD students:
 - [Clara Vania](https://claravania.github.io/) ([2019](https://era.ed.ac.uk/handle/1842/36742))
 - [Arabella Jane Sinclair](https://staff.fnwi.uva.nl/a.j.sinclair/) ([2019](https://era.ed.ac.uk/handle/1842/37009))
 - Sameer Bansal ([2019](https://era.ed.ac.uk/handle/1842/36781))
-- [Naomi Saphra](http://nsaphra.github.io/) (2021)
+- [Naomi Saphra](http://nsaphra.github.io/) ([2021](https://era.ed.ac.uk/handle/1842/38154))
 - [Kate McCurdy](https://kmccurdy.github.io/)
 - Katarzyna Pruś
 - [Seraphina Goldfarb-Tarrant](https://seraphinatarrant.github.io/)
