@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
-I am Director of [AI Research](https://rasa.com/research/) at [Rasa](https://rasa.com), where we are building
-the standard infrastructure for conversational AI. 
+I am a research leader in natural language processing, most recently at Rasa, where I was 
+Director of AI Research until February 2022. I'm looking for new opportunities, so please reach out! 
+
 My research interests are broad, and I have worked on many scientific, mathematical,
 and engineering problems in natural language processing. 
 Most of my research papers can be found on 
@@ -30,7 +31,7 @@ I am privileged to have worked with some immensely talented PhD students:
 - [Andreas Grivas](https://grv.overfit.xyz/)
 </div>
 
-I am no longer accepting new students.
+I am not accepting new students.
 
 
 
