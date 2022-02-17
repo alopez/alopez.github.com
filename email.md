@@ -4,10 +4,6 @@ layout: default
 I get so much email that I simply cannot respond to all of it. So here
 is a brief guide on whether to email me and how. 
 
-Are you contacting me about my work at Rasa? 
-: Email <a.lopez@rasa.com>. Please
-  _do not_ send university-related emails to this address.
-
 Are you contacting me about something related to my PhD students? 
 : Email <alopez@inf.ed.ac.uk>, and please also email the student. 
   I check my university email at most once a week, so please be 
@@ -20,13 +16,13 @@ Are you a friend and/ or a current or former research student?
   on this page.
 
 Are you seeking a studentship or other academic position with me?
-: I am no longer taking students or hiring
+: I am not currently taking students or hiring
   for academic positions, so please don't email me. I wish
   you the best of luck, but there's nothing I can do to help you,
   so I will not respond to your email.
 
 Are you seeking information about courses or programs at the university?
-: I no longer teach nor direct academic 
+: I not currently teaching nor directing academic 
   programes, so please don't email me. I wish you best of
   luck, but there's nothing I can do to help you, so I will
   not respond to your email.
