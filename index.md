@@ -1,8 +1,10 @@
 ---
 layout: default
 ---
-I am a research leader in natural language processing, most recently at Rasa, where I was 
-Director of AI Research until February 2022. I'm looking for new opportunities, so please [reach out](https://www.linkedin.com/in/adam-lopez-nlp-researcher/)! 
+I am a researcher in natural language processing, most recently at Rasa, where I was 
+Director of AI Research until February 2022. I'm currently looking for new opportunities, 
+so please [get in touch](https://www.linkedin.com/in/adam-lopez-nlp-researcher/)
+if you have one! 
 
 My research interests are broad, and I have worked on many scientific, mathematical,
 and engineering problems in natural language processing. 
