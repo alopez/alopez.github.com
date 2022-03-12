@@ -4,10 +4,10 @@ layout: default
 I get so much email that I simply cannot respond to all of it. So here
 is a brief guide on whether to email me and how. 
 
-Interested in hiring me?
+Are you interested in my work outside the university?
 : Contact me on [linkedin](https://www.linkedin.com/in/adam-lopez-nlp-researcher/).
 
-Are you contacting me about something related to my PhD students? 
+Are you interested in my academic work with my PhD students? 
 : Email <alopez@inf.ed.ac.uk>, and please also email the student. 
   I check my university email at most once a week, so please be 
   patient waiting for a response, and _do not_ send university-related 
