@@ -1,18 +1,14 @@
 ---
 layout: default
 ---
-I am a researcher in natural language processing, most recently at Rasa, where I was 
-Director of AI Research until February 2022. I'm currently looking for new opportunities, 
-so please [get in touch](https://www.linkedin.com/in/adam-lopez-nlp-researcher/)
-if you have one! 
-
-My research interests are broad, and I have worked on many scientific, mathematical,
+I am a researcher in natural language processing. My research interests are broad, 
+and I have worked on many scientific, mathematical,
 and engineering problems in natural language processing. 
 Most of my research papers can be found on 
 the [ACL Anthology](https://www.aclweb.org/anthology/people/a/adam-lopez/)
 and/ or [Semantic Scholar](https://www.semanticscholar.org/author/Adam-Lopez/144871732?sort=pub-date).
 
-I am also a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank)) 
+I am currently a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank)) 
 at the University of Edinburgh, where I am part of the 
 [Edinburgh natural language processing group](http://groups.inf.ed.ac.uk/edinburghnlp/).
 I am privileged to have worked with some immensely talented PhD students:
