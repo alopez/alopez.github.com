@@ -23,9 +23,7 @@ I am privileged to have worked with some immensely talented PhD students:
 - Sameer Bansal ([2019](https://era.ed.ac.uk/handle/1842/36781))
 - [Naomi Saphra](http://nsaphra.github.io/) ([2021](https://era.ed.ac.uk/handle/1842/38154))
 - [Kate McCurdy](https://kmccurdy.github.io/)
-- Katarzyna Pruś
 - [Seraphina Goldfarb-Tarrant](https://seraphinatarrant.github.io/)
-- Julie-Anne Meaney
 - [Andreas Grivas](https://grv.overfit.xyz/)
 </div>
 
