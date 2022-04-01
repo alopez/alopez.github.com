@@ -8,6 +8,7 @@ Most of my research papers can be found on
 the [ACL Anthology](https://www.aclweb.org/anthology/people/a/adam-lopez/)
 and/ or [Semantic Scholar](https://www.semanticscholar.org/author/Adam-Lopez/144871732?sort=pub-date).
 
+Over my career I have held roles in both academia and industry, as an engineer, scientist, lecturer, and as director of artificial intelligence research at a startup.
 I am currently a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank)) 
 at the University of Edinburgh, where I am part of the 
 [Edinburgh natural language processing group](http://groups.inf.ed.ac.uk/edinburghnlp/).
