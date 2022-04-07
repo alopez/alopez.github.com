@@ -3,7 +3,7 @@ layout: default
 ---
 I am a researcher in natural language processing. My research interests are broad, 
 and I have worked on many scientific, mathematical,
-and engineering problems in natural language processing. 
+and engineering problems related to NLP. 
 Most of my research papers can be found on 
 the [ACL Anthology](https://www.aclweb.org/anthology/people/a/adam-lopez/)
 and/ or [Semantic Scholar](https://www.semanticscholar.org/author/Adam-Lopez/144871732?sort=pub-date).
