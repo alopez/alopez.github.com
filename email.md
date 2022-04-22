@@ -4,14 +4,14 @@ layout: default
 I get so much email that I simply cannot respond to all of it. So here
 is a brief guide on whether to email me and how. 
 
-Are you interested in my work outside the university?
-: Contact me on [linkedin](https://www.linkedin.com/in/adam-lopez-nlp-researcher/).
-
-Are you interested in my academic work with my PhD students? 
+Are you interested in my university work with my PhD students? 
 : Email <alopez@inf.ed.ac.uk>, and please also email the student. 
   I check my university email at most once a week, so please be 
   patient waiting for a response, and _do not_ send university-related 
   emails to any other address.
+
+Are you interested in my work in some capacity unrelated to the university?
+: Email <alopez.nlproc@gmail.com>.
 
 Are you a friend and/ or a current or former research student?
 :  I would love to hear from you! Please email my personal
@@ -31,9 +31,10 @@ Are you seeking information about courses or programs at the university?
   not respond to your email.
 
 Are you interested in other university business? 
-: My responsibilities at the university are limited to advising my 
-  current PhD students. I am unlikely to respond to emails about other 
-  university business.
+: I am on leave from the university for the 2021-22 academic year, and 
+  during this time my responsibilities are limited to advising my 
+  current PhD students. I am unlikely to respond 
+  to emails about other university business.
 
 Are you interested in something not covered by the answers above? 
 : It is unlikely
