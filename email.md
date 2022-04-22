@@ -11,7 +11,7 @@ Are you interested in my university work with my PhD students?
   emails to any other address.
 
 Are you interested in my work in some capacity unrelated to the university?
-: Email <alopez.nlproc@gmail.com>.
+: Email <alopez.nlproc@gmail.com>. Please be patient awaiting a reponse.
 
 Are you a friend and/ or a current or former research student?
 :  I would love to hear from you! Please email my personal
