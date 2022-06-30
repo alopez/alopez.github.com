@@ -19,8 +19,8 @@ Are you a friend and/ or (former) research student?
   
 Are you a (former) PhD / MSc / UG thesis student or employee in need of a reference?  
 : I would love to help! Please email <alopez@inf.ed.ac.uk>, and provide as
-  much detail as you can about the position and your application. Advance notice
-  is appreciated.
+  much detail as you can about the position and your application. I'd appreciate as
+  much advance notice as you can give me.
 
 Are you a (former) taught student in need of a reference?
 : Unless I know you well, the best I'm likely to be able to provide is a brief synopsis
@@ -48,7 +48,7 @@ Are you seeking information about courses or programs at the university?
 
 Are you interested in other university business? 
 : I am unlikely to respond to emails about university business unless I'm
-  obliged or already committed to something.
+  obliged or already committed.
 
 Are you interested in something not covered by the answers above? 
 : It is unlikely that I will respond to emails on other topics. My 
