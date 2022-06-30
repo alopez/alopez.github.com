@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-I get so much email that I simply cannot respond to all of it. So here
+I get so much email that I simply cannot respond to all of it. Even in 
+the best of circumstances, any reply is likely to be slow. So here
 is a brief guide on whether to email me (if you haven't already), and 
 what to expect (if you have).
 
