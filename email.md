@@ -1,23 +1,37 @@
 ---
 layout: default
 ---
-I am on leave from the university for the 2021-22 academic year,
-and I get so much email that I simply cannot respond to all of it. So here
-is a brief guide on whether to email me and how. 
+I get so much email that I simply cannot respond to all of it. So here
+is a brief guide on whether to email me (if you haven't already), and 
+what to expect (if you have).
 
-Are you interested in my university work with my PhD students? 
-: Email <alopez@inf.ed.ac.uk>, and please also email the student. 
-  I check my university email infrequently, so please be 
-  patient waiting for a response, and _do not_ send university-related 
-  emails to any other address.
+Do you have a specific question related to my research? 
+: Email <alopez@inf.ed.ac.uk>, and please also email my coauthors, who
+  may be able to reply more quickly. 
 
-Are you interested in my work in some capacity unrelated to the university?
+Looking to hire me for consulting work or a job?
 : Email <alopez.nlproc@gmail.com>. Please be patient waiting for a reponse.
 
-Are you a friend and/ or a current or former research student?
-:  I would love to hear from you! Please email my personal
+Are you a friend and/ or (former) research student?
+: I would love to hear from you! Please email my personal
   address if you have it, otherwise one of the other addresses
-  on this page.
+  on this page. 
+  
+Are you a (former) PhD / MSc / UG thesis student or employee in need of a reference?  
+: I would love to help! Please email <alopez@inf.ed.ac.uk>, and provide as
+  much detail as you can about the position and your application. Advance notice
+  is appreciated.
+
+Are you a (former) taught student in need of a reference?
+: Unless I know you well, the best I'm likely to be able to provide is a brief synopsis
+  of your performance in my course(s), which is of limited value for most job
+  or PhD applications. If a brief synopsis suffices, I'm of course happy
+  to supply it: email <alopez@inf.ed.ac.uk>. However, for most job or PhD applications,
+  you will be best served by a reference from someone who has worked with you
+  closely and knows your work well.
+
+Are you an employer seeking a reference for one of my (former) students or employees?
+: Email <alopez@inf.ed.ac.uk> with details.
 
 Are you seeking a studentship or other academic position with me?
 : I am not currently taking students or hiring
@@ -26,15 +40,15 @@ Are you seeking a studentship or other academic position with me?
   so I will not respond to your email.
 
 Are you seeking information about courses or programs at the university?
-: I not currently teaching nor directing academic 
-  programes, so please don't email me. I wish you best of
-  luck, but there's nothing I can do to help you, so I will
-  not respond to your email.
+: Every course that I co-teach has an explicit policy on how to contact
+  the organizers, which is listed on the course page in learn. If you 
+  are in my course, please follow that policy. If you aren't in the course
+  and you aren't sure who to contact, please contact the course organizer
+  listed in DPRS or PATH (who might be me, or might be someone else).
 
 Are you interested in other university business? 
-: While on leave, my university responsibilities are limited 
-  to advising my current PhD students. I am unlikely to respond 
-  to emails about other university business.
+: I am unlikely to respond to emails about university business unless I'm
+  obliged or already committed to something.
 
 Are you interested in something not covered by the answers above? 
 : It is unlikely that I will respond to emails on other topics. My 
