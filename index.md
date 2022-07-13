@@ -12,7 +12,7 @@ Over my [career](https://www.linkedin.com/in/adam-lopez-nlp-researcher/) I have 
 I am currently a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank)) 
 at the University of Edinburgh, where I am part of the 
 [Edinburgh natural language processing group](http://groups.inf.ed.ac.uk/edinburghnlp/).
-I am privileged to have worked with some immensely talented PhD students:
+I am privileged to have advised some immensely talented PhD students, who surely taught me more than I taught them:
 
 <div class="students">
 - [Michael Auli](https://michaelauli.github.io/) ([2012](https://era.ed.ac.uk/handle/1842/7636))
