@@ -19,9 +19,9 @@ Are you a friend and/ or (former) research student?
   on this page. 
   
 Are you a personal tutee in need of advice or support?
-: I'll reply as soon as I am able. I will reply, but I can't always reply right away, 
-  so please be patient awaiting a response. If you want to request a meeting, you can use
-  [this page](https://calendly.com/adamlopez/pt/) to book it. (Note: If you are not a PT, 
+: I'll reply as soon as I am able. I can't always reply right away, 
+  so please be patient awaiting a response. If you want to book a meeting, you can use
+  [this page](https://calendly.com/adamlopez/pt/). (Note: If you are not a PT, 
   please do not book meetings this way; this link is for PTs only and I will cancel
   meetings booked by anyone else through this link).
   
