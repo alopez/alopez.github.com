@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-I get so much email that I simply cannot respond to all of it. Even in 
-the best of circumstances, any reply is likely to be slow. So here
+I get so much email that I can't reply to all of it. Even in the best
+of circumstances, I often can't reply right away. So here
 is a brief guide on whether to email me (if you haven't already), and 
 what to expect (if you have).
 
@@ -20,8 +20,8 @@ Are you a friend and/ or (former) research student?
   
 Are you a personal tutee in need of advice or support?
 : Email <alopez.nlproc@gmail.com>. I'll reply as soon as I am able. 
-  I can't always reply right away, and in very busy times (like the start of the semester)
-  it may take a couple of days,
+  I can't always reply right away, and in very busy times (like the start of a semester in which
+  I am teaching) it may take a few working days,
   so please be patient awaiting a response. If you are emailing to book a meeting, please use
   [this page](https://calendly.com/adamlopez/pt/). (Note: If you are not a PT, 
   please do not book meetings this way; this link is for PTs only and I will cancel
