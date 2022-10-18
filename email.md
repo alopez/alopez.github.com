@@ -19,7 +19,7 @@ Are you a friend and/ or (former) research student?
   on this page. 
   
 Are you a personal tutee in need of advice or support?
-: Email <alopez.nlproc@gmail.com>. I'll reply as soon as I am able. 
+: Email <alopez@inf.ed.ac.uk>. I'll reply as soon as I am able. 
   I can't always reply right away, and in very busy times (like the start of a semester in which
   I am teaching) it may take a few working days,
   so please be patient awaiting a response. If you are emailing to book a meeting, please use
