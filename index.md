@@ -26,6 +26,7 @@ I am privileged to have advised some immensely talented PhD students, who surely
 - [Kate McCurdy](https://kmccurdy.github.io/)
 - [Seraphina Goldfarb-Tarrant](https://seraphinatarrant.github.io/)
 - [Andreas Grivas](https://grv.overfit.xyz/)
+- [Katarzyna Pruś](https://www.linkedin.com/in/katarzyna-pru%C5%9B-6bb609107/)
 </div>
 
 I am not accepting new students.
