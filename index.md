@@ -23,7 +23,7 @@ I am privileged to have advised some immensely talented PhD students, who surely
 - [Arabella Jane Sinclair](https://j-anie.github.io/) ([2019](https://era.ed.ac.uk/handle/1842/37009))
 - Sameer Bansal ([2019](https://era.ed.ac.uk/handle/1842/36781))
 - [Naomi Saphra](http://nsaphra.github.io/) ([2021](https://era.ed.ac.uk/handle/1842/38154))
-- [Kate McCurdy](https://kmccurdy.github.io/)
+- [Kate McCurdy](https://kmccurdy.github.io/) (2023)
 - [Seraphina Goldfarb-Tarrant](https://seraphinatarrant.github.io/)
 - [Andreas Grivas](https://grv.overfit.xyz/)
 - [Katarzyna Pruś](https://www.linkedin.com/in/katarzyna-pru%C5%9B-6bb609107/)
