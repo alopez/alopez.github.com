@@ -16,14 +16,14 @@ I am privileged to have advised some immensely talented PhD students, who surely
 
 <div class="students">
 - [Michael Auli](https://michaelauli.github.io/) ([2012](https://era.ed.ac.uk/handle/1842/7636))
-- [Federico Fancellu](https://ffancellu.github.io/) ([2018](https://era.ed.ac.uk/handle/1842/33038))
+- [Federico Clark-Fancellu](https://www.linkedin.com/in/federico-clark-fancellu-31405b2b) ([2018](https://era.ed.ac.uk/handle/1842/33038))
 - [Sorcha Gilroy](https://uk.linkedin.com/in/sorcha-gilroy-a6105693) ([2019](https://era.ed.ac.uk/handle/1842/35606))
-- [Nikolay Bogoychev](https://nbogoychev.com/about/) ([2019](https://era.ed.ac.uk/handle/1842/35886))
+- [Nikolay Bogoychev](https://www.linkedin.com/in/nikolay-bogoychev-01831023/) ([2019](https://era.ed.ac.uk/handle/1842/35886))
 - [Clara Vania](https://claravania.github.io/) ([2019](https://era.ed.ac.uk/handle/1842/36742))
 - [Arabella Jane Sinclair](https://j-anie.github.io/) ([2019](https://era.ed.ac.uk/handle/1842/37009))
-- Sameer Bansal ([2019](https://era.ed.ac.uk/handle/1842/36781))
+- [Sameer Bansal](https://www.linkedin.com/in/sameer2718/) ([2019](https://era.ed.ac.uk/handle/1842/36781))
 - [Naomi Saphra](http://nsaphra.github.io/) ([2021](https://era.ed.ac.uk/handle/1842/38154))
-- [Kate McCurdy](https://kmccurdy.github.io/) (2023)
+- [Kate McCurdy](https://kmccurdy.github.io/) ([2024](https://era.ed.ac.uk/handle/1842/41429))
 - [Seraphina Goldfarb-Tarrant](https://seraphinatarrant.github.io/)
 - [Andreas Grivas](https://grv.unargmaxable.ai/)
 - [Katarzyna Pruś](https://www.linkedin.com/in/katarzyna-pru%C5%9B-6bb609107/)
