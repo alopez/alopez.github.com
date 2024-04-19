@@ -6,11 +6,11 @@ of circumstances, I often can't reply right away. So here
 is a brief guide on whether to email me (if you haven't already), and 
 what to expect (if you have).
 
-Do you have a specific question related to my research? 
+Do you have a specific question related to my published research? 
 : Email <alopez@inf.ed.ac.uk>, and please also email my coauthors, who
   may be able to reply more quickly. 
 
-Looking to hire me for consulting work or a job?
+Do you want to hire me for consulting work or a new job?
 : Email <alopez.nlproc@gmail.com>. Please be patient waiting for a reponse.
 
 Are you a friend and/ or (former) research student?
@@ -32,7 +32,7 @@ Are you a (former) taught student in need of a reference?
   closely and knows your work well.
 
 Are you an employer seeking a reference for one of my (former) students or employees?
-: Email <alopez@inf.ed.ac.uk> with details.
+: I will be happy to provide a reference. Email <alopez@inf.ed.ac.uk> with details.
 
 Are you seeking a studentship or other academic position with me?
 : I am not currently taking students or hiring
@@ -40,12 +40,10 @@ Are you seeking a studentship or other academic position with me?
   you the best of luck, but there's nothing I can do to help you,
   so I will not respond to your email.
 
-Are you seeking information about courses or programs at the university?
-: Every course that I co-teach has an explicit policy on how to contact
-  the organizers, which is listed on the course page in learn. If you 
-  are in my course, please follow that policy. If you aren't in the course
-  and you aren't sure who to contact, please contact the course organizer
-  listed in DPRS or PATH (who might be me, or might be someone else).
+Are you seeking information about courses or programmes at the university?
+: I will be on sabbatical for the academic year 2024-25, so cannot help you 
+  with courses or programmes. Please contact the appropriate course organiser
+  or programme director.
 
 Are you interested in other university business? 
 : I am unlikely to respond to emails about university business unless I'm
