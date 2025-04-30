@@ -6,7 +6,7 @@ and I have worked on many scientific, mathematical,
 and engineering problems related to NLP. 
 Most of my research papers can be found on 
 the [ACL Anthology](https://www.aclweb.org/anthology/people/a/adam-lopez/)
-and/ or [Google Scholar](https://scholar.google.co.uk/citations?user=u4sxKZwAAAAJ&sortby=pubdate).
+and/ or [Google Scholar](https://scholar.google.com/citations?hl=en&user=7KdAmbUAAAAJ&view_op=list_works&sortby=pubdate).
 
 Over my [career](https://www.linkedin.com/in/adam-lopez-nlp-researcher/) I have held roles in both academia and industry, as an engineer, scientist, lecturer, and as director of artificial intelligence at a startup.
 I am currently a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank)) 
