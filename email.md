@@ -7,11 +7,11 @@ is a brief guide on whether to email me (if you haven't already), and
 what to expect (if you have).
 
 Do you have a specific question related to my published research? 
-: Email <alopez@ed.ac.uk>, and please also email my coauthors, who
+: Email <nlpresearch.eloquent365@passfwd.com>, and please also email my coauthors, who
   may be able to reply more quickly. 
 
 Do you want to hire me for consulting work or a new job?
-: Email <fromweb.palm986@passinbox.com>. Please be patient waiting for a reponse.
+: Email <nlpresearch.eloquent365@passfwd.com>. Please be patient waiting for a reponse.
 
 Are you a friend and/ or (former) research student?
 : I would love to hear from you! Please email my personal
@@ -41,7 +41,7 @@ Are you seeking a studentship or other academic position with me?
   so I will not respond to your email.
 
 Are you seeking information about courses or programmes at the university?
-: I will be on sabbatical for the academic year 2024-25, so cannot help you 
+: I am on sabbatical for the academic year 2024-25, so cannot help you 
   with courses or programmes. Please contact the appropriate course organiser
   or programme director.
 
