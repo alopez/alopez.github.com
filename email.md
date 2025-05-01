@@ -6,6 +6,12 @@ of circumstances, I often can't reply right away. So here
 is a brief guide on whether to email me (if you haven't already), and 
 what to expect (if you have).
 
+tl;dr
+: 
+  - To discuss (hiring me for) research, email <nlpresearch.eloquent365@passfwd.com>.
+  - To discuss teaching, admin, or other university business, email <alopez@ed.ac.uk>.
+  - I don't have bandwidth to answer emails asking for jobs or about university business that doesn't involve me.
+
 Do you have a specific question related to my published research? 
 : Email <nlpresearch.eloquent365@passfwd.com>, and please also email my coauthors, who
   may be able to reply more quickly. 
