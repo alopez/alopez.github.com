@@ -10,6 +10,7 @@ tl;dr
 : 
   - To discuss (hiring me for) research, email <nlpresearch.eloquent365@passfwd.com>.
   - To discuss teaching, admin, or other university business, email <alopez@ed.ac.uk>.
+  - To ask for a reference for someone who has worked with me, email <alopez@ed.ac.uk>
   - I don't have bandwidth to answer emails asking for jobs or about university business that doesn't involve me.
 
 Do you have a specific question related to my published research? 
