@@ -11,7 +11,7 @@ tl;dr
   - To discuss (hiring me for) research, email <nlpresearch.eloquent365@passfwd.com>.
   - To discuss teaching, admin, or other university business, email <alopez@ed.ac.uk>.
   - To ask for a reference for someone who has worked with me, email <alopez@ed.ac.uk>
-  - I don't have bandwidth to answer emails asking for jobs or about university business that doesn't involve me.
+  - I don't have bandwidth to answer emails asking for jobs or studentships, or about university business that doesn't involve me.
 
 Do you have a specific question related to my published research? 
 : Email <nlpresearch.eloquent365@passfwd.com>, and please also email my coauthors, who
@@ -31,27 +31,28 @@ Are you a (former) PhD / MSc / UG thesis student or employee in need of a refere
   much advance notice as you can give me.
 
 Are you a (former) taught student in need of a reference?
-: Unless I know you well, the best I'm likely to be able to provide is a brief synopsis
+: Unless I know you well, the best I can provide is a brief synopsis
   of your performance in my course(s), which is of limited value for most job
-  or PhD applications. If a brief synopsis suffices, I'm of course happy
-  to supply it: email <alopez@ed.ac.uk>. However, for most job or PhD applications,
+  or PhD applications. If a brief synopsis suffices, I'll happily
+  supply one: email <alopez@ed.ac.uk>. However, for most job or PhD applications,
   you will be best served by a reference from someone who has worked with you
   closely and knows your work well.
 
 Are you an employer seeking a reference for one of my (former) students or employees?
 : I will be happy to provide a reference. Email <alopez@ed.ac.uk> with details.
 
-Are you seeking a studentship or other academic position with me?
-: I am not currently taking students or hiring
-  for academic positions, so please don't email me. I wish
+Are you seeking a studentship or other position with me?
+: I am not currently taking students or hiring,
+  so please don't email me. I wish
   you the best of luck, but there's nothing I can do to help you,
   so I will not respond to your email.
 
 Are you seeking information about courses or programmes at the university?
-: I am on sabbatical for the academic year 2024-25, so cannot help you 
-  with courses or programmes. Please contact the appropriate course organiser
-  or programme director.
-
+: I am the course organiser for [FNLP](https://opencourse.inf.ed.ac.uk/fnlp)
+  and the Year Organiser for Informatics UG4 and UG5 students. For questions
+  related to either, email <alopez@ed.ac.uk>. I can't help with anything else,
+  and am unlikely to respond. 
+  
 Are you interested in other university business? 
 : I am unlikely to respond to emails about university business unless I'm
   obliged or already committed.
