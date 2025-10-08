@@ -2,6 +2,9 @@
 layout: default
 ---
 # Advice for prospective team members
+
+{{ content | toc }}
+
 ## Research topics
 
 Right now I'm very interested in understanding the consequences of natural language processing (NLP) in the real world. Thanks to large language models, what was until very recently an obscure technical discipline is now being applied to every situation imaginable. This leads to many questions:
@@ -15,7 +18,7 @@ Right now I'm very interested in understanding the consequences of natural langu
 - How do we account for the climate impact of NLP systems?
 - What, if any, meaningful ways can NLP, machine learning, and data science contribute to understanding and mitigating the climate crisis?
 
-In the past, my students and I have worked on a wide range of topics related to NLP, including scientific, mathematical, engineering, and ethical problems. My published papers should give you an idea about the breadth of topics. I am happy to discuss these with you, especially if they can be related to one or more of the above questions.
+In the past, my students and I have worked on a wide range of topics related to NLP, including scientific, mathematical, engineering, and ethical problems. [My published papers](https://scholar.google.com/citations?user=7KdAmbUAAAAJ&sortby=pubdate) should give you an idea about the breadth of topics. I am happy to discuss these with you, especially if they can be related to one or more of the above questions.
 
 If you're interested in NLP, but not these topics, you may want to contact other members of [EdinburghNLP](http://edinburghnlp.inf.ed.ac.uk/index.php/people/) or browse [PhD topics](http://www.ilcc.inf.ed.ac.uk/study/possible-phd-topics-in-ilcc) they have proposed. If you aren't genuinely interested in the problems that machine learning is applied to (language, climate science, or other domains), then I will not be a good supervisor for you, and you should contact a different supervisor in the [School of Informatics](http://www.ed.ac.uk/informatics/).
 
@@ -24,20 +27,6 @@ If you're interested in NLP, but not these topics, you may want to contact other
 I am looking for PhD students to work on the above topics in the current admissions cycle  (applications due 7th of January, 2026), to start in September 2026. I generally expect to advise students with an engaged second supervisor or co-supervisor, possibly in a different department. It's great if you have an idea about other academics you are interested in working with. But it's ok if you don't; I might be able to recommend someone.
 
 Interest in NLP has exploded, and as a result, I'm not able to respond personally to every prospective student who is interested in working with me. In fact, there's a good chance that you're reading this because I referred you to this page. I don't do this to discourage you---please apply! I wrote this advice page to help you: it summarizes the advice that I used to discuss with applicants individually, and I keep it up-to-date.
-
-### Naming me as a potential supervisor on your application
-
-Many prospective students ask whether they can name me as a supervisor. Yes, please list me as a potential supervisor if the research topics below look interesting to you. When you name me as a potential supervisor, your application will be routed to me during the admissions process.
-
-You can name multiple potential supervisors on your application, and this is generally a good idea, since many of my colleagues have overlapping interests, and in practice we often share applications with each other. But don't list everyone indiscriminately---list only those whose interests are genuinely matched to yours.
-
-### General advice on the research proposal
-
-To apply, you must write a research proposal. The School of Informatics advises you to contact prospective supervisors prior to applying, to discuss the topic of your proposal. Unfortunately, **I cannot advise you on your research proposal** due to the sheer number of applicants interested in natural language processing. But if you name me as a potential supervisor, then your application will then be routed to me and I will read your proposal during the normal admissions cycle, which takes place early in the calendar year.
-
-Some applicants stress over the research proposal because they worry that they need to commit to a four-year plan before even starting the PhD. Don't worry about this: **your research proposal is not a contract**. I realize that your interests will change over the course of a PhD, and even between the time of the application and your first day of a PhD program.
-
-At the same, **take the research proposal seriously!** The proposal is an exercise in persuasion and scientific communication. It should convince the admissions committee that you can find interesting research questions and plausible ways to answer them. Pick a question that you think is interesting and show that it is worthwhile, unanswered, and possibly answerable within a few years. To show that it’s unanswered, use evidence from the current research literature. To show that it might be answerable, sketch a plausible 2--3 page plan for answering it. (A longer proposal is not more impressive.) I understand that your interests and plans will change over the course of a PhD, so nothing you write is set in stone. It’s just the opening of a conversation about your interests. I also realize that you may not have written anything like this before, and that not everyone has the same access to opportunities. I am looking for something that shows you've done the best you can with the opportunities available to you.
 
 ### How to apply
 
@@ -48,8 +37,22 @@ At the same, **take the research proposal seriously!** The proposal is an exer
 
 I may be able to advise students on other programmes within the university, if they relate to my research. But please only apply to programmes that you are _genuinely interested in_. Applicants who submit to many unrelated programmes across schools and colleges are routinely rejected because they don't appear to be committed to any particular area of study, and a PhD definitely requires that commitment. 
 
+### Naming me as a potential supervisor on your application
+
+Many prospective students ask whether they can name me as a supervisor. Yes, please list me as a potential supervisor if the research topics below look interesting to you. When you name me as a potential supervisor, your application will be routed to me during the admissions process.
+
+You can name multiple potential supervisors on your application, and this is generally a good idea, since many of my colleagues have overlapping interests, and in practice we often share applications with each other. But don't list everyone indiscriminately---list only those whose interests are genuinely matched to yours.
+
+### General advice on the research proposal
+
+For some programmes (but not the CDT), you must write a research proposal. The School of Informatics advises you to contact prospective supervisors prior to applying, to discuss the topic of your proposal. Unfortunately, **I cannot advise you on your research proposal** due to the sheer number of applicants interested in natural language processing. But if you name me as a potential supervisor, then your application will then be routed to me and I will read your proposal during the normal admissions cycle, which takes place early in the calendar year.
+
+Some applicants stress over the research proposal because they worry that they need to commit to a four-year plan before even starting the PhD. Don't worry about this: **your research proposal is not a contract**. I realize that your interests will change over the course of a PhD, and even between the time of the application and your first day of a PhD program.
+
+At the same, **take the research proposal seriously!** The proposal is an exercise in persuasion and scientific communication. It should convince the admissions committee that you can find interesting research questions and plausible ways to answer them. Pick a question that you think is interesting and show that it is worthwhile, unanswered, and possibly answerable within a few years. To show that it’s unanswered, use evidence from the current research literature. To show that it might be answerable, sketch a plausible 2--3 page plan for answering it. (A longer proposal is not more impressive.) I understand that your interests and plans will change over the course of a PhD, so nothing you write is set in stone. It’s just the opening of a conversation about your interests. I also realize that you may not have written anything like this before, and that not everyone has the same access to opportunities. I am looking for something that shows you've done the best you can with the opportunities available to you.
+
 ### When to apply
-I only review applications in winter admissions cycle. For a September 2026 start, the application deadline is 7th of January, 2026. The deadline is not hard, but applying by then ensures that the school will consider you for funding, which is crucial since we only make funded offers (unless you have a full outside scholarship; read about self-funding above).
+I only review applications in winter admissions cycle. For a September 2026 start, the application deadline is 7th of January, 2026. The deadline is not hard, but applying by then ensures that the school will consider you for funding, which is crucial since we only make funded offers (unless you have a full outside scholarship; read about self-funding below).
 
 ### Self-funded students
 If you have full funding from a fellowship that will pay for your tuition and a living stipend, that's great! The purpose of your fellowship is to enable you to pursue your intellectual interests, and if we have interests in common, I'm happy to discuss them with you. Having a fellowship makes your admission easier because it isn't contingent on funding, but **it is still crucial that I have capacity to take a new student and that we have mutual research interests**. If you have a fellowship, but I am at capacity, or you want me to advise you on a topic that is very far from my interests, I will decline---such an arrangement wouldn't benefit either of us.
@@ -65,8 +68,8 @@ If you're a current PhD or CDT student in Edinburgh and you'd like to collaborat
 
 If you are an MSc, MInf, or undergraduate student, the most likely way for us to work together is during your thesis project. You are welcome to contact me during the allocation phase for these projects. However, allocation is not decided by me, so I cannot make any guarantees that we will work together.
 
-## Prospective undergraduate, Master's, or postdoctoral researchers
-**I do not have openings for undergraduate or Master's student researchers** and therefore do not reply to emails about them.
+## Prospective undergraduate or MSc student researchers
+**I do not have openings for undergraduate or MSc student researchers** and therefore do not reply to emails about them.
 
 ## Prospective interns and visitors
 **I do not have any openings for internships** and therefore do not reply to emails about them.
