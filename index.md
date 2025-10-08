@@ -10,7 +10,7 @@ and/ or [Google Scholar](https://scholar.google.com/citations?hl=en&user=7KdAmbU
 
 I have held roles in both academia and industry, as an engineer, scientist, lecturer, and as director of artificial intelligence at a startup.
 I am currently an academic at the University of Edinburgh.
-I am privileged to have advised some immensely talented PhD students, who surely taught me more than I taught them:
+I have advised some immensely talented PhD students:
 
 <div class="students">
 - [Michael Auli](https://michaelauli.github.io/) ([2012](https://era.ed.ac.uk/handle/1842/7636))
@@ -27,7 +27,7 @@ I am privileged to have advised some immensely talented PhD students, who surely
 - [Katarzyna Pruś](https://www.linkedin.com/in/katarzyna-pru%C5%9B-6bb609107/)
 </div>
 
-I am not accepting new students.
+If you are interested in joining my research team, please read my [advice for prospective team members](/prospective/) before [emailing me](/email/).
 
 
 
