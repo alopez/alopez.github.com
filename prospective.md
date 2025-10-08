@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Advice for prospective members of my research team
+# Advice for prospective team members
 ## Research topics
 
 Right now I'm very interested in understanding the consequences of natural language processing (NLP) in the real world. Thanks to large language models, what was until very recently an obscure technical discipline is now being applied to every situation imaginable. This leads to many questions:
