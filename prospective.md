@@ -3,7 +3,7 @@ layout: default
 ---
 # Advice for prospective team members
 
-{{ content | toc }}
+{:toc}
 
 ## Research topics
 
