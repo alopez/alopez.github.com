@@ -42,10 +42,8 @@ Are you an employer seeking a reference for one of my (former) students or emplo
 : I will be happy to provide a reference. Email <alopez@ed.ac.uk> with details.
 
 Are you seeking a studentship or other position with me?
-: I am not currently taking students or hiring,
-  so please don't email me. I wish
-  you the best of luck, but there's nothing I can do to help you,
-  so I will not respond to your email.
+: I am accepting PhD students only. Email <alopez@ed.ac.uk> after first reading
+  the my [advice for prospective team members](/prospective/).
 
 Are you seeking information about courses or programmes at the university?
 : I am the course organiser for [FNLP](https://opencourse.inf.ed.ac.uk/fnlp)
