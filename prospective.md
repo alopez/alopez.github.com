@@ -6,15 +6,17 @@ layout: default
 ## Research topics
 
 Right now I'm very interested in understanding the consequences of natural language processing (NLP) in the real world. Thanks to large language models, what was until very recently an obscure technical discipline is now being applied to every situation imaginable. This leads to many questions:
-- What aspects of what language tasks can plausibly be automated, and to what degree? 
+- What aspects of what language tasks can plausibly be automated, and how accurately? 
 - How do sociotechnical systems that incorporate such automation accommodate the fact that it can never be entirely accurate? 
 - What are the larger social consequences of these systems? ​
-- What are the risks, how do we assess them, and how do we mitigate them, if that's even possible? 
+- What are the risks of such automation, how do we assess them, and how do we mitigate them, if that's even possible? 
 - How do the tasks being automated in the tech industry relate to the tasks commonly studied by NLP researchers over the past several decades of its history? 
 - How do the futures envisioned by early NLP researchers match up with today's reality? 
 - What areas that are currently being impacted by NLP have been ignored by past research, where it is urgent to pursue the questions above?
 - How do we account for the climate impact of NLP systems?
 - What, if any, meaningful ways can NLP, machine learning, and data science contribute to understanding and mitigating the climate crisis?
+
+Although I'm broadly interested in many of the questions above, there are some frames that I'm _not_ interested in. In particular, I do not accept framings of NLP systems as having intent or "intelligence". Nor do I believe that they are they on the verge of AGI, superintelligence, or the singularity. They are much more meaningfully understood as [social and cultural technologies](https://www.science.org/doi/10.1126/science.adt9819). It follows, then, that they can't deliberately manipulate or lie to people. But they they can certainly harm people, for example via interactions that reinforce misinformation or encourage suicidal beliefs. I hate to have to include this disclaimer, but unfortunately I've received emails from prospective students who want to study topics such as how LLMs lie to people. I am sorry, but I will refuse to advise on a topic like that. 
 
 In the past, my students and I have worked on a wide range of topics related to NLP, including scientific, mathematical, engineering, and ethical problems. [My published papers](https://scholar.google.com/citations?user=7KdAmbUAAAAJ&sortby=pubdate) should give you an idea about the breadth of topics. I am happy to discuss these with you, especially if they can be related to one or more of the above questions.
 
