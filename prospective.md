@@ -28,7 +28,7 @@ If you're interested in NLP, but not these topics, you may want to contact other
 
 I am looking for PhD students to work on the above topics in the current admissions cycle  (applications due 7th of January, 2026), to start in September 2026. I generally expect to advise students with an engaged second supervisor or co-supervisor, possibly in a different department. It's great if you have an idea about other academics you are interested in working with. But it's ok if you don't; I might be able to recommend someone.
 
-Interest in NLP has exploded, and as a result, I'm not able to respond personally to every prospective student who is interested in working with me. In fact, there's a good chance that you're reading this because I referred you to this page. I don't do this to discourage you---please apply! I wrote this advice page to help you: it summarizes the advice that I used to discuss with applicants individually, and I keep it up-to-date.
+Interest in NLP is higher than ever. As a result, I'm not able to respond personally to every prospective student who is interested in working with me, and at this point I have no capacity to meet with prospective students. In fact, there's a good chance that you're reading this because I referred you to this page. I don't say this to discourage you, or because I'm uninterested in your application---please apply! I wrote this advice page to help you: it summarizes the advice that I used to discuss with applicants individually, and I keep it up-to-date. If your application is shortlisted, we will get a chance to talk during the interview process, and additional opportunities if your application is progressed further.
 
 ### How to apply
 
