@@ -24,7 +24,7 @@ I have advised some immensely talented PhD students:
 - [Kate McCurdy](https://kmccurdy.github.io/) ([2024](https://era.ed.ac.uk/handle/1842/41429))
 - [Seraphina Goldfarb-Tarrant](https://seraphinatarrant.github.io/) ([2024](https://era.ed.ac.uk/handle/1842/41857))
 - [Andreas Grivas](https://grv.unargmaxable.ai/) ([2024](https://era.ed.ac.uk/handle/1842/42931))
-- [Katarzyna Pruś](https://www.linkedin.com/in/katarzyna-pru%C5%9B-6bb609107/) (2026)
+- [Katarzyna Pruś-Toner](https://www.linkedin.com/in/katarzynaprus/) (2026)
 </div>
 
 If you are interested in joining my research team, please read my [advice for prospective team members](/prospective/) before [emailing me](/email/).
