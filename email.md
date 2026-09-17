@@ -8,10 +8,14 @@ what to expect (if you have).
 
 tl;dr
 : 
+  - Do not send me an email generated from an LLM.
   - To discuss (hiring me for) research, email <nlpresearch.eloquent365@passfwd.com>.
   - To discuss teaching, admin, or other university business, email <alopez@ed.ac.uk>.
   - To ask for a reference for someone who has worked with me, email <alopez@ed.ac.uk>
   - I don't have bandwidth to answer emails asking for jobs or studentships, or about university business that doesn't involve me.
+
+First things first: if you can't be bothered to write it, I can't be bothered to read it.
+: Do not send me an email written or polished by an LLM. [It's rude](https://nsaphra.net/post/uncanny/). I've read all kinds of text written by many different human authors, and I am always happy to read something written in a person's authentic voice. Especially students! 
 
 Do you have a specific question related to my published research? 
 : Email <nlpresearch.eloquent365@passfwd.com>, and please also email my coauthors, who
