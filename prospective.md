@@ -12,7 +12,7 @@ I've worked in natural language processing (NLP) for a quarter of century. For m
 Thanks to large language models, NLP is now being applied recklessly at scale to every imaginable human activity, creating a situation where both its production and application are causing immense harm. In this environment, what's most urgently needed are social, historical, and ethical perspectives on NLP, automation, labour, media, supply chains, and the environment. Some questions that I'm interested in include:
 
 - How do sociotechnical systems that incorporate NLP account for its unreliability? 
-- What does the use of NLP systems alter social and power relationships?
+- How does the use of NLP systems alter social and power relationships?
 - What are the risks of automation and how do we assess them? 
 - How do the futures envisioned by early NLP researchers relate to current reality? 
 - How do we account for the climate impact of NLP systems?
