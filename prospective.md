@@ -5,7 +5,6 @@ layout: default
 
 {{ toc }}
 
-## Please read this before emailing me
 Interest in NLP is higher than ever. As a result, I'm not able to respond personally to every prospective student who wants to work with me, and I have no capacity to meet with prospective students. In fact, there's a good chance that you're reading this because I referred you to this page. I don't say this to discourage you, or because I'm uninterested in your application---if what you read below sounds interesting, please do apply. I wrote this advice page to help you: it summarizes the advice that I used to discuss with applicants individually, and I keep it up-to-date. If your application is shortlisted, we will get a chance to talk during the interview process, and additional opportunities if your application is progressed further.
 
 ## Research topics
