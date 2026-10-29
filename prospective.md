@@ -6,9 +6,7 @@ layout: default
 {{ toc }}
 
 ## Please read this before emailing me
-Interest in NLP is higher than ever. As a result, I'm not able to respond personally to every prospective student who wants to work with me, and I have no capacity to meet with prospective students. In fact, there's a good chance that you're reading this because I referred you to this page. I don't say this to discourage you, or because I'm uninterested in your application---if what you read below sounds interesting, please apply! I wrote this advice page to help you: it summarizes the advice that I used to discuss with applicants individually, and I keep it up-to-date. If your application is shortlisted, we will get a chance to talk during the interview process, and additional opportunities if your application is progressed further.
-
-I've read all kinds of text written by many different human authors, and I am always happy to read something written in a person's authentic voice. Especially students! So if you do email me, please **do not include text written or polished by an LLM**. [It's rude](https://nsaphra.net/post/uncanny/).
+Interest in NLP is higher than ever. As a result, I'm not able to respond personally to every prospective student who wants to work with me, and I have no capacity to meet with prospective students. In fact, there's a good chance that you're reading this because I referred you to this page. I don't say this to discourage you, or because I'm uninterested in your application---if what you read below sounds interesting, please do apply. I wrote this advice page to help you: it summarizes the advice that I used to discuss with applicants individually, and I keep it up-to-date. If your application is shortlisted, we will get a chance to talk during the interview process, and additional opportunities if your application is progressed further.
 
 ## Research topics
 
@@ -17,8 +15,8 @@ I've worked in natural language processing (NLP) for a quarter of century. For m
 Thanks to large language models, NLP is now being applied recklessly at scale to every imaginable human activity, creating a situation where both its production and application are causing immense harm. In this environment, what's most urgently needed are social, historical, and ethical perspectives on NLP, automation, labour, media, supply chains, and the environment. Some questions that I'm interested in include:
 
 - How do sociotechnical systems that incorporate NLP account for its unreliability? 
-- How does the use of NLP systems alter social and power relationships?
-- What are the risks of automation and how do we assess them? 
+- How does the use of NLP systems alter social relationships?
+- What are the risks of automation using NLP and how do we assess them? 
 - How do the futures envisioned by early NLP researchers relate to current reality? 
 - How do we account for the climate impact of NLP systems?
 - What, if any, meaningful ways can NLP, machine learning, and data science contribute to understanding and mitigating the climate crisis?
@@ -84,3 +82,6 @@ If you are an MSc, MInf, or undergraduate student, the most likely way for us to
 
 ## Prospective Postdocs
 I do not currently have any openings for postdocs. You are welcome to contact me if you expect to be looking for a postdoc in the future. It's a good idea to do this half a year or even a year in advance, since it often takes time (and luck) to find funding. We may be able to work something out in less time, but there are few guarantees in research funding.
+
+# Emailing me
+If you've read the above advice and you have a question about anything that isn't answered there, by all means [email me](email). You should know that I've all kinds of text written by many different human authors, and I am always happy to read something written in a person's authentic voice. Especially if that person is a student! So if you do email me, please **do not include text written or polished by an LLM**, which erases the thing about you that I'm most interested in. [It's rude](https://nsaphra.net/post/uncanny/).
