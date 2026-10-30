@@ -25,6 +25,8 @@ I have advised some immensely talented PhD students:
 - [Seraphina Goldfarb-Tarrant](https://seraphinatarrant.github.io/) ([2024](https://era.ed.ac.uk/handle/1842/41857))
 - [Andreas Grivas](https://grv.unargmaxable.ai/) ([2024](https://era.ed.ac.uk/handle/1842/42931))
 - [Katarzyna Pruś-Toner](https://www.linkedin.com/in/katarzynaprus/) (2026)
+- [Bríd-Áine Parnell](https://bridaineparnell.github.io)
+- [Joshua Tint](https://jtint24.github.io)
 </div>
 
 If you are interested in joining my research team, please read my [advice for prospective team members](/prospective/) before [emailing me](/email/).
