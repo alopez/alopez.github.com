@@ -1,12 +1,17 @@
 ---
 layout: default
 ---
-I am a researcher in natural language processing. My interests are broad, 
-and I have worked on many scientific, mathematical,
-and engineering problems related to NLP. 
-Most of my research papers can be found on 
+I am a researcher interested in the social and environmental impact of technology. My training is in computer science,
+and for over two decades I worked in natural language processing, where I pursued a broad range
+of questions at the intersection of computer science, linguistics, mathematics, cognitive science, and social science.
+Most of my past research can be found on 
 the [ACL Anthology](https://www.aclweb.org/anthology/people/a/adam-lopez/)
 and/ or [Google Scholar](https://scholar.google.com/citations?hl=en&user=7KdAmbUAAAAJ&view_op=list_works&sortby=pubdate).
+
+Thanks to large language models, NLP is now being applied recklessly at scale to every imaginable human activity, 
+creating a situation where both its production and application are causing immense harm. 
+In this environment, what’s most urgently needed are social, historical, and ethical perspectives on NLP, automation, labour, media, supply chains, and the environment. 
+If you are working in these areas and would find it helpful to talk to or collaborate with someone with my background, please [get in touch](/email/)!
 
 I have held roles in both academia and industry, as an engineer, scientist, lecturer, and as director of artificial intelligence at a startup.
 I am currently an academic at the University of Edinburgh.
