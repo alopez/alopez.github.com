@@ -4,7 +4,7 @@ layout: default
 I am a researcher interested in the social and environmental impact of technology. My training is in computer science,
 and for over two decades I worked in natural language processing, where I pursued a broad range
 of questions at the intersection of computer science, linguistics, mathematics, cognitive science, and social science.
-Most of my past research can be found on 
+In short, my interests are interdisciplinary. Most of my past research can be found on 
 the [ACL Anthology](https://www.aclweb.org/anthology/people/a/adam-lopez/)
 and/ or [Google Scholar](https://scholar.google.com/citations?hl=en&user=7KdAmbUAAAAJ&view_op=list_works&sortby=pubdate).
 
