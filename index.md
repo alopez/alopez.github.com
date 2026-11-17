@@ -19,7 +19,7 @@ I have advised some immensely talented PhD students:
 
 <div class="students">
 - [Michael Auli](https://michaelauli.github.io/) ([2012](https://era.ed.ac.uk/handle/1842/7636))
-- [Federico Clark-Fancellu](https://www.linkedin.com/in/federico-clark-fancellu-31405b2b) ([2018](https://era.ed.ac.uk/handle/1842/33038))
+- [Federico Fancellu](https://www.linkedin.com/in/federico-fancellu-31405b2b/) ([2018](https://era.ed.ac.uk/handle/1842/33038))
 - [Sorcha Gilroy](https://uk.linkedin.com/in/sorcha-gilroy-a6105693) ([2019](https://era.ed.ac.uk/handle/1842/35606))
 - [Nikolay Bogoychev](https://www.linkedin.com/in/nikolay-bogoychev-01831023/) ([2019](https://era.ed.ac.uk/handle/1842/35886))
 - [Clara Vania](https://claravania.github.io/) ([2019](https://era.ed.ac.uk/handle/1842/36742))
