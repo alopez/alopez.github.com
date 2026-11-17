@@ -3,9 +3,9 @@ layout: default
 ---
 # Advice for prospective team members
 
-{{ toc }}
-
 Interest in NLP is higher than ever. As a result, I'm not able to respond personally to every prospective student who wants to work with me, and I have no capacity to meet with prospective students. In fact, there's a good chance that you're reading this because I referred you to this page. I don't say this to discourage you, or because I'm uninterested in your application---if what you read below sounds interesting, please do apply. I wrote this advice page to help you: it summarizes the advice that I used to discuss with applicants individually, and I keep it up-to-date. If your application is shortlisted, we will get a chance to talk during the interview process, and additional opportunities if your application is progressed further.
+
+{{ content | toc }}
 
 ## Research topics
 
@@ -22,13 +22,13 @@ Thanks to large language models, NLP is now being applied recklessly at scale to
 
 **Caveat**: Although I'm broadly interested in many of the questions above, there are some frames that I'm _not_ interested in. In particular, I do not accept speculative framings of NLP systems as having intent or "intelligence" (the idea of measuring intelligence originates in eugenics). They are not harbingers of AGI, superintelligence, recursive self-improvement, or similar fantasies (which originate in communities rooted in eugenics). They are much more meaningfully understood as [social and cultural technologies](https://www.science.org/doi/10.1126/science.adt9819). It follows, then, that they can't deliberately manipulate or lie to people. But they they can certainly harm people, for example via uses that disempower workers, obfuscate power relationships, reinforce misinformation, or encourage suicidal beliefs. I hate having to include this disclaimer, but I've received emails from prospective students who want to study topics like how LLMs intentionally deceive people. I must be clear up front that I refuse to advise on a topic like this, which starts from an assumption of intent or intelligence in LLMs.
 
-In the past, my students and I have worked on a wide range of topics related to NLP, including scientific, mathematical, engineering, and ethical problems. [My published papers](https://scholar.google.com/citations?user=7KdAmbUAAAAJ&sortby=pubdate) should give you an idea about the breadth of topics. I am happy to discuss these with you if they can be related to one or more of the above questions. However, I am unlikely to advise students who want to focus on computational and mathematical topics without engaging deeply with their social context.
+In the past, my students and I have worked on a wide range of topics related to NLP, including scientific, mathematical, engineering, and ethical problems. [My published papers](https://scholar.google.com/citations?user=7KdAmbUAAAAJ&sortby=pubdate) should give you an idea about the breadth of topics. I am happy to discuss these with you if---and only if---they can be related to one or more of the above questions. I will not be a good advisor for students who want to focus on computational and mathematical topics that are abstracted from their social context.
 
 If you're interested in NLP, but not these topics, you may want to contact other members of [EdinburghNLP](http://edinburghnlp.inf.ed.ac.uk/index.php/people/) or browse [PhD topics](http://www.ilcc.inf.ed.ac.uk/study/possible-phd-topics-in-ilcc) they have proposed. If you aren't genuinely interested in the problems that machine learning is applied to (language, climate science, or other domains), then I will not be a good supervisor for you, and you should contact a different supervisor in the [School of Informatics](http://www.ed.ac.uk/informatics/).
 
 ## Prospective PhD students
 
-I am looking for PhD students to work on the above topics starting in September 2027. I generally expect to advise students with an engaged second supervisor or co-supervisor, ideally in a different department. It's great if you have an idea about other academics you are interested in working with. But it's ok if you don't; I might be able to recommend someone. Either way, I'm looking for students who are willing to work in an interdisciplinary environment.
+I am looking for PhD students to work on the above topics starting in September 2027. I am unable to consider other start dates. I generally expect to advise students with an engaged second supervisor or co-supervisor, ideally in a different department. It's great if you have an idea about other academics you are interested in working with. But it's ok if you don't; I might be able to recommend someone. Either way, I'm looking for students who are willing to work in an interdisciplinary environment and to consider a wide variety of perspectives and ways of understanding problems.
 
 ### How to apply
 
@@ -47,7 +47,7 @@ You can name multiple potential supervisors on your application. This is general
 
 ### General advice on the research proposal
 
-For some programmes (but not the CDT), you must write a research proposal. The School of Informatics advises you to contact prospective supervisors prior to applying, to discuss the topic of your proposal. Unfortunately, **I cannot advise you on your research proposal** due to the sheer number of applicants interested in natural language processing. But if you name me as a potential supervisor, then your application will then be routed to me and I will read your proposal during the normal admissions cycle, which takes place in first few months of the calendar year.
+For some programmes (but not the CDT), you must write a research proposal. The School of Informatics advises you to contact prospective supervisors prior to applying, to discuss the topic of your proposal. Unfortunately, **I cannot advise you on your research proposal** due to the sheer number of applicants interested in natural language processing. But if you name me as a potential supervisor, then your application will then be routed to me and I will read your proposal during the normal admissions cycle, which takes place in the early months of the calendar year.
 
 Some applicants stress over the research proposal because they worry that they need to commit to a four-year plan before even starting the PhD. Don't worry about this: **your research proposal is not a contract**. I realize that your interests will change over the course of a PhD, and even between the time of the application and your first day of a PhD program.
 
