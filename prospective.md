@@ -13,7 +13,7 @@ Thanks to large language models, NLP is now being applied recklessly at scale to
 
 - How do sociotechnical systems that incorporate NLP account for its unreliability? 
 - How does the use of NLP systems alter social relationships?
-- What are the risks of automation using NLP and how do we assess them in ways that account for the concerns of everyone that they affect? 
+- What are the risks of using NLP systems and how do we assess them in ways that account for the concerns of everyone that they affect? 
 - How do the futures envisioned by early NLP researchers relate to current reality? 
 - How do we account for the climate impact of NLP systems?
 - Are there _meaningful_ ways that NLP, machine learning, and data science support our understanding of the climate crisis, while avoiding the many, many [pitfalls of “AI for Good”](https://www.benzevgreen.com/wp-content/uploads/2019/11/19-ai4sg.pdf) that plague many other applications of these technologies?
